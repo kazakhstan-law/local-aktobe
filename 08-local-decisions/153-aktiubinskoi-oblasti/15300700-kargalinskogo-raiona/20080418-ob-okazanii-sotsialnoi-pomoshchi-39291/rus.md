@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/39291/rus/18.04.2008
+source: https://zan.gov.kz/client/#!/doc/39291/rus/29.07.2008
 ---
 
 # Об оказании социальной помощи

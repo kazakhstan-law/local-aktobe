@@ -1,5 +1,5 @@
 ---
-version_id: '39291_204150'
+version_id: '39291_204163'
 act_code: '39291'
 language: kaz
 title: Әлеуметтік көмек көрсету туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2008-04-18
-version_date: 2008-04-18
+version_date: 2008-07-29
 registry_number: '39291'
-source: https://zan.gov.kz/client/#!/doc/39291/kaz/18.04.2008
+caused_by:
+  code: '41259'
+  title: Қарғалы аудандық әділет басқармасында 2008 жылғы 28 сәуірде N 3-6-65 болып тіркелген аудандық мәслихаттың 2008 жылғы 18 сәуірдегі "Әлеуметтік көмек көрсету туралы" N 61 шешіміне толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/41259/kaz
+source: https://zan.gov.kz/client/#!/doc/39291/kaz/29.07.2008
 ---
 
 # Әлеуметтік көмек көрсету туралы

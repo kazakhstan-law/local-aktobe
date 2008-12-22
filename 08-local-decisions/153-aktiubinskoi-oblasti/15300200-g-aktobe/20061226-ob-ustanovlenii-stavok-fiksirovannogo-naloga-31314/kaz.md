@@ -1,5 +1,5 @@
 ---
-version_id: '31314_213108'
+version_id: '31314_213121'
 act_code: '31314'
 language: kaz
 title: Тіркелген салықтың ставкаларын бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2006-12-26
-version_date: 2006-12-26
+version_date: 2008-12-22
 registry_number: '31314'
-source: https://zan.gov.kz/client/#!/doc/31314/kaz/26.12.2006
+caused_by:
+  code: '43689'
+  title: 2006 жылғы 26 желтоқсандағы № 303 «Тіркелген жиынтық салық мөлшерін белгілеу туралы» шешіміне өзгертулер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/43689/kaz
+source: https://zan.gov.kz/client/#!/doc/31314/kaz
 ---
 
 # Тіркелген салықтың ставкаларын бекіту туралы

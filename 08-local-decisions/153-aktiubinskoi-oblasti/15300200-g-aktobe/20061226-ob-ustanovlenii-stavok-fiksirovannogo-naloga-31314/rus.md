@@ -1,5 +1,5 @@
 ---
-version_id: '31314_213109'
+version_id: '31314_213122'
 act_code: '31314'
 language: rus
 title: Об установлении ставок фиксированного налога
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2006-12-26
-version_date: 2006-12-26
+version_date: 2008-12-22
 registry_number: '31314'
-source: https://zan.gov.kz/client/#!/doc/31314/rus/26.12.2006
+caused_by:
+  code: '43689'
+  title: О внесении изменений в решение маслихата города Актобе от 26 декабря 2006 года № 303 "Об установлении ставок фиксированного суммарного налога"
+  link: https://zan.gov.kz/client/#!/doc/43689/rus
+source: https://zan.gov.kz/client/#!/doc/31314/rus
 ---
 
 # Об установлении ставок фиксированного налога

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/31314/kaz/26.12.2006
+source: https://zan.gov.kz/client/#!/doc/31314/kaz/22.12.2008
 ---
 
 # Тіркелген салықтың ставкаларын бекіту туралы

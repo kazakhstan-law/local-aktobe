@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/31314/rus/26.12.2006
+source: https://zan.gov.kz/client/#!/doc/31314/rus/22.12.2008
 ---
 
 # Об установлении ставок фиксированного налога

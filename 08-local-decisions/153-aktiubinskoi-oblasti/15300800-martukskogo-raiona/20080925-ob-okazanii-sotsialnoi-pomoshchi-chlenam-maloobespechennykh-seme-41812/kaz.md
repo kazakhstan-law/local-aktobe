@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/41812/kaz/25.09.2008
+source: https://zan.gov.kz/client/#!/doc/41812/kaz/19.02.2009
 ---
 
 # Аз қамтылған отбасы мүшелеріне әлеуметтік көмек көрсету туралы

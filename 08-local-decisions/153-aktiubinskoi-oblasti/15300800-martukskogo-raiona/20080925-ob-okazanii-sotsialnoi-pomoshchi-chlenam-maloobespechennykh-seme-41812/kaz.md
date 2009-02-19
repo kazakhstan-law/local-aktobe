@@ -1,5 +1,5 @@
 ---
-version_id: '41812_182218'
+version_id: '41812_277375'
 act_code: '41812'
 language: kaz
 title: Аз қамтылған отбасы мүшелеріне әлеуметтік көмек көрсету туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2008-09-25
-version_date: 2008-09-25
+version_date: 2009-02-19
 registry_number: '41812'
-source: https://zan.gov.kz/client/#!/doc/41812/kaz/25.09.2008
+caused_by:
+  code: '44947'
+  title: Аудандық мәслихаттың 2008 жылғы 25 қыркүйектегі N 61 "Аз қамтылған отбасы мүшелеріне әлеуметтік көмек көрсету туралы" шешіміне өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/44947/kaz
+source: https://zan.gov.kz/client/#!/doc/41812/kaz/19.02.2009
 ---
 
 # Аз қамтылған отбасы мүшелеріне әлеуметтік көмек көрсету туралы

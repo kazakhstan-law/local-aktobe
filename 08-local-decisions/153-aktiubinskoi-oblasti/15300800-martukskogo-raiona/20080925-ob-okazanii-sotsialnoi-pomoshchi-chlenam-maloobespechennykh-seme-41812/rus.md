@@ -1,5 +1,5 @@
 ---
-version_id: '41812_182219'
+version_id: '41812_182232'
 act_code: '41812'
 language: rus
 title: Об оказании социальной помощи членам малообеспеченных семей
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2008-09-25
-version_date: 2008-09-25
+version_date: 2009-03-27
 registry_number: '41812'
-source: https://zan.gov.kz/client/#!/doc/41812/rus/25.09.2008
+caused_by:
+  code: '44947'
+  title: О внесении изменения в решение районного маслихата от 25 сентября 2008 года N 61 "Об оказании социальной помощи членам малообеспеченных семей"
+  link: https://zan.gov.kz/client/#!/doc/44947/rus
+source: https://zan.gov.kz/client/#!/doc/41812/rus/27.03.2009
 ---
 
 # Об оказании социальной помощи членам малообеспеченных семей

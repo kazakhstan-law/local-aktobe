@@ -1,5 +1,5 @@
 ---
-version_id: AI44948_1
+version_id: '44948_277577'
 act_code: '44948'
 language: rus
 title: Об оказании социальной помощи пенсионерам, получающим минимальную и ниже минимальной пенсии
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2009-02-19
-version_date: 2009-02-19
+version_date: 2009-03-27
 registry_number: '44948'
-source: https://zan.gov.kz/client/#!/doc/44948/rus/19.02.2009
+caused_by:
+  code: '45423'
+  title: О внесении дополнения в решения районного маслихата
+  link: https://zan.gov.kz/client/#!/doc/45423/rus
+source: https://zan.gov.kz/client/#!/doc/44948/rus
 ---
 
 # Об оказании социальной помощи пенсионерам, получающим минимальную и ниже минимальной пенсии

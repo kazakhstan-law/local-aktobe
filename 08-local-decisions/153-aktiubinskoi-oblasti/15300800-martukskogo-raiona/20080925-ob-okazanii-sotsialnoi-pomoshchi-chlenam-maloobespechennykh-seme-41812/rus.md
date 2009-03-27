@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/41812/rus/25.09.2008
+source: https://zan.gov.kz/client/#!/doc/41812/rus/27.03.2009
 ---
 
 # Об оказании социальной помощи членам малообеспеченных семей

@@ -1,5 +1,5 @@
 ---
-version_id: '44350_173490'
+version_id: '44350_173498'
 act_code: '44350'
 language: kaz
 title: Тіркелген салық мөлшерлемелерінің мөлшерін белгілеу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153003000002'
 approval_date: 2009-01-29
-version_date: 2009-01-29
+version_date: 2009-04-21
 registry_number: '44350'
-source: https://zan.gov.kz/client/#!/doc/44350/kaz/29.01.2009
+caused_by:
+  code: '45631'
+  title: Аудандық мәслихаттың 2009 жылғы 29 қаңтардағы N 98 "Тіркелген салық ставкаларының мөлшерін белгілеу туралы" шешіміне өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/45631/kaz
+source: https://zan.gov.kz/client/#!/doc/44350/kaz/21.04.2009
 ---
 
 # Тіркелген салық ставкаларының мөлшерін белгілеу туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/44350/kaz/29.01.2009
+source: https://zan.gov.kz/client/#!/doc/44350/kaz/21.04.2009
 ---
 
 # Тіркелген салық ставкаларының мөлшерін белгілеу туралы

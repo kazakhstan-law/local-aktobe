@@ -1,5 +1,5 @@
 ---
-version_id: '39291_204164'
+version_id: '39291_204320'
 act_code: '39291'
 language: rus
 title: Об оказании социальной помощи
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2008-04-18
-version_date: 2008-07-29
+version_date: 2009-04-24
 registry_number: '39291'
 caused_by:
-  code: '41259'
-  title: О внесении дополнений в решение районного маслихата N 61 "Об оказании социальной помощи" от 18.04.2008 года, зарегистрированное в Управлении юстиции Каргалинского района N 3-6-65 от 28.04.2008 года
-  link: https://zan.gov.kz/client/#!/doc/41259/rus
-source: https://zan.gov.kz/client/#!/doc/39291/rus/29.07.2008
+  code: '45843'
+  title: О внесении изменений в решение районного маслихата от 18 апреля 2008 года № 61 "Об оказании социальной помощи"
+  link: https://zan.gov.kz/client/#!/doc/45843/rus
+source: https://zan.gov.kz/client/#!/doc/39291/rus/24.04.2009
 ---
 
 # Об оказании социальной помощи

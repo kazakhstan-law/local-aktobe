@@ -1,5 +1,5 @@
 ---
-version_id: '44401_208831'
+version_id: '44401_208844'
 act_code: '44401'
 language: kaz
 title: Әлеуметтік көмек көрсету туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2009-01-29
-version_date: 2009-01-29
+version_date: 2009-07-22
 registry_number: '44401'
-source: https://zan.gov.kz/client/#!/doc/44401/kaz/29.01.2009
+caused_by:
+  code: '47235'
+  title: '"Әлеуметтік көмек көрсету туралы" 2009 жылғы 29 қаңтардағы N 129 шешіміне өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/47235/kaz
+source: https://zan.gov.kz/client/#!/doc/44401/kaz/22.07.2009
 ---
 
 # Әлеуметтік көмек көрсету туралы

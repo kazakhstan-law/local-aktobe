@@ -1,5 +1,5 @@
 ---
-version_id: '44401_208832'
+version_id: '44401_208845'
 act_code: '44401'
 language: rus
 title: Об оказании социальной помощи
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2009-01-29
-version_date: 2009-01-29
+version_date: 2009-07-22
 registry_number: '44401'
-source: https://zan.gov.kz/client/#!/doc/44401/rus/29.01.2009
+caused_by:
+  code: '47235'
+  title: О внесении изменений и дополнений в решение № 129 от 29 января 2009 года "Об оказании социальной помощи"
+  link: https://zan.gov.kz/client/#!/doc/47235/rus
+source: https://zan.gov.kz/client/#!/doc/44401/rus/22.07.2009
 ---
 
 # Об оказании социальной помощи

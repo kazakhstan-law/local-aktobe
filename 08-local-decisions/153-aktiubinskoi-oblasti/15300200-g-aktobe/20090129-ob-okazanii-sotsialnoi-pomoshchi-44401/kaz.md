@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/44401/kaz/29.01.2009
+source: https://zan.gov.kz/client/#!/doc/44401/kaz/22.07.2009
 ---
 
 # Әлеуметтік көмек көрсету туралы

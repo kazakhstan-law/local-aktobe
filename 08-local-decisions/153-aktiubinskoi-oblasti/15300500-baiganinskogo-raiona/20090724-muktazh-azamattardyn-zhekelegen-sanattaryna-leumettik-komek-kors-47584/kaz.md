@@ -1,5 +1,5 @@
 ---
-version_id: '47584_206539'
+version_id: '47584_206542'
 act_code: '47584'
 language: kaz
 title: Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек көрсету туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153005000002'
 approval_date: 2009-07-24
-version_date: 2009-07-24
+version_date: 2009-12-25
 registry_number: '47584'
-source: https://zan.gov.kz/client/#!/doc/47584/kaz/24.07.2009
+caused_by:
+  code: '49934'
+  title: 2009 жылғы 24 шілдедегі № 101 "Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек көрсету туралы" шешіміне өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/49934/kaz
+source: https://zan.gov.kz/client/#!/doc/47584/kaz/25.12.2009
 ---
 
 # Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек көрсету туралы

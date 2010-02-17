@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50128/rus/24.12.2009
+source: https://zan.gov.kz/client/#!/doc/50128/rus/17.02.2010
 ---
 
 # О бюджете города Актобе на 2010-2012 годы

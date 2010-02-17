@@ -1,5 +1,5 @@
 ---
-version_id: '50087_215255'
+version_id: '50087_215572'
 act_code: '50087'
 language: kaz
 title: 2010-2012 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153014000002'
 approval_date: 2009-12-28
-version_date: 2009-12-28
+version_date: 2010-02-17
 registry_number: '50087'
-source: https://zan.gov.kz/client/#!/doc/50087/kaz/28.12.2009
+caused_by:
+  code: '51111'
+  title: 2009 жылғы 28 желтоқсандағы N 160 "2010-2012 жылдарға арналған аудан бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/51111/kaz
+source: https://zan.gov.kz/client/#!/doc/50087/kaz/17.02.2010
 ---
 
 # 2010-2012 жылдарға арналған аудандық бюджет туралы

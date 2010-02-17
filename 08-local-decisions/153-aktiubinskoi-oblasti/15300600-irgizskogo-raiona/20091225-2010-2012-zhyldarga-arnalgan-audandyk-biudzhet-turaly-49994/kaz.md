@@ -1,5 +1,5 @@
 ---
-version_id: '49994_216850'
+version_id: '49994_216889'
 act_code: '49994'
 language: kaz
 title: 2010-2012 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153006000001'
 approval_date: 2009-12-25
-version_date: 2009-12-25
+version_date: 2010-02-17
 registry_number: '49994'
-source: https://zan.gov.kz/client/#!/doc/49994/kaz/25.12.2009
+caused_by:
+  code: '51163'
+  title: Аудандық мәслихаттың 2009 жылғы 25 желтоқсандағы № 105 "2010-2012 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/51163/kaz
+source: https://zan.gov.kz/client/#!/doc/49994/kaz/17.02.2010
 ---
 
 # 2010-2012 жылдарға арналған аудандық бюджет туралы

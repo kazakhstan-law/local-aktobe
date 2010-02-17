@@ -1,5 +1,5 @@
 ---
-version_id: '50128_216043'
+version_id: '50128_216050'
 act_code: '50128'
 language: rus
 title: О бюджете города Актобе на 2010-2012 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2009-12-24
-version_date: 2009-12-24
+version_date: 2010-02-17
 registry_number: '50128'
-source: https://zan.gov.kz/client/#!/doc/50128/rus/24.12.2009
+caused_by:
+  code: '51057'
+  title: О внесении изменений и дополнений в решение от 24 декабря 2009 года № 211 "О бюджете города Актобе на 2010-2012 годы"
+  link: https://zan.gov.kz/client/#!/doc/51057/rus
+source: https://zan.gov.kz/client/#!/doc/50128/rus/17.02.2010
 ---
 
 # О бюджете города Актобе на 2010-2012 годы

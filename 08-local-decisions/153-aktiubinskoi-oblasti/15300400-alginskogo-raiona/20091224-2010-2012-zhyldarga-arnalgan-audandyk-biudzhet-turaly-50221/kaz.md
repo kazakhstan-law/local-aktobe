@@ -1,5 +1,5 @@
 ---
-version_id: '50221_217478'
+version_id: '50221_217490'
 act_code: '50221'
 language: kaz
 title: 2010-2012 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2009-12-24
-version_date: 2009-12-24
+version_date: 2010-02-22
 registry_number: '50221'
-source: https://zan.gov.kz/client/#!/doc/50221/kaz/24.12.2009
+caused_by:
+  code: '51296'
+  title: Аудандық мәслихаттың 2009 жылғы 24 желтоқсандағы № 3 "2010-2012 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/51296/kaz
+source: https://zan.gov.kz/client/#!/doc/50221/kaz/22.02.2010
 ---
 
 # 2010-2012 жылдарға арналған аудандық бюджет туралы

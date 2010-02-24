@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50370/kaz/25.12.2009
+source: https://zan.gov.kz/client/#!/doc/50370/kaz/24.02.2010
 ---
 
 # 2010-2012 жылдарға арналған Байғанин ауданының бюджеті туралы

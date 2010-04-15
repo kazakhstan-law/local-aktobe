@@ -1,5 +1,5 @@
 ---
-version_id: '50370_217436'
+version_id: '50370_217450'
 act_code: '50370'
 language: kaz
 title: 2010-2012 жылдарға арналған Байғанин ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153005000002'
 approval_date: 2009-12-25
-version_date: 2010-02-24
+version_date: 2010-04-15
 registry_number: '50370'
 caused_by:
-  code: '51161'
+  code: '52416'
   title: 2009 жылғы 25 желтоқсандағы № 111 "2010-2012 жылдарға арналған Байғанин ауданының бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/51161/kaz
-source: https://zan.gov.kz/client/#!/doc/50370/kaz/24.02.2010
+  link: https://zan.gov.kz/client/#!/doc/52416/kaz
+source: https://zan.gov.kz/client/#!/doc/50370/kaz/15.04.2010
 ---
 
 # 2010-2012 жылдарға арналған Байғанин ауданының бюджеті туралы

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50370/kaz/24.02.2010
+source: https://zan.gov.kz/client/#!/doc/50370/kaz/15.04.2010
 ---
 
 > *Байғанин аудандық мәслихатының*  

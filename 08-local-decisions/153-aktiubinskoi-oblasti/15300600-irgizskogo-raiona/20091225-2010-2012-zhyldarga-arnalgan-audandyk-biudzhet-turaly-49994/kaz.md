@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49994/kaz/15.04.2010
+source: https://zan.gov.kz/client/#!/doc/49994/kaz/23.07.2010
 ---
 
 # 2010-2012 жылдарға арналған аудандық бюджет туралы

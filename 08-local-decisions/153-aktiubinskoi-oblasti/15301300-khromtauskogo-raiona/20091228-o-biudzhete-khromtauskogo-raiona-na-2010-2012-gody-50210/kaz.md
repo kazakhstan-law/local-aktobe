@@ -1,5 +1,5 @@
 ---
-version_id: '50210_216469'
+version_id: '50210_216808'
 act_code: '50210'
 language: kaz
 title: 2009-2012 жылдарға арналған Хромтау аудандының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153013000002'
 approval_date: 2009-12-28
-version_date: 2010-04-21
+version_date: 2010-07-26
 registry_number: '50210'
 caused_by:
-  code: '52458'
+  code: '54008'
   title: Аудандық мәслихаттың 2009 жылғы 28 желтоқсандағы "2010-2012 жылдарға арналған Хромтау ауданының бюджеті туралы" № 160 шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/52458/kaz
-source: https://zan.gov.kz/client/#!/doc/50210/kaz/21.04.2010
+  link: https://zan.gov.kz/client/#!/doc/54008/kaz
+source: https://zan.gov.kz/client/#!/doc/50210/kaz/26.07.2010
 ---
 
 # 2009-2012 жылдарға арналған Хромтау аудандының бюджеті туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50210/rus/21.04.2010
+source: https://zan.gov.kz/client/#!/doc/50210/rus/26.07.2010
 ---
 
 # О бюджете Хромтауского района на 2010-2012 годы

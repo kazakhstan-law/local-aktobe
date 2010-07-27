@@ -1,5 +1,5 @@
 ---
-version_id: '50395_215170'
+version_id: '50395_215204'
 act_code: '50395'
 language: rus
 title: О бюджете Каргалинского района на 2010-2012 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2009-12-24
-version_date: 2010-04-21
+version_date: 2010-07-27
 registry_number: '50395'
 caused_by:
-  code: '52537'
+  code: '53901'
   title: О внесении изменений и дополнений в решение районного маслихата от 24 декабря 2009 года № 175 "О бюджете Каргалинского района на 2010-2012 годы"
-  link: https://zan.gov.kz/client/#!/doc/52537/rus
-source: https://zan.gov.kz/client/#!/doc/50395/rus/21.04.2010
+  link: https://zan.gov.kz/client/#!/doc/53901/rus
+source: https://zan.gov.kz/client/#!/doc/50395/rus/27.07.2010
 ---
 
 # О бюджете Каргалинского района на 2010-2012 годы

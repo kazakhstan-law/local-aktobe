@@ -1,5 +1,5 @@
 ---
-version_id: '50395_215169'
+version_id: '50395_215203'
 act_code: '50395'
 language: kaz
 title: 2010-2012 жылдарға арналған Қарғалы ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2009-12-24
-version_date: 2010-04-21
+version_date: 2010-07-27
 registry_number: '50395'
 caused_by:
-  code: '52537'
+  code: '53901'
   title: Аудандық мәслихаттың 2009 жылғы 24 желтоқсандағы № 175 "Қарғалы ауданының 2010-2012 жылдарға арналған бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/52537/kaz
-source: https://zan.gov.kz/client/#!/doc/50395/kaz/21.04.2010
+  link: https://zan.gov.kz/client/#!/doc/53901/kaz
+source: https://zan.gov.kz/client/#!/doc/50395/kaz/27.07.2010
 ---
 
 # 2010-2012 жылдарға арналған Қарғалы ауданының бюджеті туралы

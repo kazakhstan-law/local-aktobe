@@ -1,5 +1,5 @@
 ---
-version_id: '50303_214515'
+version_id: '50303_214521'
 act_code: '50303'
 language: kaz
 title: 2010-2012 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153010000002'
 approval_date: 2009-12-24
-version_date: 2010-07-21
+version_date: 2010-10-22
 registry_number: '50303'
 caused_by:
-  code: '53971'
+  code: '55237'
   title: 2009 жылғы 24 желтоқсандағы № 143 "2010-2012 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/53971/kaz
-source: https://zan.gov.kz/client/#!/doc/50303/kaz/21.07.2010
+  link: https://zan.gov.kz/client/#!/doc/55237/kaz
+source: https://zan.gov.kz/client/#!/doc/50303/kaz/22.10.2010
 ---
 
 # 2010-2012 жылдарға арналған аудандық бюджет туралы

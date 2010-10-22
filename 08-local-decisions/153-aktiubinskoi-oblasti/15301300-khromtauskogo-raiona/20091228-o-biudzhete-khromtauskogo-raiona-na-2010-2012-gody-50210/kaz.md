@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50210/kaz/26.07.2010
+source: https://zan.gov.kz/client/#!/doc/50210/kaz/22.10.2010
 ---
 
 # 2009-2012 жылдарға арналған Хромтау аудандының бюджеті туралы

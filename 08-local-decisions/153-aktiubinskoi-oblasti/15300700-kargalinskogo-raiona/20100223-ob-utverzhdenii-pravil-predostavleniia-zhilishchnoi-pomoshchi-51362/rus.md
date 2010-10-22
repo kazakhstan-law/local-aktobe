@@ -1,5 +1,5 @@
 ---
-version_id: '51362_208019'
+version_id: '51362_208030'
 act_code: '51362'
 language: rus
 title: Об утверждении Правил предоставления жилищной помощи
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2010-02-23
-version_date: 2010-02-23
+version_date: 2010-10-22
 registry_number: '51362'
-source: https://zan.gov.kz/client/#!/doc/51362/rus/23.02.2010
+caused_by:
+  code: '55736'
+  title: О внесении изменений в решение районного маслихата от 23 февраля 2010 года № 192 "Об утверждении Правил предоставления жилищной помощи"
+  link: https://zan.gov.kz/client/#!/doc/55736/rus
+source: https://zan.gov.kz/client/#!/doc/51362/rus/22.10.2010
 ---
 
 # Об утверждении Правил предоставления жилищной помощи

@@ -1,5 +1,5 @@
 ---
-version_id: '51362_208018'
+version_id: '51362_208029'
 act_code: '51362'
 language: kaz
 title: Тұрғын үй көмегін көрсету Ережесін бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2010-02-23
-version_date: 2010-02-23
+version_date: 2010-10-22
 registry_number: '51362'
-source: https://zan.gov.kz/client/#!/doc/51362/kaz/23.02.2010
+caused_by:
+  code: '55736'
+  title: Аудандық мәслихаттың 2010 жылғы 23 ақпандағы № 192 "Тұрғын үй көмегін көрсету Ережесін бекіту туралы" шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/55736/kaz
+source: https://zan.gov.kz/client/#!/doc/51362/kaz/22.10.2010
 ---
 
 # Тұрғын үй көмегін көрсету Ережесін бекіту туралы

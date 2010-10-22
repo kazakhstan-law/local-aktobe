@@ -1,5 +1,5 @@
 ---
-version_id: '50083_215777'
+version_id: '50083_215782'
 act_code: '50083'
 language: rus
 title: О районном бюджете на 2010-2012 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153009000002'
 approval_date: 2009-12-24
-version_date: 2010-07-16
+version_date: 2010-10-22
 registry_number: '50083'
 caused_by:
-  code: '53902'
-  title: О внесении изменений и дополнений в решение районного маслихата № 159 от 24 декабря 2009 года "О районном бюджете на 2010-2012 годы"
-  link: https://zan.gov.kz/client/#!/doc/53902/rus
-source: https://zan.gov.kz/client/#!/doc/50083/rus/16.07.2010
+  code: '55172'
+  title: О внесении изменений в решение районного маслихата № 159 от 24 декабря 2009 года "О районном бюджете на 2010-2012 годы"
+  link: https://zan.gov.kz/client/#!/doc/55172/rus
+source: https://zan.gov.kz/client/#!/doc/50083/rus/22.10.2010
 ---
 
 # О районном бюджете на 2010-2012 годы

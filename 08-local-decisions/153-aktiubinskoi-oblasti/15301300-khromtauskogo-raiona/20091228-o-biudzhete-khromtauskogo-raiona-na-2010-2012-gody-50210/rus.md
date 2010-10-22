@@ -1,5 +1,5 @@
 ---
-version_id: '50210_216809'
+version_id: '50210_216818'
 act_code: '50210'
 language: rus
 title: О бюджете Хромтауского района на 2010-2012 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153013000002'
 approval_date: 2009-12-28
-version_date: 2010-07-26
+version_date: 2010-10-22
 registry_number: '50210'
 caused_by:
-  code: '54008'
+  code: '55069'
   title: О внесении изменений и дополнений в решение № 160 районного маслихата от 28 декабря 2009 года "О бюджете Хромтауского района на 2010-2012 годы"
-  link: https://zan.gov.kz/client/#!/doc/54008/rus
-source: https://zan.gov.kz/client/#!/doc/50210/rus/26.07.2010
+  link: https://zan.gov.kz/client/#!/doc/55069/rus
+source: https://zan.gov.kz/client/#!/doc/50210/rus/22.10.2010
 ---
 
 # О бюджете Хромтауского района на 2010-2012 годы

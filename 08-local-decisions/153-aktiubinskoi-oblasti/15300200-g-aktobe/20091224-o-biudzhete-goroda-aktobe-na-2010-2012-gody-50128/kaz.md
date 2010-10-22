@@ -1,5 +1,5 @@
 ---
-version_id: '50128_216058'
+version_id: '50128_216064'
 act_code: '50128'
 language: kaz
 title: 2010-2012 жылдарға арналған Ақтөбе қаласының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2009-12-24
-version_date: 2010-07-28
+version_date: 2010-10-22
 registry_number: '50128'
 caused_by:
-  code: '53903'
+  code: '55070'
   title: '"2010-2012 жылдарға арналған Ақтөбе қаласының бюджеті туралы" Ақтөбе қалалық мәслихатының 2009 жылғы 24 желтоқсандағы № 211 шешіміне өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/53903/kaz
-source: https://zan.gov.kz/client/#!/doc/50128/kaz/28.07.2010
+  link: https://zan.gov.kz/client/#!/doc/55070/kaz
+source: https://zan.gov.kz/client/#!/doc/50128/kaz/22.10.2010
 ---
 
 # 2010-2012 жылдарға арналған Ақтөбе қаласының бюджеті туралы

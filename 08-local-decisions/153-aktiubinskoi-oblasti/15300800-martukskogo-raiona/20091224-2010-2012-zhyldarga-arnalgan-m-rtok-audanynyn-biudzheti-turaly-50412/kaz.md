@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50412/kaz/27.07.2010
+source: https://zan.gov.kz/client/#!/doc/50412/kaz/27.10.2010
 ---
 
 # 2010-2012 жылдарға арналған Мәртөк ауданының бюджеті туралы

@@ -1,5 +1,5 @@
 ---
-version_id: '50412_216094'
+version_id: '50412_216102'
 act_code: '50412'
 language: kaz
 title: 2010-2012 жылдарға арналған Мәртөк ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2009-12-24
-version_date: 2010-07-27
+version_date: 2010-10-27
 registry_number: '50412'
 caused_by:
-  code: '53915'
+  code: '55114'
   title: Аудандық мәслихаттың 2009 жылғы 24 желтоқсандағы № 143 "2010-2012 жылдарға арналған Мәртөк ауданының бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/53915/kaz
-source: https://zan.gov.kz/client/#!/doc/50412/kaz/27.07.2010
+  link: https://zan.gov.kz/client/#!/doc/55114/kaz
+source: https://zan.gov.kz/client/#!/doc/50412/kaz/27.10.2010
 ---
 
 # 2010-2012 жылдарға арналған Мәртөк ауданының бюджеті туралы

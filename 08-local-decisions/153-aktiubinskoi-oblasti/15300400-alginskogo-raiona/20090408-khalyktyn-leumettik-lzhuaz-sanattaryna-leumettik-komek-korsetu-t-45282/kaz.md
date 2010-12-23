@@ -1,5 +1,5 @@
 ---
-version_id: '45282_202194'
+version_id: '45282_202201'
 act_code: '45282'
 language: kaz
 title: Халықтың әлеуметтік әлжуаз санаттарына әлеуметтік көмек көрсету туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2009-04-08
-version_date: 2009-04-08
+version_date: 2010-12-23
 registry_number: '45282'
-source: https://zan.gov.kz/client/#!/doc/45282/kaz/08.04.2009
+caused_by:
+  code: '57129'
+  title: Аудандық мәслихаттың 2009 жылғы 8 сәуірдегі № 8 "Халықтың әлеуметтік әлжуаз санаттарына әлеуметтік көмек көрсету туралы" шешіміне өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/57129/kaz
+source: https://zan.gov.kz/client/#!/doc/45282/kaz/23.12.2010
 ---
 
 # Халықтың әлеуметтік әлжуаз санаттарына әлеуметтік көмек көрсету туралы

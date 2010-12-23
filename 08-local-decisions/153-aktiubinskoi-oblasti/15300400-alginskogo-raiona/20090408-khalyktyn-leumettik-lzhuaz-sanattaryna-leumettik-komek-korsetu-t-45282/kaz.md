@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/45282/kaz/08.04.2009
+source: https://zan.gov.kz/client/#!/doc/45282/kaz/23.12.2010
 ---
 
 # Халықтың әлеуметтік әлжуаз санаттарына әлеуметтік көмек көрсету туралы

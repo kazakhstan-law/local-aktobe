@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56399/kaz/13.12.2010
+source: https://zan.gov.kz/client/#!/doc/56399/kaz/21.01.2011
 ---
 
 # 2011-2013 жылдарға арналған облыстық бюджет туралы

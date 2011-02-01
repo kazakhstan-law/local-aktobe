@@ -1,5 +1,5 @@
 ---
-version_id: '56821_196862'
+version_id: '56821_196876'
 act_code: '56821'
 language: rus
 title: О бюджете Хромтауского района на 2011-2013 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153013000002'
 approval_date: 2010-12-24
-version_date: 2010-12-24
+version_date: 2011-02-01
 registry_number: '56821'
-source: https://zan.gov.kz/client/#!/doc/56821/rus/24.12.2010
+caused_by:
+  code: '57375'
+  title: О внесении изменений и дополнений в решение № 207 районного маслихата от 24 декабря 2010 года "О бюджете Хромтауского района на 2011-2013 годы"
+  link: https://zan.gov.kz/client/#!/doc/57375/rus
+source: https://zan.gov.kz/client/#!/doc/56821/rus/01.02.2011
 ---
 
 # О бюджете Хромтауского района на 2011-2013 годы

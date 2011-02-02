@@ -1,5 +1,5 @@
 ---
-version_id: '56692_187816'
+version_id: '56692_187822'
 act_code: '56692'
 language: kaz
 title: 2011-2013 жылға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2010-12-23
-version_date: 2010-12-23
+version_date: 2011-02-02
 registry_number: '56692'
-source: https://zan.gov.kz/client/#!/doc/56692/kaz/23.12.2010
+caused_by:
+  code: '57418'
+  title: '"2011-2013 жылға арналған аудандық бюджет туралы" Алға аудандық мәслихаттың 2010 жылғы 23 желтоқсандағы № 2 шешіміне өзгерістер мен толықтырулар енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/57418/kaz
+source: https://zan.gov.kz/client/#!/doc/56692/kaz/02.02.2011
 ---
 
 # 2011-2013 жылға арналған аудандық бюджет туралы

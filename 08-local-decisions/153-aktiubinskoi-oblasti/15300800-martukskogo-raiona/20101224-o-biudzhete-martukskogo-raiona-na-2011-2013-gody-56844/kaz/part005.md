@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56844/kaz/24.12.2010
+source: https://zan.gov.kz/client/#!/doc/56844/kaz/03.02.2011
 ---
 
 > *2010 жылғы 24 желтоқсандағы № 199*  

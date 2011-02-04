@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56912/kaz/24.12.2010
+source: https://zan.gov.kz/client/#!/doc/56912/kaz/04.02.2011
 ---
 
 # 2011-2013 жылдарға арналған Қарғалы ауданының бюджеті туралы

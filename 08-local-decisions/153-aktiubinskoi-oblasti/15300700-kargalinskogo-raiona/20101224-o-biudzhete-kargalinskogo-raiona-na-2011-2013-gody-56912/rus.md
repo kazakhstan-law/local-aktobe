@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56912/rus/24.12.2010
+source: https://zan.gov.kz/client/#!/doc/56912/rus/04.02.2011
 ---
 
 # О бюджете Каргалинского района на 2011-2013 годы

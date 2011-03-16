@@ -1,5 +1,5 @@
 ---
-version_id: '56820_188148'
+version_id: '56820_188154'
 act_code: '56820'
 language: kaz
 title: 2011-2013 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153003000002'
 approval_date: 2010-12-22
-version_date: 2010-12-22
+version_date: 2011-03-16
 registry_number: '56820'
-source: https://zan.gov.kz/client/#!/doc/56820/kaz/22.12.2010
+caused_by:
+  code: '57859'
+  title: Аудандық мәслихаттың 2010 жылғы 22 желтоқсандағы қабылданған № 212 "2011-2013 жылға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/57859/kaz
+source: https://zan.gov.kz/client/#!/doc/56820/kaz/16.03.2011
 ---
 
 # 2011-2013 жылдарға арналған аудандық бюджет туралы

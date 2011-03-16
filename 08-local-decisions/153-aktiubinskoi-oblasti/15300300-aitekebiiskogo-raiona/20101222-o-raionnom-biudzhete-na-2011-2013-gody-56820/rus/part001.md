@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56820/rus/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/56820/rus/16.03.2011
 ---
 
 > *Приложение № 1 к решению № 212*  

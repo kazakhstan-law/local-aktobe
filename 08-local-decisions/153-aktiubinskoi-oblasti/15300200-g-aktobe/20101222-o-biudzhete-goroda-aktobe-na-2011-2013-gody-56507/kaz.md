@@ -1,5 +1,5 @@
 ---
-version_id: '56507_187553'
+version_id: '56507_187557'
 act_code: '56507'
 language: kaz
 title: 2011-2013 жылдарға арналған Ақтөбе қаласының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2010-12-22
-version_date: 2011-01-28
+version_date: 2011-03-26
 registry_number: '56507'
 caused_by:
-  code: '57255'
+  code: '58293'
   title: '"2011-2013 жылдарға арналған Ақтөбе қаласының бюджеті туралы" Ақтөбе қалалық мәслихатының 2010 жылғы 22 желтоқсандағы № 301 шешіміне өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/57255/kaz
-source: https://zan.gov.kz/client/#!/doc/56507/kaz/28.01.2011
+  link: https://zan.gov.kz/client/#!/doc/58293/kaz
+source: https://zan.gov.kz/client/#!/doc/56507/kaz/26.03.2011
 ---
 
 # 2011-2013 жылдарға арналған Ақтөбе қаласының бюджеті туралы

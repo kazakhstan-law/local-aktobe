@@ -1,5 +1,5 @@
 ---
-version_id: '56692_187823'
+version_id: '56692_187917'
 act_code: '56692'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2010-12-23
-version_date: 2011-02-02
+version_date: 2011-03-30
 registry_number: '56692'
 caused_by:
-  code: '57418'
+  code: '58288'
   title: О внесении изменений и дополнений в решение Алгинского районного маслихата от 23 декабря 2010 года № 2 "О районном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/57418/rus
-source: https://zan.gov.kz/client/#!/doc/56692/rus/02.02.2011
+  link: https://zan.gov.kz/client/#!/doc/58288/rus
+source: https://zan.gov.kz/client/#!/doc/56692/rus/30.03.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56844/rus/03.02.2011
+source: https://zan.gov.kz/client/#!/doc/56844/rus/30.03.2011
 ---
 
 # О бюджете Мартукского района на 2011-2013 годы

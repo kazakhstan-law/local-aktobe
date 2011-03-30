@@ -1,5 +1,5 @@
 ---
-version_id: '57034_191505'
+version_id: '57034_191525'
 act_code: '57034'
 language: kaz
 title: 2011-2013 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153010000002'
 approval_date: 2010-12-27
-version_date: 2011-02-08
+version_date: 2011-03-30
 registry_number: '57034'
 caused_by:
-  code: '57349'
+  code: '58315'
   title: 2010 жылғы 27 желтоқсандағы № 214 "2011-2013 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/57349/kaz
-source: https://zan.gov.kz/client/#!/doc/57034/kaz/08.02.2011
+  link: https://zan.gov.kz/client/#!/doc/58315/kaz
+source: https://zan.gov.kz/client/#!/doc/57034/kaz/30.03.2011
 ---
 
 # 2011-2013 жылдарға арналған аудандық бюджет туралы

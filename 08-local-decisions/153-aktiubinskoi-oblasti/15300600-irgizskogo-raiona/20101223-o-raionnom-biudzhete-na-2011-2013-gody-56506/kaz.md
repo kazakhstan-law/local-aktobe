@@ -1,5 +1,5 @@
 ---
-version_id: '56506_188487'
+version_id: '56506_188554'
 act_code: '56506'
 language: kaz
 title: 2011-2013 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153006000002'
 approval_date: 2010-12-23
-version_date: 2011-02-07
+version_date: 2011-03-31
 registry_number: '56506'
 caused_by:
-  code: '57331'
+  code: '58289'
   title: Аудандық мәслихаттың 2010 жылғы 23 желтоқсандағы № 149 "2011-2013 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/57331/kaz
-source: https://zan.gov.kz/client/#!/doc/56506/kaz/07.02.2011
+  link: https://zan.gov.kz/client/#!/doc/58289/kaz
+source: https://zan.gov.kz/client/#!/doc/56506/kaz/31.03.2011
 ---
 
 # 2011-2013 жылдарға арналған аудандық бюджет туралы

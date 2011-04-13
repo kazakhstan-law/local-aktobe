@@ -1,5 +1,5 @@
 ---
-version_id: '56399_185603'
+version_id: '56399_185630'
 act_code: '56399'
 language: kaz
 title: 2011-2013 жылдарға арналған облыстық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153000000002'
 approval_date: 2010-12-13
-version_date: 2011-03-14
+version_date: 2011-04-13
 registry_number: '56399'
 caused_by:
-  code: '57999'
+  code: '58332'
   title: Облыстық мәслихаттың 2010 жылғы 13 желтоқсандағы № 333 "2011-2013 жылдарға арналған облыстық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/57999/kaz
-source: https://zan.gov.kz/client/#!/doc/56399/kaz/14.03.2011
+  link: https://zan.gov.kz/client/#!/doc/58332/kaz
+source: https://zan.gov.kz/client/#!/doc/56399/kaz/13.04.2011
 ---
 
 # 2011-2013 жылдарға арналған облыстық бюджет туралы

@@ -1,5 +1,5 @@
 ---
-version_id: '56844_201107'
+version_id: '56844_201181'
 act_code: '56844'
 language: rus
 title: О бюджете Мартукского района на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2010-12-24
-version_date: 2011-03-30
+version_date: 2011-04-20
 registry_number: '56844'
 caused_by:
-  code: '58290'
+  code: '58768'
   title: О внесении изменений и дополнений в решение районного маслихата от 24 декабря 2010 года № 199 "О бюджете Мартукского района на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/58290/rus
-source: https://zan.gov.kz/client/#!/doc/56844/rus/30.03.2011
+  link: https://zan.gov.kz/client/#!/doc/58768/rus
+source: https://zan.gov.kz/client/#!/doc/56844/rus/20.04.2011
 ---
 
 # О бюджете Мартукского района на 2011-2013 годы

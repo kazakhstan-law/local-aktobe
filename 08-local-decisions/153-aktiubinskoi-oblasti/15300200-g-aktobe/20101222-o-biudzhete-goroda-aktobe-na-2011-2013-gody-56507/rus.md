@@ -1,5 +1,5 @@
 ---
-version_id: '56507_187558'
+version_id: '56507_187562'
 act_code: '56507'
 language: rus
 title: О бюджете города Актобе на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2010-12-22
-version_date: 2011-03-26
+version_date: 2011-04-27
 registry_number: '56507'
 caused_by:
-  code: '58293'
+  code: '58727'
   title: О внесении изменений и дополнений в решение маслихата города Актобе от 22 декабря 2010 года № 301 "О бюджете города Актобе на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/58293/rus
-source: https://zan.gov.kz/client/#!/doc/56507/rus/26.03.2011
+  link: https://zan.gov.kz/client/#!/doc/58727/rus
+source: https://zan.gov.kz/client/#!/doc/56507/rus/27.04.2011
 ---
 
 # О бюджете города Актобе на 2011-2013 годы

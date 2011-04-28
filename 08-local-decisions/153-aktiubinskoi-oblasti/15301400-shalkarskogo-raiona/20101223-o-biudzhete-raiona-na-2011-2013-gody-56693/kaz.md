@@ -1,5 +1,5 @@
 ---
-version_id: '56693_201893'
+version_id: '56693_201973'
 act_code: '56693'
 language: kaz
 title: 2011-2013 жылдарға арналған аудан бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153014000002'
 approval_date: 2010-12-23
-version_date: 2011-03-31
+version_date: 2011-04-28
 registry_number: '56693'
 caused_by:
-  code: '58123'
+  code: '58726'
   title: '"2011-2013 жылдарға арналған аудан бюджеті туралы" Шалқар аудандық мәслихатының 2010 жылғы 23 желтоқсандағы № 227 шешіміне өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/58123/kaz
-source: https://zan.gov.kz/client/#!/doc/56693/kaz/31.03.2011
+  link: https://zan.gov.kz/client/#!/doc/58726/kaz
+source: https://zan.gov.kz/client/#!/doc/56693/kaz/28.04.2011
 ---
 
 # 2011-2013 жылдарға арналған аудан бюджеті туралы

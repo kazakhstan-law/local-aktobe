@@ -1,5 +1,5 @@
 ---
-version_id: '56819_201278'
+version_id: '56819_201284'
 act_code: '56819'
 language: kaz
 title: 2011-2013 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153012000002'
 approval_date: 2010-12-24
-version_date: 2011-03-25
+version_date: 2011-04-28
 registry_number: '56819'
 caused_by:
-  code: '58258'
+  code: '58796'
   title: Аудандық мәслихаттың 2010 жылғы 24 желтоқсандағы "2011-2013 жылдарға арналған аудан бюджеті туралы" № 166 шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/58258/kaz
-source: https://zan.gov.kz/client/#!/doc/56819/kaz/25.03.2011
+  link: https://zan.gov.kz/client/#!/doc/58796/kaz
+source: https://zan.gov.kz/client/#!/doc/56819/kaz/28.04.2011
 ---
 
 # 2011-2013 жылдарға арналған аудандық бюджет туралы

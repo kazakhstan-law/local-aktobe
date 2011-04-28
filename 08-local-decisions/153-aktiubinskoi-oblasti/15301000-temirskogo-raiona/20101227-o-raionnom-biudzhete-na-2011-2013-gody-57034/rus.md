@@ -1,5 +1,5 @@
 ---
-version_id: '57034_191526'
+version_id: '57034_191544'
 act_code: '57034'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153010000002'
 approval_date: 2010-12-27
-version_date: 2011-03-30
+version_date: 2011-04-28
 registry_number: '57034'
 caused_by:
-  code: '58315'
+  code: '58801'
   title: О внесении изменений и дополнений в решение районного маслихата от 27 декабря 2010 года № 214 "О районном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/58315/rus
-source: https://zan.gov.kz/client/#!/doc/57034/rus/30.03.2011
+  link: https://zan.gov.kz/client/#!/doc/58801/rus
+source: https://zan.gov.kz/client/#!/doc/57034/rus/28.04.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

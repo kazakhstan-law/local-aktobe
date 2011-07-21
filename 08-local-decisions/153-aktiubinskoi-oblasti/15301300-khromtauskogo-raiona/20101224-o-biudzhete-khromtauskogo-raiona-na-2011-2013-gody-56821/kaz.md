@@ -1,5 +1,5 @@
 ---
-version_id: '56821_196926'
+version_id: '56821_196950'
 act_code: '56821'
 language: kaz
 title: Хромтау ауданының 2011-2013 жылдарға арналған бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153013000002'
 approval_date: 2010-12-24
-version_date: 2011-04-27
+version_date: 2011-07-21
 registry_number: '56821'
 caused_by:
-  code: '58839'
+  code: '60203'
   title: Аудандық мәслихаттың 2010 жылғы 24 желтоқсандағы "Хромтау ауданының 2011-2013 жылға арналған бюджеті туралы" № 207 шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/58839/kaz
-source: https://zan.gov.kz/client/#!/doc/56821/kaz/27.04.2011
+  link: https://zan.gov.kz/client/#!/doc/60203/kaz
+source: https://zan.gov.kz/client/#!/doc/56821/kaz/21.07.2011
 ---
 
 # Хромтау ауданының 2011-2013 жылдарға арналған бюджеті туралы

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56399/kaz/13.07.2011
+source: https://zan.gov.kz/client/#!/doc/56399/kaz/12.10.2011
 ---
 
 > *Облыстық мәслихаттың 2010 жылғы*  

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56399/rus/13.07.2011
+source: https://zan.gov.kz/client/#!/doc/56399/rus/12.10.2011
 ---
 
 # Об областном бюджете на 2011-2013 годы

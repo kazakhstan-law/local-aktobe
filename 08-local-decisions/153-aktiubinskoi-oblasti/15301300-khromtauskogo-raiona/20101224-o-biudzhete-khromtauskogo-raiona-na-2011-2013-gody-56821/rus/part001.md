@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56821/rus/21.07.2011
+source: https://zan.gov.kz/client/#!/doc/56821/rus/19.10.2011
 ---
 
 > *Приложение 1 к решению № 207*  

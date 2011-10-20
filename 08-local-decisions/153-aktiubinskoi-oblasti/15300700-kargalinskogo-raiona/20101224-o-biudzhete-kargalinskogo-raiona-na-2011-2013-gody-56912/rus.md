@@ -1,5 +1,5 @@
 ---
-version_id: '56912_189154'
+version_id: '56912_189261'
 act_code: '56912'
 language: rus
 title: О бюджете Каргалинского района на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2010-12-24
-version_date: 2011-07-26
+version_date: 2011-10-20
 registry_number: '56912'
 caused_by:
-  code: '60082'
+  code: '61144'
   title: О внесении изменений и дополнений в решение районного маслихата от 24 декабря 2010 года № 243 "О бюджете Каргалинского района на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/60082/rus
-source: https://zan.gov.kz/client/#!/doc/56912/rus/26.07.2011
+  link: https://zan.gov.kz/client/#!/doc/61144/rus
+source: https://zan.gov.kz/client/#!/doc/56912/rus/20.10.2011
 ---
 
 # О бюджете Каргалинского района на 2011-2013 годы

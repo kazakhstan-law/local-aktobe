@@ -1,5 +1,5 @@
 ---
-version_id: '56912_189153'
+version_id: '56912_189260'
 act_code: '56912'
 language: kaz
 title: 2011-2013 жылдарға арналған Қарғалы ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153007000002'
 approval_date: 2010-12-24
-version_date: 2011-07-26
+version_date: 2011-10-20
 registry_number: '56912'
 caused_by:
-  code: '60082'
+  code: '61144'
   title: Аудандық мәслихаттың 2010 жылғы 24 желтоқсандағы № 243 "2011-2013 жылдарға арналған Қарғалы ауданының бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/60082/kaz
-source: https://zan.gov.kz/client/#!/doc/56912/kaz/26.07.2011
+  link: https://zan.gov.kz/client/#!/doc/61144/kaz
+source: https://zan.gov.kz/client/#!/doc/56912/kaz/20.10.2011
 ---
 
 # 2011-2013 жылдарға арналған Қарғалы ауданының бюджеті туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56505/kaz/26.07.2011
+source: https://zan.gov.kz/client/#!/doc/56505/kaz/25.10.2011
 ---
 
 # 2011-2013 жылдарға арналған Байғанин ауданының бюджеті туралы

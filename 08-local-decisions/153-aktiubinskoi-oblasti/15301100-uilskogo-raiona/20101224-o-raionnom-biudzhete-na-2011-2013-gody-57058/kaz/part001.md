@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57058/kaz/22.07.2011
+source: https://zan.gov.kz/client/#!/doc/57058/kaz/25.10.2011
 ---
 
 > *Аудандық мәслихаттың 2010 жылғы*  

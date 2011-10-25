@@ -1,5 +1,5 @@
 ---
-version_id: '56844_201206'
+version_id: '56844_201222'
 act_code: '56844'
 language: kaz
 title: 2011-2013 жылдарға арналған Мәртөк ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2010-12-24
-version_date: 2011-07-22
+version_date: 2011-10-25
 registry_number: '56844'
 caused_by:
-  code: '60062'
+  code: '61145'
   title: Аудандық мәслихаттың 2010 жылғы 24 желтоқсандағы № 199 "2011-2013 жылдарға арналған Мәртөк ауданының бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/60062/kaz
-source: https://zan.gov.kz/client/#!/doc/56844/kaz/22.07.2011
+  link: https://zan.gov.kz/client/#!/doc/61145/kaz
+source: https://zan.gov.kz/client/#!/doc/56844/kaz/25.10.2011
 ---
 
 # 2011-2013 жылдарға арналған Мәртөк ауданының бюджеті туралы

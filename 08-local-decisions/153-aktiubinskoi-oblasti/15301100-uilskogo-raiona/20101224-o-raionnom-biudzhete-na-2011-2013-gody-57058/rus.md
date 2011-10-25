@@ -1,5 +1,5 @@
 ---
-version_id: '57058_201816'
+version_id: '57058_201826'
 act_code: '57058'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153011000002'
 approval_date: 2010-12-24
-version_date: 2011-07-22
+version_date: 2011-10-25
 registry_number: '57058'
 caused_by:
-  code: '60035'
-  title: О внесении изменений и дополнений в решение районного маслихата от 24 декабря 2010 года № 233 "О районном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/60035/rus
-source: https://zan.gov.kz/client/#!/doc/57058/rus/22.07.2011
+  code: '61172'
+  title: О внесении изменений в решение районного маслихата от 24 декабря 2010 года № 233 "О районном бюджете на 2011-2013 годы"
+  link: https://zan.gov.kz/client/#!/doc/61172/rus
+source: https://zan.gov.kz/client/#!/doc/57058/rus/25.10.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

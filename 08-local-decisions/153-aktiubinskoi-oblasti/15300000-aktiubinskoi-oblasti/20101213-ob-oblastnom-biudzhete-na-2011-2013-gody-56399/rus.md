@@ -1,5 +1,5 @@
 ---
-version_id: '56399_185671'
+version_id: '56399_185677'
 act_code: '56399'
 language: rus
 title: Об областном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153000000002'
 approval_date: 2010-12-13
-version_date: 2011-10-12
+version_date: 2011-10-31
 registry_number: '56399'
 caused_by:
-  code: '60970'
+  code: '61203'
   title: О внесении изменений и дополнений в решение областного маслихата от 13 декабря 2010 года № 333 "Об областном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/60970/rus
-source: https://zan.gov.kz/client/#!/doc/56399/rus/12.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61203/rus
+source: https://zan.gov.kz/client/#!/doc/56399/rus/31.10.2011
 ---
 
 # Об областном бюджете на 2011-2013 годы

@@ -1,5 +1,5 @@
 ---
-version_id: '57058_201825'
+version_id: '57058_201842'
 act_code: '57058'
 language: kaz
 title: 2011-2013 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153011000002'
 approval_date: 2010-12-24
-version_date: 2011-10-25
+version_date: 2011-11-08
 registry_number: '57058'
 caused_by:
-  code: '61172'
+  code: '61589'
   title: Аудандық мәслихаттың 2010 жылғы 24 желтоқсандағы № 233 "2011-2013 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/61172/kaz
-source: https://zan.gov.kz/client/#!/doc/57058/kaz/25.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61589/kaz
+source: https://zan.gov.kz/client/#!/doc/57058/kaz/08.11.2011
 ---
 
 # 2011-2013 жылдарға арналған аудандық бюджет туралы

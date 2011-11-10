@@ -1,5 +1,5 @@
 ---
-version_id: '56820_188175'
+version_id: '56820_188181'
 act_code: '56820'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153003000002'
 approval_date: 2010-12-22
-version_date: 2011-10-28
+version_date: 2011-11-10
 registry_number: '56820'
 caused_by:
-  code: '61389'
+  code: '61575'
   title: О внесении изменений в решение районного маслихата от 22 декабря 2010 года № 212 "О районном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/61389/rus
-source: https://zan.gov.kz/client/#!/doc/56820/rus/28.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61575/rus
+source: https://zan.gov.kz/client/#!/doc/56820/rus/10.11.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

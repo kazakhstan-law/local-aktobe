@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56821/kaz/19.10.2011
+source: https://zan.gov.kz/client/#!/doc/56821/kaz/10.11.2011
 ---
 
 # Хромтау ауданының 2011-2013 жылдарға арналған бюджеті туралы

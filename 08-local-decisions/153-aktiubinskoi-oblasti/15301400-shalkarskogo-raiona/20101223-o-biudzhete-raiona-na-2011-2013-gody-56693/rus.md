@@ -1,5 +1,5 @@
 ---
-version_id: '56693_202093'
+version_id: '56693_202107'
 act_code: '56693'
 language: rus
 title: О бюджете района на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153014000002'
 approval_date: 2010-12-23
-version_date: 2011-10-26
+version_date: 2011-11-10
 registry_number: '56693'
 caused_by:
-  code: '61117'
-  title: О внесении изменений и дополнений в решение Шалкарского районного маслихата от 23 декабря 2010 года № 227 "О бюджете района на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/61117/rus
-source: https://zan.gov.kz/client/#!/doc/56693/rus/26.10.2011
+  code: '61672'
+  title: О внесении изменений в решение районного маслихата от 23 декабря 2010 года № 227 "О бюджете района на 2011-2013 годы"
+  link: https://zan.gov.kz/client/#!/doc/61672/rus
+source: https://zan.gov.kz/client/#!/doc/56693/rus/10.11.2011
 ---
 
 # О бюджете района на 2011-2013 годы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56819/rus/26.10.2011
+source: https://zan.gov.kz/client/#!/doc/56819/rus/11.11.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

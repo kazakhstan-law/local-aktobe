@@ -1,5 +1,5 @@
 ---
-version_id: '56819_201293'
+version_id: '56819_201339'
 act_code: '56819'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153012000002'
 approval_date: 2010-12-24
-version_date: 2011-10-26
+version_date: 2011-11-11
 registry_number: '56819'
 caused_by:
-  code: '61048'
+  code: '61453'
   title: О внесении изменений в решение районного маслихата № 166 от 24 декабря 2010 года "О районном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/61048/rus
-source: https://zan.gov.kz/client/#!/doc/56819/rus/26.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61453/rus
+source: https://zan.gov.kz/client/#!/doc/56819/rus/11.11.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

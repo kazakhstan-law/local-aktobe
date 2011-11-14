@@ -1,5 +1,5 @@
 ---
-version_id: '56716_200727'
+version_id: '56716_200736'
 act_code: '56716'
 language: kaz
 title: 2011-2013 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153009000002'
 approval_date: 2010-12-23
-version_date: 2011-10-25
+version_date: 2011-11-14
 registry_number: '56716'
 caused_by:
-  code: '61146'
+  code: '61598'
   title: Аудандық мәслихаттың 2010 жылғы 23 желтоқсандағы № 214 "2011-2013 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/61146/kaz
-source: https://zan.gov.kz/client/#!/doc/56716/kaz/25.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61598/kaz
+source: https://zan.gov.kz/client/#!/doc/56716/kaz/14.11.2011
 ---
 
 # 2011-2013 жылдарға арналған аудандық бюджет туралы

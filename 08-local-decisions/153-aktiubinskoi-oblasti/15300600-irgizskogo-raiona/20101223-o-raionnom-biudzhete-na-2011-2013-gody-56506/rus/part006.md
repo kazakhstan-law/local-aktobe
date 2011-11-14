@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56506/rus/27.10.2011
+source: https://zan.gov.kz/client/#!/doc/56506/rus/14.11.2011
 ---
 
 > *Приложении 6 к решению районного маслихата*  

@@ -1,5 +1,5 @@
 ---
-version_id: '56506_188709'
+version_id: '56506_188719'
 act_code: '56506'
 language: rus
 title: О районном бюджете на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153006000002'
 approval_date: 2010-12-23
-version_date: 2011-10-27
+version_date: 2011-11-14
 registry_number: '56506'
 caused_by:
-  code: '61198'
-  title: О внесении изменений в решение районного маслихата от 23 декабря 2010 года № 149 "О районном бюджете на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/61198/rus
-source: https://zan.gov.kz/client/#!/doc/56506/rus/27.10.2011
+  code: '61671'
+  title: О внесении изменений и дополнений в решение районного маслихата от 23 декабря 2010 года № 149 "О районном бюджете на 2011-2013 годы"
+  link: https://zan.gov.kz/client/#!/doc/61671/rus
+source: https://zan.gov.kz/client/#!/doc/56506/rus/14.11.2011
 ---
 
 # О районном бюджете на 2011-2013 годы

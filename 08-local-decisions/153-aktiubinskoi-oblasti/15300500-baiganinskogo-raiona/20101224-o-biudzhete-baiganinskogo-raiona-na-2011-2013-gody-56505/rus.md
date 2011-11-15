@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56505/rus/25.10.2011
+source: https://zan.gov.kz/client/#!/doc/56505/rus/15.11.2011
 ---
 
 # О бюджете Байганинского района на 2011-2013 годы

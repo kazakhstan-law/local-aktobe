@@ -1,5 +1,5 @@
 ---
-version_id: '56505_188395'
+version_id: '56505_188407'
 act_code: '56505'
 language: rus
 title: О бюджете Байганинского района на 2011-2013 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153005000002'
 approval_date: 2010-12-24
-version_date: 2011-10-25
+version_date: 2011-11-15
 registry_number: '56505'
 caused_by:
-  code: '61143'
+  code: '61451'
   title: О внесении изменений в решение районного маслихата от 24 декабря 2010 года № 154 "О бюджете Байганинского района на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/61143/rus
-source: https://zan.gov.kz/client/#!/doc/56505/rus/25.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61451/rus
+source: https://zan.gov.kz/client/#!/doc/56505/rus/15.11.2011
 ---
 
 # О бюджете Байганинского района на 2011-2013 годы

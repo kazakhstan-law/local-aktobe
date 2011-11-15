@@ -1,5 +1,5 @@
 ---
-version_id: '56505_188394'
+version_id: '56505_188406'
 act_code: '56505'
 language: kaz
 title: 2011-2013 жылдарға арналған Байғанин ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153005000002'
 approval_date: 2010-12-24
-version_date: 2011-10-25
+version_date: 2011-11-15
 registry_number: '56505'
 caused_by:
-  code: '61143'
+  code: '61451'
   title: Аудандық мәслихаттың 2010 жылғы 24 желтоқсандағы № 154 "2011-2013 жылдарға арналған Байғанин ауданының бюджеті туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/61143/kaz
-source: https://zan.gov.kz/client/#!/doc/56505/kaz/25.10.2011
+  link: https://zan.gov.kz/client/#!/doc/61451/kaz
+source: https://zan.gov.kz/client/#!/doc/56505/kaz/15.11.2011
 ---
 
 # 2011-2013 жылдарға арналған Байғанин ауданының бюджеті туралы

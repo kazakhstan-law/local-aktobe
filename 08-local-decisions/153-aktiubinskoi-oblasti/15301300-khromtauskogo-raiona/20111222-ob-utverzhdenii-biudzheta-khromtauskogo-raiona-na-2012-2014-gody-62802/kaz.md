@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62802/kaz/22.12.2011
+source: https://zan.gov.kz/client/#!/doc/62802/kaz/07.02.2012
 ---
 
 # Хромтау ауданының 2012-2014 жылдарға арналған бюджетін бекіту туралы

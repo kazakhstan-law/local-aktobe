@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62657/kaz/03.02.2012
+source: https://zan.gov.kz/client/#!/doc/62657/kaz/25.04.2012
 ---
 
 # 2012-2014 жылдарға арналған Ақтөбе қаласының бюджеті туралы

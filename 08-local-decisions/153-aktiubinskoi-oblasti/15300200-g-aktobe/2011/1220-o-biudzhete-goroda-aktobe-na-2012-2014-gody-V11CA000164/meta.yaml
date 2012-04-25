@@ -23,12 +23,19 @@ versions:
   cause:
     code: '63546'
     key: V12CA000165
+- date: 2012-04-25
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '63546'
+    key: V12CA000165
 version_date:
-  kaz: 2012-02-03
-  rus: 2012-02-03
+  kaz: 2012-04-25
+  rus: 2012-04-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/62657/kaz/03.02.2012
-  rus: https://zan.gov.kz/client/#!/doc/62657/rus/03.02.2012
+  kaz: https://zan.gov.kz/client/#!/doc/62657/kaz/25.04.2012
+  rus: https://zan.gov.kz/client/#!/doc/62657/rus/25.04.2012
 caused_by:
   code: '63546'
   key: V12CA000165

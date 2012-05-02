@@ -1,5 +1,5 @@
 ---
-version_id: '62718_172525'
+version_id: '62718_181094'
 act_code: '62718'
 language: kaz
 title: 2012-2014 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153009000002'
 approval_date: 2011-12-21
-version_date: 2012-02-02
+version_date: 2012-05-02
 registry_number: '62718'
 caused_by:
-  code: '63545'
+  code: '65475'
   title: Аудандық мәслихаттың 2011 жылғы 21 желтоқсандағы № 286 "2012-2014 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/63545/kaz
-source: https://zan.gov.kz/client/#!/doc/62718/kaz/02.02.2012
+  link: https://zan.gov.kz/client/#!/doc/65475/kaz
+source: https://zan.gov.kz/client/#!/doc/62718/kaz/02.05.2012
 ---
 
 # 2012-2014 жылдарға арналған аудандық бюджет туралы

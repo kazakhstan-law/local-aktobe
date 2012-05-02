@@ -1,5 +1,5 @@
 ---
-version_id: '62718_172526'
+version_id: '62718_181095'
 act_code: '62718'
 language: rus
 title: О районном бюджете на 2012-2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153009000002'
 approval_date: 2011-12-21
-version_date: 2012-02-02
+version_date: 2012-05-02
 registry_number: '62718'
 caused_by:
-  code: '63545'
+  code: '65475'
   title: О внесении изменений и дополнений в решение районного маслихата от 21 декабря 2011 года № 286 "О районном бюджете на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/63545/rus
-source: https://zan.gov.kz/client/#!/doc/62718/rus/02.02.2012
+  link: https://zan.gov.kz/client/#!/doc/65475/rus
+source: https://zan.gov.kz/client/#!/doc/62718/rus/02.05.2012
 ---
 
 # О районном бюджете на 2012-2014 годы

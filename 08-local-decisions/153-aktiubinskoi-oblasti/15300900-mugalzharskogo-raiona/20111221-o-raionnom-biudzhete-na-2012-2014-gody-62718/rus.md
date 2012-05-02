@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62718/rus/02.02.2012
+source: https://zan.gov.kz/client/#!/doc/62718/rus/02.05.2012
 ---
 
 # О районном бюджете на 2012-2014 годы

@@ -1,5 +1,5 @@
 ---
-version_id: '62802_181024'
+version_id: '62802_181072'
 act_code: '62802'
 language: rus
 title: Об утверждении бюджета Хромтауского района на 2012-2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153013000002'
 approval_date: 2011-12-22
-version_date: 2012-04-26
+version_date: 2012-08-07
 registry_number: '62802'
 caused_by:
-  code: '65678'
+  code: '67203'
   title: О внесении изменений и дополнений в решение районного маслихата от 22 декабря 2011 года № 276 "Об утверждении бюджета Хромтауского района на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/65678/rus
-source: https://zan.gov.kz/client/#!/doc/62802/rus/26.04.2012
+  link: https://zan.gov.kz/client/#!/doc/67203/rus
+source: https://zan.gov.kz/client/#!/doc/62802/rus
 ---
 
 # Об утверждении бюджета Хромтауского района на 2012-2014 годы

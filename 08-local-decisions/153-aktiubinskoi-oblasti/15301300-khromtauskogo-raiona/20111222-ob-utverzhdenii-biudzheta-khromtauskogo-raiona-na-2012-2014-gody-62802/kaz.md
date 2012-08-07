@@ -1,5 +1,5 @@
 ---
-version_id: '62802_181023'
+version_id: '62802_181071'
 act_code: '62802'
 language: kaz
 title: Хромтау ауданының 2012-2014 жылдарға арналған бюджетін бекіту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153013000002'
 approval_date: 2011-12-22
-version_date: 2012-04-26
+version_date: 2012-08-07
 registry_number: '62802'
 caused_by:
-  code: '65678'
+  code: '67203'
   title: Аудандық мәслихаттың 2011 жылғы 22 желтоқсандағы № 276 "Хромтау ауданының 2012-2014 жылдарға арналған бюджетін бекіту туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/65678/kaz
-source: https://zan.gov.kz/client/#!/doc/62802/kaz/26.04.2012
+  link: https://zan.gov.kz/client/#!/doc/67203/kaz
+source: https://zan.gov.kz/client/#!/doc/62802/kaz/07.08.2012
 ---
 
 # Хромтау ауданының 2012-2014 жылдарға арналған бюджетін бекіту туралы

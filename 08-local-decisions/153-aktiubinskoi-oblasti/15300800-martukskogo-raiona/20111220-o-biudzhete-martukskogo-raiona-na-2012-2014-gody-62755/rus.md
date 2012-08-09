@@ -1,5 +1,5 @@
 ---
-version_id: '62755_174249'
+version_id: '62755_181081'
 act_code: '62755'
 language: rus
 title: О бюджете Мартукского района на 2012-2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153008000002'
 approval_date: 2011-12-20
-version_date: 2012-04-27
+version_date: 2012-08-09
 registry_number: '62755'
 caused_by:
-  code: '65262'
-  title: О внесении изменений и дополнений в решение районного маслихата от 20 декабря 2011 года № 263 "О бюджете Мартукского района на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/65262/rus
-source: https://zan.gov.kz/client/#!/doc/62755/rus/27.04.2012
+  code: '67182'
+  title: О внесении изменений в решение районного маслихата от 20 декабря 2011 года № 263 "О бюджете Мартукского района на 2012-2014 годы"
+  link: https://zan.gov.kz/client/#!/doc/67182/rus
+source: https://zan.gov.kz/client/#!/doc/62755/rus/09.08.2012
 ---
 
 # О бюджете Мартукского района на 2012-2014 годы

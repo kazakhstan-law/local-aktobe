@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62755/kaz/27.04.2012
+source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 ---
 
 > *2011 жылғы 20 желтоқсандағы № 263*  

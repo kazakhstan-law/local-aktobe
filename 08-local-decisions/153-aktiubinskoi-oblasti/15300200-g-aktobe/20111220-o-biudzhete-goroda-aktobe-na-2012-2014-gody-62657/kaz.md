@@ -1,5 +1,5 @@
 ---
-version_id: '62657_180953'
+version_id: '62657_181088'
 act_code: '62657'
 language: kaz
 title: 2012-2014 жылдарға арналған Ақтөбе қаласының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2011-12-20
-version_date: 2012-04-25
+version_date: 2012-08-10
 registry_number: '62657'
 caused_by:
-  code: '63546'
+  code: '67186'
   title: '"2012-2014 жылдарға арналған Ақтөбе қаласының бюджеті туралы" Ақтөбе қалалық мәслихатының 2011 жылғы 20 желтоқсандағы № 415 шешіміне өзгерістер мен толықтырулар енгізу туралы'
-  link: https://zan.gov.kz/client/#!/doc/63546/kaz
-source: https://zan.gov.kz/client/#!/doc/62657/kaz/25.04.2012
+  link: https://zan.gov.kz/client/#!/doc/67186/kaz
+source: https://zan.gov.kz/client/#!/doc/62657/kaz/10.08.2012
 ---
 
 # 2012-2014 жылдарға арналған Ақтөбе қаласының бюджеті туралы

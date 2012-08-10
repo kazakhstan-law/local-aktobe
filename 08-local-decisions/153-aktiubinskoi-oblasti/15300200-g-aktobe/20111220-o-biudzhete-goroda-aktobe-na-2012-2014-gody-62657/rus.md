@@ -1,5 +1,5 @@
 ---
-version_id: '62657_180954'
+version_id: '62657_181089'
 act_code: '62657'
 language: rus
 title: О бюджете города Актобе на 2012-2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153002000002'
 approval_date: 2011-12-20
-version_date: 2012-04-25
+version_date: 2012-08-10
 registry_number: '62657'
 caused_by:
-  code: '63546'
+  code: '67186'
   title: О внесении изменений и дополнений в решение маслихата города Актобе от 20 декабря 2011 года № 415 "О бюджете города Актобе на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/63546/rus
-source: https://zan.gov.kz/client/#!/doc/62657/rus/25.04.2012
+  link: https://zan.gov.kz/client/#!/doc/67186/rus
+source: https://zan.gov.kz/client/#!/doc/62657/rus/10.08.2012
 ---
 
 # О бюджете города Актобе на 2012-2014 годы

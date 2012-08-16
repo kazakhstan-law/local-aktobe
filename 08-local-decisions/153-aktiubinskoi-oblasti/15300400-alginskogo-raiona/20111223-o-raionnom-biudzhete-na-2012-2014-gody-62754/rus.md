@@ -1,5 +1,5 @@
 ---
-version_id: '62754_171323'
+version_id: '62754_181051'
 act_code: '62754'
 language: rus
 title: О районном бюджете на 2012-2014 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2011-12-23
-version_date: 2012-05-10
+version_date: 2012-08-16
 registry_number: '62754'
 caused_by:
-  code: '65519'
-  title: О внесении изменений и дополнений в решение районного маслихата от 23 декабря 2011 года № 49 "О районном бюджете на 2012-2014 годы"
-  link: https://zan.gov.kz/client/#!/doc/65519/rus
-source: https://zan.gov.kz/client/#!/doc/62754/rus/10.05.2012
+  code: '67202'
+  title: О внесении изменений в решение районного маслихата от 23 декабря 2011 года № 49 "О районном бюджете на 2012-2014 годы"
+  link: https://zan.gov.kz/client/#!/doc/67202/rus
+source: https://zan.gov.kz/client/#!/doc/62754/rus/16.08.2012
 ---
 
 # О районном бюджете на 2012-2014 годы

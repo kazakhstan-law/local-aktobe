@@ -1,15 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
+source: https://zan.gov.kz/client/#!/doc/62755/kaz/25.10.2012
 ---
 
-> *2011 жылғы 20 желтоқсандағы № 263*  
-> *аудандық мәслихаттың шешіміне*  
-> *1 Қосымша*
+## 2012 жылға арналған Мәртөк ауданының бюджеті
 
-# 2012 жылға арналған Мәртөк ауданының бюджеті
-
-> *Ескерту. 1 қосымша жаңа редакцияда - Ақтөбе облысы Мәртөк аудандық мәслихатының 2012.11.29 № 46 (2012.01.01 бастап қолданысқа енгізіледі) Шешімімен.*
+> *Ескерту. 1 қосымша жаңа редакцияда - Ақтөбе облысы Мәртөк аудандық мәслихатының 2012.10.25 № 41 (2012.01.01 бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
@@ -40,7 +36,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>І.Кірістер</td>
-<td>3 501 815,6</td>
+<td>3 549 778,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -243,21 +239,21 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>3 049 650,6</td>
+<td>3 097 613,6</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>3 049 650,6</td>
+<td>3 097 613,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>3 049 650,6</td>
+<td>3 097 613,6</td>
 </tr>
 </table>
 
@@ -296,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>3 526 667,6</td>
+<td>3 574 630,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -544,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 988 544,0</td>
+<td>1 993 145,0</td>
 </tr>
 <tr>
 <td></td>
@@ -584,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1 646 125,7</td>
+<td>1 646 937,7</td>
 </tr>
 <tr>
 <td></td>
@@ -592,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>471</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім, дене шынықтыру және спорт бөлімі</td>
-<td>1 646 125,7</td>
+<td>1 646 937,7</td>
 </tr>
 <tr>
 <td></td>
@@ -600,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>004</td>
 <td>Жалпы білім беру</td>
-<td>1 540 933,0</td>
+<td>1 540 939,0</td>
 </tr>
 <tr>
 <td></td>
@@ -616,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>063</td>
 <td>063 Республикалық бюджеттің трансферттері есебінен &quot;Назарбаев зияткерлік мектептері&quot;ДБҰ-ның оқу бағдарламалары бойынша біліктілікті артттырудан өткен мұғалімдерге төленетін еңбекақыны арттыру</td>
-<td>629,0</td>
+<td>1 435,0</td>
 </tr>
 <tr>
 <td></td>
@@ -632,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>104 913,0</td>
+<td>108 702,0</td>
 </tr>
 <tr>
 <td></td>
@@ -656,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>471</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім, дене шынықтыру және спорт бөлімі</td>
-<td>31 698,0</td>
+<td>35 487,0</td>
 </tr>
 <tr>
 <td></td>
@@ -688,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>020</td>
 <td>Республикалық бюджеттің трансферттері есебінен жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға қамқоршыларға (қорғаншыларға) ай сайынғы ақшалай қаражат төлемдері</td>
-<td>13 737,0</td>
+<td>17 526,0</td>
 </tr>
 <tr>
 <td></td>
@@ -848,7 +844,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>798 089,0</td>
+<td>842 580,0</td>
 </tr>
 <tr>
 <td></td>
@@ -856,7 +852,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>130 448,0</td>
+<td>131 577,0</td>
 </tr>
 <tr>
 <td></td>
@@ -864,7 +860,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>466</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>101 683,0</td>
+<td>102 812,0</td>
 </tr>
 <tr>
 <td></td>
@@ -872,7 +868,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>003</td>
 <td>Мемлекеттік коммуналдық тұрғын үй қорының тұрғын үйін жобалау, салу және (немесе) сатып алу</td>
-<td>39 825,0</td>
+<td>40 954,0</td>
 </tr>
 <tr>
 <td></td>
@@ -912,7 +908,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>635 895,0</td>
+<td>679 257,0</td>
 </tr>
 <tr>
 <td></td>
@@ -920,7 +916,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылық, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>635 895,0</td>
+<td>679 257,0</td>
 </tr>
 <tr>
 <td></td>
@@ -944,7 +940,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>029</td>
 <td>Сумен қамтамасыз ету жүйесін дамыту</td>
-<td>626 466,0</td>
+<td>669 828,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1008,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiк</td>
-<td>120 319,0</td>
+<td>119 190,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1016,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>79 349,0</td>
+<td>78 220,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1033,22 +1029,6 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>003</td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
 <td>78 220,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>466</td>
-<td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>1 129,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>011</td>
-<td>Мәдениет объектілерін дамыту</td>
-<td>1 129,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1686,34 +1666,32 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Сана ты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th></th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td>5</td>
 <td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>3 831,0</td>
 </tr>
@@ -1721,14 +1699,12 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>3 831,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
 <td></td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>3 831,0</td>
@@ -1746,11 +1722,11 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Әкімші</td>
+<td colspan="3">Әкім ші</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2">Бағ дар лама</td>
 </tr>
 <tr>
 <td></td>
@@ -1832,34 +1808,32 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Сана ты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th></th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
-<td></td>
-<td></td>
+<td>2</td>
 <td>Қарыздар түсімі</td>
 <td>26 697,0</td>
 </tr>
@@ -1867,14 +1841,12 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
 <td>26 697,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
 <td></td>
 <td>Қарыз алу келісім-шарттары</td>
 <td>26 697,0</td>
@@ -1892,11 +1864,11 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Әкімші</td>
+<td colspan="3">Әкім ші</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2">Бағ дар лама</td>
 </tr>
 <tr>
 <td></td>
@@ -1946,26 +1918,25 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Сана ты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th></th>
 <th>4</th>
 <th>5</th>
 </tr>
@@ -1973,7 +1944,6 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>8</td>
 <td></td>
 <td>1</td>
-<td></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
 <td>24 852,0</td>
 </tr>
@@ -1981,12 +1951,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Бюджет қаражатының қалдықтары</td>
 <td>24 852,0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1999,14 +1967,17 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 > *аудандық мәслихаттың шешіміне*  
 > *2 Қосымша*
 
-# 2013 жылға арналған Мәртөк ауданының бюджеті
+## 2013 жылға арналған Мәртөк ауданының бюджеті
 
 > *Ескерту. 2 қосымша жаңа редакцияда - Ақтөбе облысы Мәртөк аудандық мәслихатының 2012.04.27 № 17 (2012.01.01 бастап қолданысқа енгізіледі) Шешімімен.*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -2249,7 +2220,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <table>
 <tr>
 <td colspan="5">Функ. топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="4"></td>
@@ -3440,7 +3414,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -3491,7 +3468,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <table>
 <tr>
 <td colspan="5">Функ. топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="4"></td>
@@ -3586,7 +3566,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -3637,7 +3620,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <table>
 <tr>
 <td colspan="5">Функ. топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="4"></td>
@@ -3700,7 +3686,10 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -3747,3 +3736,7 @@ source: https://zan.gov.kz/client/#!/doc/62755/kaz/09.08.2012
 <td>0,0</td>
 </tr>
 </table>
+
+> *2011 жылғы 20 желтоқсандағы №263*  
+> *аудандық мәслихаттың шешіміне*  
+> *3 Қосымша*

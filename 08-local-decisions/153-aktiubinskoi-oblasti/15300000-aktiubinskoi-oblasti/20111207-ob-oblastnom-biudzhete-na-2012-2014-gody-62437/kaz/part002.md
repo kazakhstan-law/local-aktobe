@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62437/kaz/17.10.2012
+source: https://zan.gov.kz/client/#!/doc/62437/kaz/21.11.2012
 ---
 
 ## 2013 жылға арналған облыстық бюджет
@@ -191,11 +191,11 @@ source: https://zan.gov.kz/client/#!/doc/62437/kaz/17.10.2012
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Әкім ші</td>
+<td colspan="3">Әкімші</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2">Бағ дар лама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -2741,11 +2741,11 @@ source: https://zan.gov.kz/client/#!/doc/62437/kaz/17.10.2012
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Әкім ші</td>
+<td colspan="3">Әкімші</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2">Бағ дар лама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
@@ -2827,7 +2827,7 @@ source: https://zan.gov.kz/client/#!/doc/62437/kaz/17.10.2012
 
 <table>
 <tr>
-<td colspan="4">сана ты</td>
+<td colspan="4">санаты</td>
 <td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
@@ -2883,11 +2883,11 @@ source: https://zan.gov.kz/client/#!/doc/62437/kaz/17.10.2012
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Әкім ші</td>
+<td colspan="3">Әкімші</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2">Бағ дар лама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>

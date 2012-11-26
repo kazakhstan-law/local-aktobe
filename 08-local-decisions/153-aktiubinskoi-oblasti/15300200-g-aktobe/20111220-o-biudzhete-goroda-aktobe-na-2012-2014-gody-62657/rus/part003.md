@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62657/rus/27.10.2012
+source: https://zan.gov.kz/client/#!/doc/62657/rus/26.11.2012
 ---
 
 ## Бюджет города Актобе на 2014 год

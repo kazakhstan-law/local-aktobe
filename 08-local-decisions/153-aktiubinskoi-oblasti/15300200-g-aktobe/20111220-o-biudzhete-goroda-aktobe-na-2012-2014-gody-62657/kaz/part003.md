@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62657/kaz/27.10.2012
+source: https://zan.gov.kz/client/#!/doc/62657/kaz/26.11.2012
 ---
 
 ## 2014 жылға арналған Ақтөбе қаласының бюджеті

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62754/rus/05.11.2012
+source: https://zan.gov.kz/client/#!/doc/62754/rus/28.11.2012
 ---
 
 ## Перечень бюджетных программ аульных (сельских) округов в районном бюджете на 2012 год

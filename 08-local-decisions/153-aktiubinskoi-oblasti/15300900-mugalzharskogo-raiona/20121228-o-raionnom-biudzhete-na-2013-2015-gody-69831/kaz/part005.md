@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
+source: https://zan.gov.kz/client/#!/doc/69831/kaz/11.07.2013
 ---
 
 ## Қаладағы аудан, аудандық маңызы бар қала, кент, аулы (село), ауылдық (селолық) округ әкімі аппаратының 2013 жылға бюджеттік бағдарламалары
 
-> *Ескерту. 5 қосымша жаңа редакцияда - Ақтөбе облысы Мұғалжар аудандық мәслихатының 26.04.2013 № 79 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда - Ақтөбе облысы Мұғалжар аудандық мәслихатының 11.07.2013 № 98 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -22,7 +22,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td>Қандыағаш қалалық округі</td>
 <td>23458,0</td>
 <td></td>
-<td>14000,0</td>
+<td>13754,0</td>
 <td>12750,0</td>
 <td>200,0</td>
 </tr>
@@ -31,7 +31,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td>Ембі қалалық округі</td>
 <td>22435,0</td>
 <td></td>
-<td>1826,0</td>
+<td>2072,0</td>
 <td>2500,0</td>
 <td>50,0</td>
 </tr>
@@ -47,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>4</td>
 <td>Ақкемір ауылдық округі</td>
-<td>9744,0</td>
+<td>10991,0</td>
 <td>479,0</td>
 <td>1307,0</td>
 <td>200,0</td>
@@ -56,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>5</td>
 <td>Ащысай ауылдық округі</td>
-<td>7877,0</td>
+<td>8248,0</td>
 <td></td>
 <td>1500,0</td>
 <td>200,0</td>
@@ -65,7 +65,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>6</td>
 <td>Батпақкөл ауылдық округі</td>
-<td>10981,0</td>
+<td>11809,0</td>
 <td></td>
 <td>1671,0</td>
 <td>200,0</td>
@@ -83,7 +83,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>8</td>
 <td>Еңбек ауылдық округі</td>
-<td>8933,0</td>
+<td>9636,0</td>
 <td></td>
 <td>1024,0</td>
 <td>117,0</td>
@@ -92,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>9</td>
 <td>Қ.Жұбанов атындағы ауылдық округ</td>
-<td>9286,0</td>
+<td>9722,0</td>
 <td></td>
 <td>703,0</td>
 <td>200,0</td>
@@ -101,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>10</td>
 <td>Жұрын ауылдық округі</td>
-<td>8933,0</td>
+<td>9636,0</td>
 <td>1184,0</td>
 <td>1030,0</td>
 <td>200,0</td>
@@ -110,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>11</td>
 <td>Қайынды ауылдық округі</td>
-<td>11551,0</td>
+<td>11987,0</td>
 <td></td>
 <td></td>
 <td>49,0</td>
@@ -119,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>12</td>
 <td>Құмжарған ауылдық округі</td>
-<td>9817,0</td>
+<td>10253,0</td>
 <td></td>
 <td>1000,0</td>
 <td>200,0</td>
@@ -128,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>13</td>
 <td>Құмсай ауылдық округі</td>
-<td>7947,0</td>
+<td>8383,0</td>
 <td>574,0</td>
 <td>1400,0</td>
 <td>60,0</td>
@@ -137,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>14</td>
 <td>Талдысай ауылдық округі</td>
-<td>8435,0</td>
+<td>8805,0</td>
 <td></td>
 <td>1000,0</td>
 <td>200,0</td>
@@ -146,7 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td>15</td>
 <td>Мұғалжар селосы</td>
-<td>16992,0</td>
+<td>18256,0</td>
 <td></td>
 <td></td>
 <td>200,0</td>
@@ -155,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>180087,0</td>
+<td>187317,0</td>
 <td>2881,0</td>
 <td>28274,0</td>
 <td>17776,0</td>
@@ -182,7 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td>5000,0</td>
 <td>500,0</td>
 <td></td>
-<td>69908,0</td>
+<td>69662,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -191,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>150,0</td>
 <td></td>
-<td>26961,0</td>
+<td>27207,0</td>
 </tr>
 <tr>
 <td>3</td>
@@ -209,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>500,0</td>
 <td>3000,0</td>
-<td>15230,0</td>
+<td>16477,0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -218,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>350,0</td>
 <td>803,0</td>
-<td>10730,0</td>
+<td>11101,0</td>
 </tr>
 <tr>
 <td>6</td>
@@ -227,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>550,0</td>
 <td>2249,0</td>
-<td>15651,0</td>
+<td>16479,0</td>
 </tr>
 <tr>
 <td>7</td>
@@ -245,7 +245,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td>83,0</td>
 <td></td>
 <td></td>
-<td>10157,0</td>
+<td>10860,0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -254,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>500,0</td>
 <td>973,0</td>
-<td>11662,0</td>
+<td>12098,0</td>
 </tr>
 <tr>
 <td>10</td>
@@ -263,7 +263,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>243,0</td>
 <td>2140,0</td>
-<td>13730,0</td>
+<td>14433,0</td>
 </tr>
 <tr>
 <td>11</td>
@@ -272,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td></td>
 <td></td>
-<td>11600,0</td>
+<td>12036,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -281,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td></td>
 <td>1459,0</td>
-<td>12476,0</td>
+<td>12912,0</td>
 </tr>
 <tr>
 <td>13</td>
@@ -290,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>150,0</td>
 <td></td>
-<td>10131,0</td>
+<td>10567,0</td>
 </tr>
 <tr>
 <td>14</td>
@@ -299,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>120,0</td>
 <td>854,0</td>
-<td>10609,0</td>
+<td>10979,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td></td>
 <td>250,0</td>
 <td></td>
-<td>17442,0</td>
+<td>18706,0</td>
 </tr>
 <tr>
 <td></td>
@@ -317,6 +317,6 @@ source: https://zan.gov.kz/client/#!/doc/69831/kaz/26.04.2013
 <td>5083,0</td>
 <td>15585,0</td>
 <td>11478,0</td>
-<td>275414,0</td>
+<td>282644,0</td>
 </tr>
 </table>

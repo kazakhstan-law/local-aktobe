@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69354/kaz/27.06.2013
+source: https://zan.gov.kz/client/#!/doc/69354/kaz/17.07.2013
 ---
 
 ## 2015 жылға арналған облыстық бюджет
@@ -484,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/69354/kaz/27.06.2013
 <td></td>
 <td></td>
 <td>015</td>
-<td>Қызмет жануаларын ұстауды ұйымдастыру</td>
+<td>Қызмет жануарларын ұстауды ұйымдастыру</td>
 <td>63 633</td>
 </tr>
 <tr>

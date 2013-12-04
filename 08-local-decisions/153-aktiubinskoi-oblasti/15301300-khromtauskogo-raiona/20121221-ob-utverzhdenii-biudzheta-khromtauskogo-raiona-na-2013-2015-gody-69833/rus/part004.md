@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69833/rus/07.11.2013
+source: https://zan.gov.kz/client/#!/doc/69833/rus/04.12.2013
 ---
 
 ## Районный бюджет на 2015 год
@@ -530,7 +530,7 @@ source: https://zan.gov.kz/client/#!/doc/69833/rus/07.11.2013
 
 <table>
 <tr>
-<td colspan="5">Функ.группа</td>
+<td colspan="5">Функ. группа</td>
 <td rowspan="5">Сумма (тыс.тенге)</td>
 </tr>
 <tr>
@@ -1787,7 +1787,7 @@ source: https://zan.gov.kz/client/#!/doc/69833/rus/07.11.2013
 </tr>
 <tr>
 <td rowspan="4"></td>
-<td colspan="4">Функ.подгруппа</td>
+<td colspan="4">Функ. подгруппа</td>
 </tr>
 <tr>
 <td rowspan="3"></td>

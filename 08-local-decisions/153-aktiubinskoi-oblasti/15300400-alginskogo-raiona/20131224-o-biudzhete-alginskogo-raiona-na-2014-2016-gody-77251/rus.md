@@ -1,5 +1,5 @@
 ---
-version_id: '77251_284010'
+version_id: '77251_284114'
 act_code: '77251'
 language: rus
 title: О бюджете Алгинского района на 2014-2016 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2013-12-24
-version_date: 2013-12-24
+version_date: 2014-02-19
 registry_number: '77251'
-source: https://zan.gov.kz/client/#!/doc/77251/rus/24.12.2013
+caused_by:
+  code: '77798'
+  title: О внесении изменений и дополнений в решение районного маслихата от 24 декабря 2013 года № 121 "О бюджете Алгинского района на 2014-2016 годы"
+  link: https://zan.gov.kz/client/#!/doc/77798/rus
+source: https://zan.gov.kz/client/#!/doc/77251/rus/19.02.2014
 ---
 
 # О бюджете Алгинского района на 2014-2016 годы

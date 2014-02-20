@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76702/kaz/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/76702/kaz/20.02.2014
 ---
 
 ## 2016 жылға арналған Ақтөбе қаласының бюджеті

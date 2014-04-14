@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
+source: https://zan.gov.kz/client/#!/doc/76564/rus/14.04.2014
 ---
 
 ## Бюджет Мугалжарского района на 2016 год
@@ -1820,7 +1820,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 
 ## Бюджетные программы аппарата акима района в городе, города районного значения, поселка, села, сельского округа на 2014 год
 
-> *Сноска. Приложение 5 в редакции решения маслихата Мугалжарского района Актюбинской области от 20.02.2014 № 144 (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 5 в редакции решения маслихата Мугалжарского района Актюбинской области от 14.04.2014 № 152 (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
@@ -1836,7 +1836,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>1</td>
 <td>Кандыагашский городской округ</td>
-<td>24126,0</td>
+<td>24432,0</td>
 <td></td>
 <td>17500,0</td>
 <td>12700,0</td>
@@ -1846,7 +1846,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>2</td>
 <td>Эмбенский городской округ</td>
-<td>27351,0</td>
+<td>27576,0</td>
 <td></td>
 <td>5530,0</td>
 <td>3028,0</td>
@@ -1856,7 +1856,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>3</td>
 <td>Городской округ Жем</td>
-<td>14083,0</td>
+<td>14214,0</td>
 <td></td>
 <td>3500,0</td>
 <td>400,0</td>
@@ -1866,8 +1866,8 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>4</td>
 <td>Аккемирский сельский округ</td>
-<td>12609,0</td>
-<td>478,0</td>
+<td>12722,0</td>
+<td>511,0</td>
 <td>1518,0</td>
 <td>200,0</td>
 <td></td>
@@ -1876,7 +1876,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>5</td>
 <td>Ащесайский аульный округ</td>
-<td>11945,0</td>
+<td>12029,0</td>
 <td></td>
 <td>1500,0</td>
 <td>200,0</td>
@@ -1886,7 +1886,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>6</td>
 <td>Батпаккольский аульный округ</td>
-<td>13297,0</td>
+<td>13410,0</td>
 <td></td>
 <td>2000,0</td>
 <td>200,0</td>
@@ -1896,8 +1896,8 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>7</td>
 <td>Егиндыбулакский аульный округ</td>
-<td>10457,0</td>
-<td>644,0</td>
+<td>10541,0</td>
+<td>665,0</td>
 <td>800,0</td>
 <td>200,0</td>
 <td></td>
@@ -1906,7 +1906,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>8</td>
 <td>Енбекский аульный округ</td>
-<td>11789,0</td>
+<td>11902,0</td>
 <td></td>
 <td>1200,0</td>
 <td>120,0</td>
@@ -1916,7 +1916,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>9</td>
 <td>аульный округ имени К. Жубанова</td>
-<td>10876,0</td>
+<td>10960,0</td>
 <td></td>
 <td>774,0</td>
 <td>200,0</td>
@@ -1926,8 +1926,8 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>10</td>
 <td>Журынский аульный округ</td>
-<td>11541,0</td>
-<td>1190,0</td>
+<td>11625,0</td>
+<td>1270,0</td>
 <td>1700,0</td>
 <td>200,0</td>
 <td></td>
@@ -1936,7 +1936,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>11</td>
 <td>Каиндинский аульный округ</td>
-<td>14756,0</td>
+<td>14916,0</td>
 <td></td>
 <td></td>
 <td>140,0</td>
@@ -1946,7 +1946,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>12</td>
 <td>Кумжарганский аульный округ</td>
-<td>11556,0</td>
+<td>11611,0</td>
 <td></td>
 <td>1200,0</td>
 <td>200,0</td>
@@ -1956,8 +1956,8 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>13</td>
 <td>Кумсайский аульный округ</td>
-<td>11721,0</td>
-<td>724,0</td>
+<td>11750,0</td>
+<td>742,0</td>
 <td>1500,0</td>
 <td>200,0</td>
 <td></td>
@@ -1966,7 +1966,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>14</td>
 <td>Талдысайский аульный округ</td>
-<td>11566,0</td>
+<td>11646,0</td>
 <td></td>
 <td>2059,0</td>
 <td>141,0</td>
@@ -1976,7 +1976,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td>15</td>
 <td>село Мугалжар</td>
-<td>20934,0</td>
+<td>20989,0</td>
 <td></td>
 <td></td>
 <td>200,0</td>
@@ -1986,8 +1986,8 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <tr>
 <td></td>
 <td>Итого</td>
-<td>218607,0</td>
-<td>3036,0</td>
+<td>220323,0</td>
+<td>3188,0</td>
 <td>40781,0</td>
 <td>18329,0</td>
 <td>300,0</td>
@@ -2014,7 +2014,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td></td>
 <td></td>
-<td>66926,0</td>
+<td>67232,0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2023,7 +2023,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td>4500,0</td>
 <td></td>
 <td>67000,0</td>
-<td>109909,0</td>
+<td>110134,0</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2032,7 +2032,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td>1400,0</td>
 <td></td>
 <td></td>
-<td>19383,0</td>
+<td>19514,0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2041,7 +2041,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td>360,0</td>
 <td>1622,0</td>
 <td></td>
-<td>16787,0</td>
+<td>16933,0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2050,7 +2050,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>781,0</td>
 <td></td>
-<td>14426,0</td>
+<td>14510,0</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2059,7 +2059,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>2102,0</td>
 <td></td>
-<td>17599,0</td>
+<td>17712,0</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2068,7 +2068,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>480,0</td>
 <td></td>
-<td>12581,0</td>
+<td>12686,0</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2077,7 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>2765,0</td>
 <td></td>
-<td>15874,0</td>
+<td>15987,0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -2086,7 +2086,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>904,0</td>
 <td></td>
-<td>12754,0</td>
+<td>12838,0</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2095,7 +2095,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td>260,0</td>
 <td>2036,0</td>
 <td></td>
-<td>16927,0</td>
+<td>17091,0</td>
 </tr>
 <tr>
 <td>11</td>
@@ -2104,7 +2104,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>1111,0</td>
 <td></td>
-<td>16007,0</td>
+<td>16167,0</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2113,7 +2113,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>1411,0</td>
 <td></td>
-<td>14367,0</td>
+<td>14422,0</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2122,7 +2122,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>785,0</td>
 <td></td>
-<td>14930,0</td>
+<td>14977,0</td>
 </tr>
 <tr>
 <td>14</td>
@@ -2131,7 +2131,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>861,0</td>
 <td></td>
-<td>14627,0</td>
+<td>14707,0</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2140,7 +2140,7 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td></td>
 <td>1872,0</td>
 <td></td>
-<td>23006,0</td>
+<td>23061,0</td>
 </tr>
 <tr>
 <td></td>
@@ -2149,6 +2149,6 @@ source: https://zan.gov.kz/client/#!/doc/76564/rus/20.02.2014
 <td>6520,0</td>
 <td>16730,0</td>
 <td>67000,0</td>
-<td>386103,0</td>
+<td>387971,0</td>
 </tr>
 </table>

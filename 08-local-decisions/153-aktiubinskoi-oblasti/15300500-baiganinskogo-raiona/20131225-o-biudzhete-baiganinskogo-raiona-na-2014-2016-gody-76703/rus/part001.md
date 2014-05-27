@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
+source: https://zan.gov.kz/client/#!/doc/76703/rus/27.05.2014
 ---
 
 ## Бюджет Байганинского района на 2014 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Байганинского района Актюбинской области от 17.04.2014 № 114 (вводится в действие с 01.01.2014).*
+> *Сноска. Приложение 1 в редакции решения маслихата Байганинского района Актюбинской области от 27.05.2014 № 128 (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
@@ -13,14 +13,17 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -29,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>I.ДОХОДЫ</td>
-<td>3 639 767</td>
+<td>3 665 339</td>
 </tr>
 <tr>
 <td>1</td>
@@ -211,21 +214,21 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>982 767</td>
+<td>1 008 339</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>982 767</td>
+<td>1 008 339</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>982 767</td>
+<td>1 008 339</td>
 </tr>
 </table>
 
@@ -235,18 +238,24 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
@@ -256,7 +265,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>II.ЗАТРАТЫ</td>
-<td>3 811 852,7</td>
+<td>3 837 424,7</td>
 </tr>
 <tr>
 <td>01</td>
@@ -264,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>280 415,0</td>
+<td>278 914,0</td>
 </tr>
 <tr>
 <td></td>
@@ -272,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>214 663,0</td>
+<td>214 604,0</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности маслихата района</td>
-<td>15 126,0</td>
+<td>15 045,0</td>
 </tr>
 <tr>
 <td></td>
@@ -296,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>31,0</td>
+<td>112,0</td>
 </tr>
 <tr>
 <td></td>
@@ -304,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>122</td>
 <td></td>
 <td>Аппарат акима района</td>
-<td>63 863,0</td>
+<td>63 804,0</td>
 </tr>
 <tr>
 <td></td>
@@ -312,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района</td>
-<td>63 463,0</td>
+<td>63 404,0</td>
 </tr>
 <tr>
 <td></td>
@@ -432,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>33 902,0</td>
+<td>32 460,0</td>
 </tr>
 <tr>
 <td></td>
@@ -440,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>466</td>
 <td></td>
 <td>Отдел архитектуры, градостроительства и строительства района</td>
-<td>33 902,0</td>
+<td>32 460,0</td>
 </tr>
 <tr>
 <td></td>
@@ -448,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>040</td>
 <td>Развитие объектов государственных органов</td>
-<td>33 902,0</td>
+<td>32 460,0</td>
 </tr>
 <tr>
 <td>02</td>
@@ -456,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Оборона</td>
-<td>10 500,0</td>
+<td>10 559,0</td>
 </tr>
 <tr>
 <td></td>
@@ -464,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Военные нужды</td>
-<td>4 000,0</td>
+<td>4 059,0</td>
 </tr>
 <tr>
 <td></td>
@@ -472,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>122</td>
 <td></td>
 <td>Аппарат акима района</td>
-<td>4 000,0</td>
+<td>4 059,0</td>
 </tr>
 <tr>
 <td></td>
@@ -480,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>005</td>
 <td>Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
-<td>4 000,0</td>
+<td>4 059,0</td>
 </tr>
 <tr>
 <td></td>
@@ -520,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>2 190 186,3</td>
+<td>2 195 571,3</td>
 </tr>
 <tr>
 <td></td>
@@ -528,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>235 802,3</td>
+<td>236 002,3</td>
 </tr>
 <tr>
 <td></td>
@@ -536,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>464</td>
 <td></td>
 <td>Отдел образования района</td>
-<td>235 802,3</td>
+<td>236 002,3</td>
 </tr>
 <tr>
 <td></td>
@@ -544,7 +553,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>040</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>235 802,3</td>
+<td>236 002,3</td>
 </tr>
 <tr>
 <td></td>
@@ -552,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>1 519 137,0</td>
+<td>1 519 594,0</td>
 </tr>
 <tr>
 <td></td>
@@ -560,7 +569,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>464</td>
 <td></td>
 <td>Отдел образования района</td>
-<td>1 519 137,0</td>
+<td>1 519 594,0</td>
 </tr>
 <tr>
 <td></td>
@@ -568,7 +577,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>003</td>
 <td>Общеобразовательное обучение</td>
-<td>1 471 367,0</td>
+<td>1 472 567,0</td>
 </tr>
 <tr>
 <td></td>
@@ -576,7 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>006</td>
 <td>Дополнительное образование для детей</td>
-<td>47 770,0</td>
+<td>47 027,0</td>
 </tr>
 <tr>
 <td></td>
@@ -584,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>435 247,0</td>
+<td>439 975,0</td>
 </tr>
 <tr>
 <td></td>
@@ -608,7 +617,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>464</td>
 <td></td>
 <td>Отдел образования района</td>
-<td>73 078,0</td>
+<td>77 806,0</td>
 </tr>
 <tr>
 <td></td>
@@ -648,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>16 291,0</td>
+<td>21 019,0</td>
 </tr>
 <tr>
 <td>06</td>
@@ -792,7 +801,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>474 570,0</td>
+<td>485 871,0</td>
 </tr>
 <tr>
 <td></td>
@@ -800,7 +809,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>44 662,0</td>
+<td>48 004,0</td>
 </tr>
 <tr>
 <td></td>
@@ -848,7 +857,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>466</td>
 <td></td>
 <td>Отдел архитектуры, градостроительства и строительства района</td>
-<td>10 500,0</td>
+<td>13 842,0</td>
 </tr>
 <tr>
 <td></td>
@@ -856,7 +865,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>003</td>
 <td>Проектирование, строительство и (или) приобретение жилья государственного коммунального жилищного фонда</td>
-<td>6 500,0</td>
+<td>9 842,0</td>
 </tr>
 <tr>
 <td></td>
@@ -872,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Коммунальная хозяйства</td>
-<td>396 252,0</td>
+<td>404 420,0</td>
 </tr>
 <tr>
 <td></td>
@@ -880,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района</td>
-<td>321 373,0</td>
+<td>329 541,0</td>
 </tr>
 <tr>
 <td></td>
@@ -896,7 +905,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>027</td>
 <td>Организация эксплуатации сетей газификации, находящихся в коммунальной собственности районов (городов областного значения)</td>
-<td>31 385,0</td>
+<td>30 208,0</td>
 </tr>
 <tr>
 <td></td>
@@ -904,7 +913,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>058</td>
 <td>Развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td>286 188,0</td>
+<td>295 533,0</td>
 </tr>
 <tr>
 <td></td>
@@ -928,7 +937,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>33 656,0</td>
+<td>33 447,0</td>
 </tr>
 <tr>
 <td></td>
@@ -976,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района</td>
-<td>8 933,0</td>
+<td>8 724,0</td>
 </tr>
 <tr>
 <td></td>
@@ -992,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>018</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 583,0</td>
+<td>3 374,0</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1000,7 +1009,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>205 764,0</td>
+<td>208 719,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1048,7 +1057,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>41 073,0</td>
+<td>42 576,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1056,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>465</td>
 <td></td>
 <td>Отдел физической культуры и спорта района</td>
-<td>31 073,0</td>
+<td>32 576,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1064,7 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>001</td>
 <td>Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
-<td>6 443,0</td>
+<td>6 909,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1080,7 +1089,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>005</td>
 <td>Развитие массового спорта и национальных видов спорта</td>
-<td>17 645,0</td>
+<td>18 682,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1176,7 +1185,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
-<td>27 373,0</td>
+<td>28 825,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1184,7 +1193,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>455</td>
 <td></td>
 <td>Отдел культуры и развития языков района</td>
-<td>9 791,0</td>
+<td>11 243,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1208,7 +1217,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>825,0</td>
+<td>2 277,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1256,7 +1265,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>100 924,0</td>
+<td>100 592,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1264,7 +1273,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Сельское хозяйство</td>
-<td>31 154,0</td>
+<td>30 822,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1272,7 +1281,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>466</td>
 <td></td>
 <td>Отдел архитектуры, градостроительства и строительства района</td>
-<td>6 344,0</td>
+<td>6 012,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1280,7 +1289,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>010</td>
 <td>Развитие объектов сельского хозяйства</td>
-<td>6 344,0</td>
+<td>6 012,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1432,7 +1441,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>164 182,0</td>
+<td>170 887,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1440,7 +1449,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>164 182,0</td>
+<td>170 887,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1464,7 +1473,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района</td>
-<td>162 182,0</td>
+<td>168 887,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1480,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог районного значения и улиц населенных пунктов</td>
-<td>138 908,0</td>
+<td>145 613,0</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1488,7 +1497,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>90 597,0</td>
+<td>91 597,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1536,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>83 573,0</td>
+<td>84 573,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1544,7 +1553,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>21 150,0</td>
+<td>22 150,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1552,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td>21 150,0</td>
+<td>22 150,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1675,14 +1684,6 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>21 983,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="5">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
@@ -1695,9 +1696,16 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td colspan="3">подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
@@ -1748,31 +1756,6 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>190 162,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
-<td colspan="4">класс</td>
-</tr>
-<tr>
-<td rowspan="2"></td>
-<td colspan="3">подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
 <td>7</td>
 <td></td>
 <td></td>
@@ -1795,14 +1778,6 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td></td>
 <td>Договора на получение кредитов</td>
 <td>21 983,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -1865,14 +1840,6 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td>225,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="5">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
@@ -1885,8 +1852,7 @@ source: https://zan.gov.kz/client/#!/doc/76703/rus/17.04.2014
 <td colspan="3">подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Наименование</td>
 </tr>
 <tr>

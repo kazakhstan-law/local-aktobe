@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
+source: https://zan.gov.kz/client/#!/doc/76609/rus/25.07.2014
 ---
 
 ## Областной бюджет на 2015 год
@@ -35,18 +35,18 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>5</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>I. Доходы</td>
-<td>82 608 278</td>
+<th></th>
+<th></th>
+<th></th>
+<th>I. Доходы</th>
+<th>82 608 278</th>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>37 782 506</td>
+<th>1</th>
+<th></th>
+<th></th>
+<th>Налоговые поступления</th>
+<th>37 782 506</th>
 </tr>
 <tr>
 <td></td>
@@ -91,11 +91,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>12 593 873</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>465 755</td>
+<th>2</th>
+<th></th>
+<th></th>
+<th>Неналоговые поступления</th>
+<th>465 755</th>
 </tr>
 <tr>
 <td></td>
@@ -147,11 +147,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>426 190</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>44 360 017</td>
+<th>4</th>
+<th></th>
+<th></th>
+<th>Поступления трансфертов</th>
+<th>44 360 017</th>
 </tr>
 <tr>
 <td></td>
@@ -216,20 +216,20 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>6</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Затраты</td>
-<td>82 735 172</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>II. Затраты</th>
+<th>82 735 172</th>
 </tr>
 <tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>1 562 310</td>
+<th>01</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Государственные услуги общего характера</th>
+<th>1 562 310</th>
 </tr>
 <tr>
 <td></td>
@@ -432,12 +432,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>567 672</td>
 </tr>
 <tr>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оборона</td>
-<td>76 426</td>
+<th>02</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Оборона</th>
+<th>76 426</th>
 </tr>
 <tr>
 <td></td>
@@ -520,12 +520,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>13 872</td>
 </tr>
 <tr>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>4 496 964</td>
+<th>03</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</th>
+<th>4 496 964</th>
 </tr>
 <tr>
 <td></td>
@@ -584,12 +584,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>69 726</td>
 </tr>
 <tr>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Образование</td>
-<td>10 761 843</td>
+<th>04</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Образование</th>
+<th>10 761 843</th>
 </tr>
 <tr>
 <td></td>
@@ -848,12 +848,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>26 082</td>
 </tr>
 <tr>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Здравоохранение</td>
-<td>8 136 537</td>
+<th>05</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Здравоохранение</th>
+<th>8 136 537</th>
 </tr>
 <tr>
 <td></td>
@@ -1128,12 +1128,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>669 520</td>
 </tr>
 <tr>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Социальная помощь и социальное обеспечение</td>
-<td>1 281 649</td>
+<th>06</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Социальная помощь и социальное обеспечение</th>
+<th>1 281 649</th>
 </tr>
 <tr>
 <td></td>
@@ -1264,12 +1264,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>43 065</td>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>11 008 529</td>
+<th>07</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Жилищно-коммунальное хозяйство</th>
+<th>11 008 529</th>
 </tr>
 <tr>
 <td></td>
@@ -1368,12 +1368,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>13 125</td>
 </tr>
 <tr>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Культура, спорт, туризм и информационное пространство</td>
-<td>5 559 834</td>
+<th>08</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Культура, спорт, туризм и информационное пространство</th>
+<th>5 559 834</th>
 </tr>
 <tr>
 <td></td>
@@ -1704,12 +1704,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>6 433</td>
 </tr>
 <tr>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Топливно-энергетический комплекс и недропользование</td>
-<td>3 180 144</td>
+<th>09</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Топливно-энергетический комплекс и недропользование</th>
+<th>3 180 144</th>
 </tr>
 <tr>
 <td></td>
@@ -1736,12 +1736,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>3 180 144</td>
 </tr>
 <tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>6 881 221</td>
+<th>10</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</th>
+<th>6 881 221</th>
 </tr>
 <tr>
 <td>10</td>
@@ -2088,12 +2088,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>3 204</td>
 </tr>
 <tr>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-<td>156 931</td>
+<th>11</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Промышленность, архитектурная, градостроительная и строительная деятельность</th>
+<th>156 931</th>
 </tr>
 <tr>
 <td>11</td>
@@ -2144,12 +2144,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>100 000</td>
 </tr>
 <tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Транспорт и коммуникации</td>
-<td>4 191 673</td>
+<th>12</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Транспорт и коммуникации</th>
+<th>4 191 673</th>
 </tr>
 <tr>
 <td></td>
@@ -2240,12 +2240,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>500 000</td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>9 607 688</td>
+<th>13</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Прочие</th>
+<th>9 607 688</th>
 </tr>
 <tr>
 <td></td>
@@ -2360,12 +2360,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>796 255</td>
 </tr>
 <tr>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Трансферты</td>
-<td>15 833 423</td>
+<th>15</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Трансферты</th>
+<th>15 833 423</th>
 </tr>
 <tr>
 <td></td>
@@ -2392,28 +2392,28 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>15 833 423</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>III. Чистое бюджетное кредитование</td>
-<td>-3 010 252</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>III. Чистое бюджетное кредитование</th>
+<th>-3 010 252</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджетные кредиты</td>
-<td>3 727 000</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Бюджетные кредиты</th>
+<th>3 727 000</th>
 </tr>
 <tr>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Социальная помощь и социальное обеспечение</td>
-<td>557 000</td>
+<th>06</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Социальная помощь и социальное обеспечение</th>
+<th>557 000</th>
 </tr>
 <tr>
 <td></td>
@@ -2440,12 +2440,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>557 000</td>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>3 170 000</td>
+<th>07</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Жилищно-коммунальное хозяйство</th>
+<th>3 170 000</th>
 </tr>
 <tr>
 <td></td>
@@ -2506,11 +2506,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>5</th>
 </tr>
 <tr>
-<td>5</td>
-<td></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>6 737 252</td>
+<th>5</th>
+<th></th>
+<th colspan="2"></th>
+<th>Погашение бюджетных кредитов</th>
+<th>6 737 252</th>
 </tr>
 <tr>
 <td></td>
@@ -2566,36 +2566,36 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>6</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>IV. Сальдо по операциям с финансовыми активами</th>
+<th>0</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Приобретение финансовых активов</th>
+<th>0</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Профицит бюджета</td>
-<td>2 883 358</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>V. Профицит бюджета</th>
+<th>2 883 358</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Использование профицита бюджета</td>
-<td>-2 883 358</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>VI. Использование профицита бюджета</th>
+<th>-2 883 358</th>
 </tr>
 <tr>
 <td></td>
@@ -2607,7 +2607,7 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 </tr>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">
+<td>
 Сумма
 (тыс.тенге)
 </td>
@@ -2615,14 +2615,17 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <tr>
 <td rowspan="3"></td>
 <td colspan="4">Класс</td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2"></td>
 <td colspan="3">Подкласс</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>Наименование</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2632,11 +2635,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>5</th>
 </tr>
 <tr>
-<td>7</td>
-<td></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>3 727 000</td>
+<th>7</th>
+<th></th>
+<th colspan="2"></th>
+<th>Поступление займов</th>
+<th>3 727 000</th>
 </tr>
 <tr>
 <td></td>
@@ -2662,7 +2665,7 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 </tr>
 <tr>
 <td colspan="5">Функ.группа</td>
-<td rowspan="5">
+<td>
 Сумма
 (тыс.тенге)
 </td>
@@ -2670,18 +2673,22 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <tr>
 <td rowspan="4"></td>
 <td colspan="4">Функ.подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="3"></td>
 <td colspan="3">Администратор</td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2"></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Н а и м е н о в а н и е</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2692,12 +2699,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>6</th>
 </tr>
 <tr>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>6 610 358</td>
+<th>16</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Погашение займов</th>
+<th>6 610 358</th>
 </tr>
 <tr>
 <td></td>
@@ -2761,18 +2768,18 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>5</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>I. Доходы</td>
-<td>79 062 847</td>
+<th></th>
+<th></th>
+<th></th>
+<th>I. Доходы</th>
+<th>79 062 847</th>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td>Налоговые поступления</td>
-<td>41 663 850</td>
+<th>1</th>
+<th></th>
+<th></th>
+<th>Налоговые поступления</th>
+<th>41 663 850</th>
 </tr>
 <tr>
 <td></td>
@@ -2817,11 +2824,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>14 762 802</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>462 753</td>
+<th>2</th>
+<th></th>
+<th></th>
+<th>Неналоговые поступления</th>
+<th>462 753</th>
 </tr>
 <tr>
 <td></td>
@@ -2873,11 +2880,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>426 190</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>36 936 244</td>
+<th>4</th>
+<th></th>
+<th></th>
+<th>Поступления трансфертов</th>
+<th>36 936 244</th>
 </tr>
 <tr>
 <td></td>
@@ -2912,7 +2919,7 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <table>
 <tr>
 <td colspan="5">Функ.группа</td>
-<td rowspan="5">
+<td>
 Сумма
 (тыс.тенге)
 </td>
@@ -2920,18 +2927,22 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <tr>
 <td rowspan="4"></td>
 <td colspan="4">Функ.подгруппа</td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="3"></td>
 <td colspan="3">Администратор</td>
+<td></td>
 </tr>
 <tr>
 <td rowspan="2"></td>
 <td colspan="2">Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Н а и м е н о в а н и е</td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2942,20 +2953,20 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>6</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Затраты</td>
-<td>79 219 741</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>II. Затраты</th>
+<th>79 219 741</th>
 </tr>
 <tr>
-<td>01</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>1 026 982</td>
+<th>01</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Государственные услуги общего характера</th>
+<th>1 026 982</th>
 </tr>
 <tr>
 <td></td>
@@ -3134,12 +3145,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>1 367</td>
 </tr>
 <tr>
-<td>02</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оборона</td>
-<td>69 699</td>
+<th>02</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Оборона</th>
+<th>69 699</th>
 </tr>
 <tr>
 <td></td>
@@ -3222,12 +3233,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>3 500</td>
 </tr>
 <tr>
-<td>03</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>4 508 807</td>
+<th>03</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</th>
+<th>4 508 807</th>
 </tr>
 <tr>
 <td></td>
@@ -3286,12 +3297,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>69 842</td>
 </tr>
 <tr>
-<td>04</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Образование</td>
-<td>11 319 897</td>
+<th>04</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Образование</th>
+<th>11 319 897</th>
 </tr>
 <tr>
 <td></td>
@@ -3542,12 +3553,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>27 165</td>
 </tr>
 <tr>
-<td>05</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Здравоохранение</td>
-<td>8 583 209</td>
+<th>05</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Здравоохранение</th>
+<th>8 583 209</th>
 </tr>
 <tr>
 <td></td>
@@ -3822,12 +3833,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>878 621</td>
 </tr>
 <tr>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Социальная помощь и социальное обеспечение</td>
-<td>1 334 400</td>
+<th>06</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Социальная помощь и социальное обеспечение</th>
+<th>1 334 400</th>
 </tr>
 <tr>
 <td></td>
@@ -3958,12 +3969,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>44 314</td>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>8 231 373</td>
+<th>07</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Жилищно-коммунальное хозяйство</th>
+<th>8 231 373</th>
 </tr>
 <tr>
 <td></td>
@@ -4038,12 +4049,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>13 125</td>
 </tr>
 <tr>
-<td>08</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Культура, спорт, туризм и информационное пространство</td>
-<td>4 984 334</td>
+<th>08</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Культура, спорт, туризм и информационное пространство</th>
+<th>4 984 334</th>
 </tr>
 <tr>
 <td></td>
@@ -4366,12 +4377,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>6 883</td>
 </tr>
 <tr>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Топливно-энергетический комплекс и недропользование</td>
-<td>1 440 195</td>
+<th>09</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Топливно-энергетический комплекс и недропользование</th>
+<th>1 440 195</th>
 </tr>
 <tr>
 <td></td>
@@ -4398,12 +4409,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>1 440 195</td>
 </tr>
 <tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>6 253 298</td>
+<th>10</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</th>
+<th>6 253 298</th>
 </tr>
 <tr>
 <td></td>
@@ -4750,12 +4761,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>3 204</td>
 </tr>
 <tr>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Промышленность, архитектурная, градостроительная и строительная деятельность</td>
-<td>158 129</td>
+<th>11</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Промышленность, архитектурная, градостроительная и строительная деятельность</th>
+<th>158 129</th>
 </tr>
 <tr>
 <td></td>
@@ -4806,12 +4817,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>100 000</td>
 </tr>
 <tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Транспорт и коммуникации</td>
-<td>2 445 761</td>
+<th>12</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Транспорт и коммуникации</th>
+<th>2 445 761</th>
 </tr>
 <tr>
 <td></td>
@@ -4886,12 +4897,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>93</td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>13 253 958</td>
+<th>13</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Прочие</th>
+<th>13 253 958</th>
 </tr>
 <tr>
 <td></td>
@@ -4990,12 +5001,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>323</td>
 </tr>
 <tr>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Трансферты</td>
-<td>15 609 699</td>
+<th>15</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Трансферты</th>
+<th>15 609 699</th>
 </tr>
 <tr>
 <td></td>
@@ -5022,28 +5033,28 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>15 609 699</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>III. Чистое бюджетное кредитование</td>
-<td>-634 513</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>III. Чистое бюджетное кредитование</th>
+<th>-634 513</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бюджетные кредиты</td>
-<td>3 014 500</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Бюджетные кредиты</th>
+<th>3 014 500</th>
 </tr>
 <tr>
-<td>06</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Социальная помощь и социальное обеспечение</td>
-<td>577 000</td>
+<th>06</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Социальная помощь и социальное обеспечение</th>
+<th>577 000</th>
 </tr>
 <tr>
 <td></td>
@@ -5070,12 +5081,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <td>577 000</td>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>2 437 500</td>
+<th>07</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Жилищно-коммунальное хозяйство</th>
+<th>2 437 500</th>
 </tr>
 <tr>
 <td></td>
@@ -5136,11 +5147,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>5</th>
 </tr>
 <tr>
-<td>5</td>
-<td></td>
-<td colspan="2"></td>
-<td>Погашение бюджетных кредитов</td>
-<td>3 649 013</td>
+<th>5</th>
+<th></th>
+<th colspan="2"></th>
+<th>Погашение бюджетных кредитов</th>
+<th>3 649 013</th>
 </tr>
 <tr>
 <td></td>
@@ -5196,36 +5207,36 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>6</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>IV. Сальдо по операциям с финансовыми активами</th>
+<th>0</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Приобретение финансовых активов</td>
-<td>0</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Приобретение финансовых активов</th>
+<th>0</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>V. Профицит бюджета</td>
-<td>477 619</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>V. Профицит бюджета</th>
+<th>477 619</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>VI. Использование профицита бюджета</td>
-<td>-477 619</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>VI. Использование профицита бюджета</th>
+<th>-477 619</th>
 </tr>
 <tr>
 <td></td>
@@ -5262,11 +5273,11 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>5</th>
 </tr>
 <tr>
-<td>7</td>
-<td></td>
-<td colspan="2"></td>
-<td>Поступление займов</td>
-<td>3 014 500</td>
+<th>7</th>
+<th></th>
+<th colspan="2"></th>
+<th>Поступление займов</th>
+<th>3 014 500</th>
 </tr>
 <tr>
 <td></td>
@@ -5322,12 +5333,12 @@ source: https://zan.gov.kz/client/#!/doc/76609/rus/14.05.2014
 <th>6</th>
 </tr>
 <tr>
-<td>16</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>3 492 119</td>
+<th>16</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Погашение займов</th>
+<th>3 492 119</th>
 </tr>
 <tr>
 <td></td>

@@ -1,26 +1,32 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
+source: https://zan.gov.kz/client/#!/doc/77065/kaz/05.08.2014
 ---
 
 ## 2016 жылға арналған Мәртөк ауданының бюджеті
 
-> *Ескерту. 3 қосымша жаңа редакцияда - Ақтөбе облысы Мәртөк аудандық мәслихатының 17.02.2014 № 113 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
+> *Ескерту. 3 қосымша жаңа редакцияда - Ақтөбе облысы Мәртөк аудандық мәслихатының 05.08.2014 № 138 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>АТАУЫ</td>
 </tr>
@@ -253,21 +259,30 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <table>
 <tr>
 <td colspan="5">Функ. топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функ. кіші топ</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Әкімші</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>АТАУЫ</td>
 </tr>
@@ -1405,7 +1420,7 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td></td>
 <td></td>
 <td>III. Таза бюджеттік кредит беру</td>
-<td>-9 624,0</td>
+<td>-10 316,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1448,87 +1463,81 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="5">Сана ты</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
-<td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th>3</th>
-<th></th>
+<th colspan="2">3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td>5</td>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>9 624,0</td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Бюджеттік кредиттерді өтеу</td>
-<td>9 624,0</td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>9 624,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td colspan="5">Функ. топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функ. кіші топ</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Әкімші</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>АТАУЫ</td>
 </tr>
@@ -1594,7 +1603,7 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы (профициті)</td>
-<td>9 624,0</td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1602,90 +1611,84 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>-9 624,0</td>
+<td>-10 316,0</td>
+</tr>
+<tr>
+<td colspan="5">Сана ты</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
-</tr>
-<tr>
-<td rowspan="3"></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th>3</th>
-<th></th>
+<th colspan="2">3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
-<td>2</td>
-<td></td>
+<td colspan="2"></td>
 <td>Қарыздар түсімі</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Мемлекеттік ішкі қарыздар</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">2</td>
 <td>Қарыз алу келісім-шарттары</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="5">Функ. топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
-<td rowspan="4"></td>
+<td></td>
 <td colspan="4">Функ. кіші топ</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
+<td></td>
 <td colspan="3">Әкімші</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>АТАУЫ</td>
 </tr>
@@ -1703,7 +1706,7 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>9 624,0</td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1711,7 +1714,7 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td></td>
 <td></td>
 <td>Қарыздарды өтеу</td>
-<td>9 624,0</td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1719,7 +1722,7 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>9 624,0</td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1727,62 +1730,55 @@ source: https://zan.gov.kz/client/#!/doc/77065/kaz/28.05.2014
 <td></td>
 <td>008</td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td>9 624,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>10 316,0</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
+<td></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td colspan="2"></td>
 <td>АТАУЫ</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th>3</th>
-<th></th>
+<th colspan="2">3</th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Бюджет қаражатының қалдықтары</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2">1</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>0,0</td>
 </tr>

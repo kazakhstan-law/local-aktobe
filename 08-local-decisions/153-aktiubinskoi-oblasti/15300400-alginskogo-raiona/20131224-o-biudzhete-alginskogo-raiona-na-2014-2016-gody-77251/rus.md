@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/77251/rus/28.05.2014
+source: https://zan.gov.kz/client/#!/doc/77251/rus/08.08.2014
 ---
 
 # О бюджете Алгинского района на 2014-2016 годы

@@ -1,5 +1,5 @@
 ---
-version_id: '77251_284236'
+version_id: '77251_284264'
 act_code: '77251'
 language: kaz
 title: 2014-2016 жылдарға арналған Алға ауданының бюджеті туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2013-12-24
-version_date: 2014-05-28
+version_date: 2014-08-08
 registry_number: '77251'
 caused_by:
-  code: '80639'
+  code: '82552'
   title: Аудандық мәслихаттың 2013 жылғы 24 желтоқсандағы № 121 "2014-2016 жылдарға арналған Алға ауданының бюджеті туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/80639/kaz
-source: https://zan.gov.kz/client/#!/doc/77251/kaz/28.05.2014
+  link: https://zan.gov.kz/client/#!/doc/82552/kaz
+source: https://zan.gov.kz/client/#!/doc/77251/kaz/08.08.2014
 ---
 
 # 2014-2016 жылдарға арналған Алға ауданының бюджеті туралы

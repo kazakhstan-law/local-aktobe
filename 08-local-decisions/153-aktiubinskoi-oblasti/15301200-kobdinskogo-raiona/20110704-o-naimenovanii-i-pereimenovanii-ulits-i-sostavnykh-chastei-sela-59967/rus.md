@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59967/rus/04.07.2011
+source: https://zan.gov.kz/client/#!/doc/59967/rus/11.12.2014
 ---
 
 # О наименовании и переименовании улиц и составных частей села Сарбулак

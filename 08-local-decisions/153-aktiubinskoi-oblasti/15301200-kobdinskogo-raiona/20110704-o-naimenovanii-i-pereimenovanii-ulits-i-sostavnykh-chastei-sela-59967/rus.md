@@ -1,5 +1,5 @@
 ---
-version_id: '59967_182391'
+version_id: '59967_182418'
 act_code: '59967'
 language: rus
 title: О наименовании и переименовании улиц и составных частей села Сарбулак
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153012004002'
 approval_date: 2011-07-04
-version_date: 2011-07-04
+version_date: 2014-12-11
 registry_number: '59967'
-source: https://zan.gov.kz/client/#!/doc/59967/rus/04.07.2011
+caused_by:
+  code: '85436'
+  title: О внесении изменений в решение акима Сарыбулакского аульного округа от 4 июля 2011 года № 6 "О наименовании и переименовании улиц и составных частей аула Сарыбулак"
+  link: https://zan.gov.kz/client/#!/doc/85436/rus
+source: https://zan.gov.kz/client/#!/doc/59967/rus/11.12.2014
 ---
 
 # О наименовании и переименовании улиц и составных частей села Сарбулак

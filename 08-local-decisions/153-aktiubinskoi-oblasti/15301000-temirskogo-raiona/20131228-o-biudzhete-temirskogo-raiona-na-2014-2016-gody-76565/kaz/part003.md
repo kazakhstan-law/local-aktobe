@@ -1,9 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
+source: https://zan.gov.kz/client/#!/doc/76565/kaz/12.12.2014
 ---
 
-## Темір ауданының 2016 жылға арналған бюджеті
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 28 желтоқсандағы*  
+> *№ 166 шешіміне 3-қосымша*
+
+# Темір ауданының 2016 жылға арналған бюджеті
 
 > *Ескерту. 3-қосымша жаңа редакцияда - Ақтөбе облысы Темір аудандық мәслихатының 19.02.2014 № 168 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
@@ -39,113 +43,113 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>2668176</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="4">Табыс салығы</td>
 <td>461530</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td colspan="4">Жеке табыс салығы</td>
 <td>461530</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td></td>
 <td colspan="4">Әлеуметтiк салық</td>
 <td>200000</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">03</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="4">Әлеуметтік салық</td>
 <td>200000</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="2"></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="4">Меншiкке салынатын салықтар</td>
 <td>1984369</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="4">Мүлiкке салынатын салықтар</td>
 <td>1923550</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td colspan="4">Жер салығы</td>
 <td>4114</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>4</td>
 <td colspan="4">Көлiк құралдарына салынатын салық</td>
 <td>53805</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">04</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>5</td>
 <td colspan="4">Бірыңғай жер салығы</td>
 <td>2900</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="2"></td>
 <td colspan="2">05</td>
 <td></td>
 <td colspan="4">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>16980</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td colspan="4">Акциздер</td>
 <td>2790</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td colspan="4">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>7500</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">05</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>4</td>
 <td colspan="4">Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>6620</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">05</td>
+<td colspan="2"></td>
 <td>5</td>
 <td colspan="4">Тіркелген салық</td>
 <td>70</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="2"></td>
 <td colspan="2">08</td>
 <td>5</td>
 <td colspan="4">Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды тұлғалар құжаттар бергені үшін алынатын міндетті төлемдер</td>
 <td>5297</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">08</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="4">Мемлекеттік баж</td>
 <td>5297</td>
@@ -158,29 +162,29 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>1081824</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="4">Мемлекеттік меншіктен түсетін кірістер</td>
 <td>3600</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>5</td>
 <td colspan="4">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>3600</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td colspan="2"></td>
 <td colspan="2">06</td>
 <td></td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
 <td>1078224</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="2">06</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="4">Басқа да салықтық емес түсiмдер</td>
 <td>1078224</td>
@@ -193,15 +197,15 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>50000</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td></td>
 <td colspan="4">Жердi және материалдық емес активтердi сату</td>
 <td>50000</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="2">03</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td colspan="4">Жерді сату</td>
 <td>50000</td>
@@ -214,19 +218,22 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>566238</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td colspan="2"></td>
 <td colspan="2">02</td>
 <td></td>
 <td colspan="4">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
 <td>566238</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="2">02</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td colspan="4">Облыстық бюджеттен түсетiн трансферттер</td>
 <td>566238</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="8">Функционалдық тобы</td>
 <td colspan="2" rowspan="5">2016 жылға нақтыланған бюджет, мың теңге</td>
@@ -1335,6 +1342,9 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>Мамандарды әлеуметтік қолдау шараларын іске асыруға берілетін бюджеттік кредиттер</td>
 <td colspan="2"></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="8">санаты</td>
 <td colspan="2" rowspan="4">Сомасы, мың теңге</td>
@@ -1375,6 +1385,9 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td colspan="2">7202</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="8">Функционалдық тобы</td>
 <td colspan="2" rowspan="5">Сомасы, мың теңге</td>
@@ -1419,6 +1432,9 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 <td>VІ. Бюджет тапшылығын қаржыландыру</td>
 <td colspan="2">- 7 202</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="8">санаты</td>
 <td colspan="2" rowspan="4">Сомасы, мың теңге</td>
@@ -1517,18 +1533,11 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-Аудандық мәслихаттың
-2013 жылғы 28 желтоқсандағы
-№ 166 шешіміне 4-қосымша
-</td>
-</tr>
-</table>
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 28 желтоқсандағы*  
+> *№ 166 шешіміне 4-қосымша*
 
-## 2014 жылға арналған аудандық бюджеттің орындалу процесінде секвестрлеуге жатпайтын аудандық бюджеттік бағдарламалардың тізбесі
+# 2014 жылға арналған аудандық бюджеттің орындалу процесінде секвестрлеуге жатпайтын аудандық бюджеттік бағдарламалардың тізбесі
 
 <table>
 <tr>
@@ -1636,37 +1645,30 @@ source: https://zan.gov.kz/client/#!/doc/76565/kaz/15.10.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>
-Аудандық мәслихаттың
-2013 жылғы 28 желтоқсандағы
-№ 166 шешіміне 5-қосымша
-</td>
-</tr>
-</table>
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 28 желтоқсандағы*  
+> *№ 166 шешіміне 5-қосымша*
 
-## 2014 жылға қалалық, ауылдық округтері бюджеттік бағдарламаларының тізбесі
+# 2014 жылға қалалық, ауылдық округтері бюджеттік бағдарламаларының тізбесі
 
 <table>
 <tr>
 <td></td>
-<td>.001</td>
-<td>.003</td>
-<td>.008</td>
-<td>.009</td>
-<td>.011</td>
-<td>.040</td>
+<td>001</td>
+<td>003</td>
+<td>008</td>
+<td>009</td>
+<td>011</td>
+<td>040</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>Елді мекендерде көшелерді жарықтан дыру</td>
-<td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>Елді мекен- дерде көше- лерді жарық- тан дыру</td>
+<td>Елді мекен- дердің санита- риясын қамтама- сыз ету</td>
+<td>Елді мекен- дерді абаттан- дыру мен көгал- дандыру</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>Барлығы</td>
 </tr>

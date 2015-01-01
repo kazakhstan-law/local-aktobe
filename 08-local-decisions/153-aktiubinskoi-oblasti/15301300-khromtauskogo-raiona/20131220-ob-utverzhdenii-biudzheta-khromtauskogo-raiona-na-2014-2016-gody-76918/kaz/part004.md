@@ -1,9 +1,14 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
+source: https://zan.gov.kz/client/#!/doc/76918/kaz/01.01.2015
 ---
 
-## 2016 жылға арналған аудандық бюджет
+> *Аудандық мәслихаттың*  
+> *2013 жылғы*  
+> *20 желтоқсандағы № 145 шешіміне*  
+> *№ 4 қосымша*
+
+# 2016 жылға арналған аудандық бюджет
 
 <table>
 <tr>
@@ -23,11 +28,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
 <td>АТАУЫ</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -515,12 +520,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
 <td>АТАУЫ</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1479,7 +1484,7 @@ source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
 <td></td>
 <td></td>
 <td>040</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>&quot;Өңірлерді дамыту&quot; Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>14 896</td>
 </tr>
 <tr>
@@ -1579,11 +1584,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
 <td colspan="2">АТАУЫ</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1627,12 +1632,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
 <td>АТАУЫ</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1715,11 +1720,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/kaz/20.10.2014
 <td colspan="2">АТАУЫ</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>

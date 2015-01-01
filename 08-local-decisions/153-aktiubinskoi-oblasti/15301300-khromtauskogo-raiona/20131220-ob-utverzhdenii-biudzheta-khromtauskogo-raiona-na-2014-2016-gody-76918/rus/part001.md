@@ -1,9 +1,13 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
+source: https://zan.gov.kz/client/#!/doc/76918/rus/01.01.2015
 ---
 
-## Районный бюджет на 2014 год
+> *Приложение № 1*  
+> *к решению № 145 районного*  
+> *маслихата от 20 декабря 2013 года*
+
+# Районный бюджет на 2014 год
 
 > *Сноска. Приложение 1 - в редакции решения маслихата Хромтауского района Актюбинской области от 20.10.2014 № 205 (вводится в действие с 01.01.2014).*
 
@@ -25,11 +29,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -518,12 +522,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 
 <table>
 <tr>
-<td colspan="5">Функ.группа</td>
+<td colspan="5">Функ. группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td rowspan="4"></td>
-<td colspan="4">Функ.подгруппа</td>
+<td colspan="4">Функ. подгруппа</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
@@ -538,12 +542,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1718,7 +1722,7 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td></td>
 <td></td>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 <td>14 896</td>
 </tr>
 <tr>
@@ -1989,11 +1993,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2037,12 +2041,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>13</td>
@@ -2125,11 +2129,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2173,12 +2177,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2229,11 +2233,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2263,7 +2267,7 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 > *районного маслихата*  
 > *от 20 декабря 2013 года*
 
-## Перечень районных бюджетных программ на 2014 года не подлежащих секвестированию в процессе исполнения районного бюджета
+# Перечень районных бюджетных программ на 2014 года не подлежащих секвестированию в процессе исполнения районного бюджета
 
 <table>
 <tr>
@@ -2305,7 +2309,7 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 > *к решению № 145 районного*  
 > *маслихата от 20 декабря 2013 года*
 
-## Районный бюджет на 2015 год
+# Районный бюджет на 2015 год
 
 <table>
 <tr>
@@ -2325,11 +2329,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2817,12 +2821,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3805,7 +3809,7 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td></td>
 <td></td>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 <td>14 896</td>
 </tr>
 <tr>
@@ -3905,11 +3909,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3953,12 +3957,12 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>13</td>
@@ -4041,11 +4045,11 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4069,7 +4073,3 @@ source: https://zan.gov.kz/client/#!/doc/76918/rus/20.10.2014
 <td>27 780</td>
 </tr>
 </table>
-
-> *Приложение № 4*  
-> *к решению № 145 районного*  
-> *маслихата от 20 декабря 2013 года*

@@ -10,8 +10,15 @@ approved_on: 2014-07-23
 approved_by:
 - '153008003001'
 version_date:
-  kaz: 2014-07-23
-  rus: 2014-07-23
+  kaz: 2015-02-24
+  rus: 2015-02-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/81635/kaz/23.07.2014
-  rus: https://zan.gov.kz/client/#!/doc/81635/rus/23.07.2014
+  kaz: https://zan.gov.kz/client/#!/doc/81635/kaz/24.02.2015
+  rus: https://zan.gov.kz/client/#!/doc/81635/rus/24.02.2015
+caused_by:
+  code: '87380'
+  requisite: ''
+  title:
+    rus: О внесении изменений в некоторые решения акима Каратогайского сельского округа
+    kaz: Қаратоғай селолық округі әкімінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/87380/rus

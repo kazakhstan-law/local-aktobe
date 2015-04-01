@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
+source: https://zan.gov.kz/client/#!/doc/86060/rus/01.04.2015
 ---
 
 > *Приложение № 3*  
@@ -1612,32 +1612,28 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 
 # Объемы финансирования бюджетных программ аппаратов акимов города Шалкар и сельских округов на 2015 год
 
-> *Сноска. Приложение 5 – в редакции решения маслихата Шалкарского района Актюбинской области от 13.03.2015 № 199 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 5 – в редакции решения маслихата Шалкарского района Актюбинской области от 01.04.2015 № 207 (вводится в действие с 01.01.2015).*
 
 (тыс. тенге)
 
 <table>
 <tr>
-<td rowspan="5"></td>
-<td colspan="2" rowspan="5">Услуги по обеспечению аппарата акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2">Услуги по обеспечению аппарата акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="2" rowspan="2">Организация сохранения государственного жилищного фонда города районного значения, поселка, села, сельского округа</td>
 <td colspan="5">Благоустройство населенных пунктов</td>
-<td rowspan="5">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td rowspan="5">Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
+<td rowspan="2">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
+<td rowspan="2">Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов&quot;</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4">Освещение улиц населенных пунктов</td>
-<td colspan="2" rowspan="4">Обеспечение санитарии населенных пунктов</td>
-<td rowspan="4">Благоустройство и озеленение населенных пунктов</td>
+<td colspan="2">Освещение улиц населенных пунктов</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 </tr>
 <tr>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">123 001 000</td>
+<td colspan="2">123 007 000</td>
 <td colspan="2">123 008 000</td>
 <td colspan="2">123 009 000</td>
 <td>123 011 000</td>
@@ -1645,8 +1641,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>123 040 000</td>
 </tr>
 <tr>
-<td>город Шалкар</td>
-<td colspan="2">32785,0</td>
+<td colspan="2">город Шалкар</td>
+<td colspan="2">31911,0</td>
+<td colspan="2"></td>
 <td colspan="2">17427,0</td>
 <td colspan="2">11788,0</td>
 <td>7085,0</td>
@@ -1654,7 +1651,8 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td></td>
 </tr>
 <tr>
-<td>сельские округа</td>
+<td colspan="2">сельские округа</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1663,8 +1661,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td></td>
 </tr>
 <tr>
-<td>Айшуак</td>
-<td colspan="2">16151,0</td>
+<td colspan="2">Айшуак</td>
+<td colspan="2">15610,0</td>
+<td colspan="2"></td>
 <td colspan="2">244,0</td>
 <td colspan="2">141,0</td>
 <td>227,0</td>
@@ -1672,8 +1671,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Актогай</td>
-<td colspan="2">12839,0</td>
+<td colspan="2">Актогай</td>
+<td colspan="2">12408,0</td>
+<td colspan="2"></td>
 <td colspan="2">194,0</td>
 <td colspan="2">140,0</td>
 <td>380,0</td>
@@ -1681,8 +1681,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Биршогыр</td>
-<td colspan="2">15365,0</td>
+<td colspan="2">Биршогыр</td>
+<td colspan="2">14782,0</td>
+<td colspan="2"></td>
 <td colspan="2">140,0</td>
 <td colspan="2">171,0</td>
 <td>391,0</td>
@@ -1690,8 +1691,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>1033,7</td>
 </tr>
 <tr>
-<td>Бозой</td>
-<td colspan="2">17415,0</td>
+<td colspan="2">Бозой</td>
+<td colspan="2">18367,0</td>
+<td colspan="2"></td>
 <td colspan="2">321,0</td>
 <td colspan="2">500,0</td>
 <td>500,0</td>
@@ -1699,8 +1701,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Есет Котибарулы</td>
-<td colspan="2">14845,0</td>
+<td colspan="2">Есет Котибарулы</td>
+<td colspan="2">14400,0</td>
+<td colspan="2"></td>
 <td colspan="2">183,0</td>
 <td colspan="2">125,0</td>
 <td>345,0</td>
@@ -1708,8 +1711,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Жанаконыс</td>
-<td colspan="2">13544,0</td>
+<td colspan="2">Жанаконыс</td>
+<td colspan="2">13094,0</td>
+<td colspan="2"></td>
 <td colspan="2">176,0</td>
 <td colspan="2">64,0</td>
 <td>106,0</td>
@@ -1717,8 +1721,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Кауылжыр</td>
-<td colspan="2">15826,0</td>
+<td colspan="2">Кауылжыр</td>
+<td colspan="2">15241,0</td>
+<td colspan="2"></td>
 <td colspan="2">163,0</td>
 <td colspan="2">185,0</td>
 <td>187,0</td>
@@ -1726,8 +1731,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>1812,1</td>
 </tr>
 <tr>
-<td>Кишикум</td>
-<td colspan="2">14476,0</td>
+<td colspan="2">Кишикум</td>
+<td colspan="2">13952,0</td>
+<td colspan="2"></td>
 <td colspan="2">230,0</td>
 <td colspan="2">140,0</td>
 <td>382,0</td>
@@ -1735,8 +1741,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Монке би</td>
-<td colspan="2">12939,0</td>
+<td colspan="2">Монке би</td>
+<td colspan="2">12543,0</td>
+<td colspan="2"></td>
 <td colspan="2">170,0</td>
 <td colspan="2">141,0</td>
 <td>215,0</td>
@@ -1744,8 +1751,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>1296,2</td>
 </tr>
 <tr>
-<td>Тогыз</td>
-<td colspan="2">11228,0</td>
+<td colspan="2">Тогыз</td>
+<td colspan="2">10807,0</td>
+<td colspan="2"></td>
 <td colspan="2">105,0</td>
 <td colspan="2">141,0</td>
 <td>375,0</td>
@@ -1753,8 +1761,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>1091,2</td>
 </tr>
 <tr>
-<td>Шалкар</td>
-<td colspan="2">11429,0</td>
+<td colspan="2">Шалкар</td>
+<td colspan="2">11016,0</td>
+<td colspan="2"></td>
 <td colspan="2">167,0</td>
 <td colspan="2">132,0</td>
 <td>354,0</td>
@@ -1762,8 +1771,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Шетыргыз</td>
-<td colspan="2">16744,0</td>
+<td colspan="2">Шетыргыз</td>
+<td colspan="2">16287,0</td>
+<td colspan="2">33,4</td>
 <td colspan="2">189,0</td>
 <td colspan="2">173,0</td>
 <td>226,0</td>
@@ -1771,8 +1781,9 @@ source: https://zan.gov.kz/client/#!/doc/86060/rus/13.03.2015
 <td>0,0</td>
 </tr>
 <tr>
-<td>Итого</td>
-<td colspan="2">205586,0</td>
+<td colspan="2">Итого</td>
+<td colspan="2">200418,0</td>
+<td colspan="2">33,4</td>
 <td colspan="2">19709,0</td>
 <td colspan="2">13841,0</td>
 <td>10773,0</td>

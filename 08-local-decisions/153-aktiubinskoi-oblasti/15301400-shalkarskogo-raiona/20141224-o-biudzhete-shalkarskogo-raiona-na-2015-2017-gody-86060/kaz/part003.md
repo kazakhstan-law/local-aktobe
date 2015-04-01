@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86060/kaz/13.03.2015
+source: https://zan.gov.kz/client/#!/doc/86060/kaz/01.04.2015
 ---
 
 > *Аудандық мәслихаттың*  
@@ -1613,24 +1613,23 @@ source: https://zan.gov.kz/client/#!/doc/86060/kaz/13.03.2015
 
 # Шалқар қаласы және ауылдық округ әкімдері аппараттарының 2015 жылға арналған бюджеттік бағдарламаларын қаржыландыру көлемі
 
-> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 13.03.2015 № 199 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 01.04.2015 № 207 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 (мың теңге)
 
 <table>
 <tr>
-<td rowspan="5"></td>
-<td colspan="2" rowspan="5">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="4">Елді мекендерді абаттандыру</td>
-<td colspan="3" rowspan="5">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td rowspan="5">&quot;Өңірлерді дамыту&quot;Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td rowspan="4"></td>
+<td rowspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2" rowspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округтің мемлекеттік тұрғын үй қорының сақталуын ұйымдастыру</td>
+<td colspan="6">Елді мекендерді абаттандыру</td>
+<td colspan="2" rowspan="4">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td rowspan="4">&quot;Өңірлерді дамыту &quot;Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td rowspan="4">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td rowspan="4">Елді мекендерді абаттандыру мен көгалдандыру</td>
-</tr>
-<tr>
+<td colspan="2" rowspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="2" rowspan="3">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="2" rowspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
 </tr>
 <tr>
 </tr>
@@ -1638,146 +1637,162 @@ source: https://zan.gov.kz/client/#!/doc/86060/kaz/13.03.2015
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123001000</td>
-<td colspan="2">123008000</td>
-<td>123009000</td>
-<td>123011000</td>
-<td colspan="3">123013000</td>
-<td>123040000</td>
+<td>123 001 000</td>
+<td colspan="2">123 007 000</td>
+<td colspan="2">123 008 000</td>
+<td colspan="2">123 009 000</td>
+<td colspan="2">123 011 000</td>
+<td colspan="2">123 013 000</td>
+<td>123 040 000</td>
 </tr>
 <tr>
 <td>Шалқар қаласы</td>
-<td colspan="2">32785,0</td>
+<td>31911,0</td>
+<td colspan="2"></td>
 <td colspan="2">17427,0</td>
-<td>11788,0</td>
-<td>7085,0</td>
-<td colspan="3">749,0</td>
+<td colspan="2">11788,0</td>
+<td colspan="2">7085,0</td>
+<td colspan="2">749,0</td>
 <td></td>
 </tr>
 <tr>
 <td>ауылдық округтер</td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>Айшуақ</td>
-<td colspan="2">16151,0</td>
+<td>15610,0</td>
+<td colspan="2"></td>
 <td colspan="2">244,0</td>
-<td>141,0</td>
-<td>227,0</td>
-<td colspan="3"></td>
+<td colspan="2">141,0</td>
+<td colspan="2">227,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Ақтоғай</td>
-<td colspan="2">12839,0</td>
+<td>12408,0</td>
+<td colspan="2"></td>
 <td colspan="2">194,0</td>
-<td>140,0</td>
-<td>380,0</td>
-<td colspan="3"></td>
+<td colspan="2">140,0</td>
+<td colspan="2">380,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Біршоғыр</td>
-<td colspan="2">15365,0</td>
+<td>14782,0</td>
+<td colspan="2"></td>
 <td colspan="2">140,0</td>
-<td>171,0</td>
-<td>391,0</td>
-<td colspan="3"></td>
+<td colspan="2">171,0</td>
+<td colspan="2">391,0</td>
+<td colspan="2"></td>
 <td>1033,7</td>
 </tr>
 <tr>
 <td>Бозой</td>
-<td colspan="2">17415,0</td>
+<td>18367,0</td>
+<td colspan="2"></td>
 <td colspan="2">321,0</td>
-<td>500,0</td>
-<td>500,0</td>
-<td colspan="3"></td>
+<td colspan="2">500,0</td>
+<td colspan="2">500,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Есет Көтібарұлы</td>
-<td colspan="2">14845,0</td>
+<td>14400,0</td>
+<td colspan="2"></td>
 <td colspan="2">183,0</td>
-<td>125,0</td>
-<td>345,0</td>
-<td colspan="3"></td>
+<td colspan="2">125,0</td>
+<td colspan="2">345,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Жанақоныс</td>
-<td colspan="2">13544,0</td>
+<td>13094,0</td>
+<td colspan="2"></td>
 <td colspan="2">176,0</td>
-<td>64,0</td>
-<td>106,0</td>
-<td colspan="3"></td>
+<td colspan="2">64,0</td>
+<td colspan="2">106,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Қауылжыр</td>
-<td colspan="2">15826,0</td>
+<td>15241,0</td>
+<td colspan="2"></td>
 <td colspan="2">163,0</td>
-<td>185,0</td>
-<td>187,0</td>
-<td colspan="3"></td>
+<td colspan="2">185,0</td>
+<td colspan="2">187,0</td>
+<td colspan="2"></td>
 <td>1812,1</td>
 </tr>
 <tr>
 <td>Кішіқұм</td>
-<td colspan="2">14476,0</td>
+<td>13952,0</td>
+<td colspan="2"></td>
 <td colspan="2">230,0</td>
-<td>140,0</td>
-<td>382,0</td>
-<td colspan="3"></td>
+<td colspan="2">140,0</td>
+<td colspan="2">382,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Мөңке би</td>
-<td colspan="2">12939,0</td>
+<td>12543,0</td>
+<td colspan="2"></td>
 <td colspan="2">170,0</td>
-<td>141,0</td>
-<td>215,0</td>
-<td colspan="3"></td>
+<td colspan="2">141,0</td>
+<td colspan="2">215,0</td>
+<td colspan="2"></td>
 <td>1296,2</td>
 </tr>
 <tr>
 <td>Тоғыз</td>
-<td colspan="2">11228,0</td>
+<td>10807,0</td>
+<td colspan="2"></td>
 <td colspan="2">105,0</td>
-<td>141,0</td>
-<td>375,0</td>
-<td colspan="3"></td>
+<td colspan="2">141,0</td>
+<td colspan="2">375,0</td>
+<td colspan="2"></td>
 <td>1091,2</td>
 </tr>
 <tr>
 <td>Шалқар</td>
-<td colspan="2">11429,0</td>
+<td>11016,0</td>
+<td colspan="2"></td>
 <td colspan="2">167,0</td>
-<td>132,0</td>
-<td>354,0</td>
-<td colspan="3"></td>
+<td colspan="2">132,0</td>
+<td colspan="2">354,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Шетырғыз</td>
-<td colspan="2">16744,0</td>
+<td>16287,0</td>
+<td colspan="2">33,4</td>
 <td colspan="2">189,0</td>
-<td>173,0</td>
-<td>226,0</td>
-<td colspan="3"></td>
+<td colspan="2">173,0</td>
+<td colspan="2">226,0</td>
+<td colspan="2"></td>
 <td>0,0</td>
 </tr>
 <tr>
 <td>Жиыны</td>
-<td colspan="2">205586,0</td>
+<td>200418,0</td>
+<td colspan="2">33,4</td>
 <td colspan="2">19709,0</td>
-<td>13841,0</td>
-<td>10773,0</td>
-<td colspan="3">749,0</td>
+<td colspan="2">13841,0</td>
+<td colspan="2">10773,0</td>
+<td colspan="2">749,0</td>
 <td>5233,2</td>
 </tr>
 </table>

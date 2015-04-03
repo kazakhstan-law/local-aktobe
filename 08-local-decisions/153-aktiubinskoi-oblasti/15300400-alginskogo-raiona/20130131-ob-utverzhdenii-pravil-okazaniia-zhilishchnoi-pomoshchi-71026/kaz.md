@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71026/kaz/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/71026/kaz/03.04.2015
 ---
 
 # Тұрғын үй көмегін көрсету Қағидасын бекіту туралы

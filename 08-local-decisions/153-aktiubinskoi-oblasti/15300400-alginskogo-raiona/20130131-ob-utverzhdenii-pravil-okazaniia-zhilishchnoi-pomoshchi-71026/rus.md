@@ -1,5 +1,5 @@
 ---
-version_id: '71026_242122'
+version_id: '71026_10454'
 act_code: '71026'
 language: rus
 title: Об утверждении Правил оказания жилищной помощи
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153004000002'
 approval_date: 2013-01-31
-version_date: 2013-11-08
+version_date: 2015-04-03
 registry_number: '71026'
 caused_by:
-  code: '75644'
-  title: О внесении изменений в решение Алгинского районного маслихата от 31 января 2013 года № 70 "Об утверждении Правил оказания жилищной помощи"
-  link: https://zan.gov.kz/client/#!/doc/75644/rus
-source: https://zan.gov.kz/client/#!/doc/71026/rus/08.11.2013
+  code: '88649'
+  title: О внесении изменений в решение районного маслихата от 31 января 2013 года № 70 «Об утверждении Правил оказания жилищной помощи»
+  link: https://zan.gov.kz/client/#!/doc/88649/rus
+source: https://zan.gov.kz/client/#!/doc/71026/rus/03.04.2015
 ---
 
 # Об утверждении Правил оказания жилищной помощи

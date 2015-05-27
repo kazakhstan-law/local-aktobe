@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85743/kaz/27.03.2015
+source: https://zan.gov.kz/client/#!/doc/85743/kaz/27.05.2015
 ---
 
 > *Облыстық мәслихаттың 2014 жылғы*  

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86159/kaz/06.04.2015
+source: https://zan.gov.kz/client/#!/doc/86159/kaz/10.06.2015
 ---
 
 > *Мұғалжар аудандық мәслихатының*  
@@ -1796,11 +1796,11 @@ source: https://zan.gov.kz/client/#!/doc/86159/kaz/06.04.2015
 
 > *Мұғалжар аудандық мәслихатының*  
 > *2014 жылғы 24 желтоқсандағы № 184 шешіміне*  
-> *№ 5 ҚОСЫМША*
+> *5 ҚОСЫМША*
 
 # Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімі аппаратының 2015 жылға бюджеттік бағдарламалары
 
-> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Мұғалжар аудандық мәслихатының 06.04.2015 № 219 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Мұғалжар аудандық мәслихатының 10.06.2015 № 230 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -1808,9 +1808,9 @@ source: https://zan.gov.kz/client/#!/doc/86159/kaz/06.04.2015
 <td rowspan="3">қалалық, ауылдық округтер атауы</td>
 <td rowspan="3">001 &quot;Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер&quot;</td>
 <td rowspan="3">003 &quot;Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету&quot;</td>
-<td colspan="2" rowspan="3">008 &quot;Елді мекендерде көшелерді жарықтандыру&quot;</td>
-<td colspan="2" rowspan="3">009 &quot;Елді мекендердің санитариясын қамтамасыз ету&quot;</td>
-<td colspan="2" rowspan="3">010 &quot;Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу&quot;</td>
+<td rowspan="3">008 &quot;Елді мекендерде көшелерді жарықтан-дыру&quot;</td>
+<td rowspan="3">009 &quot;Елді мекендер-дің санита-риясын қамта-масыз ету&quot;</td>
+<td rowspan="3">010 &quot;Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу&quot;</td>
 </tr>
 <tr>
 </tr>
@@ -1821,144 +1821,144 @@ source: https://zan.gov.kz/client/#!/doc/86159/kaz/06.04.2015
 <td>Қандыағаш қалалық округі</td>
 <td>24 463,0</td>
 <td></td>
-<td colspan="2">13 489,0</td>
-<td colspan="2">10 600,0</td>
-<td colspan="2">200,0</td>
+<td>13 309,0</td>
+<td>10 600,0</td>
+<td>200,0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Ембі қалалық округі</td>
-<td>29 003,0</td>
+<td>29 603,0</td>
 <td></td>
-<td colspan="2">2 500,0</td>
-<td colspan="2">2 449,0</td>
-<td colspan="2">100,0</td>
+<td>2 500,0</td>
+<td>2 249,0</td>
+<td>100,0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Жем қалалық округі</td>
-<td>14 577,0</td>
+<td>14 907,0</td>
 <td></td>
-<td colspan="2">1 400,0</td>
-<td colspan="2">347,0</td>
-<td colspan="2"></td>
+<td>1 120,0</td>
+<td>297,0</td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>Ақкемер ауылдық округі</td>
-<td>12 147,0</td>
+<td>12 327,0</td>
 <td>565,0</td>
-<td colspan="2">1 500,0</td>
-<td colspan="2">55,0</td>
-<td colspan="2"></td>
+<td>1 500,0</td>
+<td>55,0</td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
 <td>Ащысай ауылдық округі</td>
-<td>10 211,0</td>
+<td>10 253,0</td>
 <td></td>
-<td colspan="2">800,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>2 000,0</td>
+<td>486,0</td>
+<td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>Батпақкөл ауылдық округі</td>
-<td>11 504,0</td>
+<td>11 537,0</td>
 <td></td>
-<td colspan="2">1 900,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>3 511,0</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
 <td>Егіндібұлақ ауылдық округі</td>
 <td>10 190,0</td>
 <td>499,0</td>
-<td colspan="2">800,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>800,0</td>
+<td>243,0</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Еңбек ауылдық округі</td>
 <td>10 877,0</td>
 <td></td>
-<td colspan="2">320,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>1 966,8</td>
+<td>242,0</td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Қ.Жұбанов атындағы ауылдық округ</td>
-<td>9 784,0</td>
+<td>9 964,0</td>
 <td></td>
-<td colspan="2">1 400,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>1 553,0</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>10</td>
 <td>Жұрын ауылдық округі</td>
 <td>11 540,0</td>
 <td>1 537,0</td>
-<td colspan="2">2 200,0</td>
-<td colspan="2">55,0</td>
-<td colspan="2"></td>
+<td>2 200,0</td>
+<td>298,0</td>
+<td></td>
 </tr>
 <tr>
 <td>11</td>
 <td>Қайыңды ауылдық округі</td>
 <td>13 588,0</td>
 <td></td>
-<td colspan="2">220,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>220,0</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
 <td>Құмжарған ауылдық округі</td>
-<td>10 800,0</td>
+<td>11 000,0</td>
 <td></td>
-<td colspan="2">1 100,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>1 837,0</td>
+<td>243,0</td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
 <td>Құмсай ауылдық округі</td>
 <td>10 974,0</td>
 <td></td>
-<td colspan="2">1 500,0</td>
-<td colspan="2">42,0</td>
-<td colspan="2"></td>
+<td>1 500,0</td>
+<td>285,0</td>
+<td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>Талдысай ауылдық округі</td>
-<td>10 627,0</td>
+<td>10 880,0</td>
 <td></td>
-<td colspan="2">1 000,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>1 600,0</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>15</td>
-<td>Мұғалжар ауылы</td>
-<td>17 508,2</td>
+<td>Мұғалжар селосы</td>
+<td>18 038,2</td>
 <td></td>
-<td colspan="2">1 000,0</td>
-<td colspan="2">-</td>
-<td colspan="2"></td>
+<td>1 500,0</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Жиыны</td>
-<td>207 793,2</td>
+<td>210 141,2</td>
 <td>2 601,0</td>
-<td colspan="2">31 129,0</td>
-<td colspan="2">13 548,0</td>
-<td colspan="2">300,0</td>
+<td>37 116,8</td>
+<td>14 998,0</td>
+<td>300,0</td>
 </tr>
 </table>
 
@@ -1966,139 +1966,143 @@ source: https://zan.gov.kz/client/#!/doc/86159/kaz/06.04.2015
 
 <table>
 <tr>
-<td>011 &quot;Елді мекендерді абаттандыру мен көгалдандыру&quot;</td>
-<td>013 &quot;Аудандық маңызы бар қалаларда, кенттерде, ауылдарда , ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету&quot;</td>
-<td>022 &quot; Мемлекеттік органдардың күрделі шығыстары&quot;</td>
-<td>040 &quot;«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру&quot;</td>
-<td colspan="2">045 &quot;Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу&quot;</td>
-<td colspan="2">барлығы (мың теңге)</td>
+<td rowspan="3">011 &quot;Елді мекендерді абаттандыру мен көгалдан-дыру&quot;</td>
+<td rowspan="3">013 &quot;Аудандық маңызы бар қалаларда, кенттерде, ауылдарда , ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету&quot;</td>
+<td rowspan="3">022 &quot; Мемлекеттік органдардың күрделі шығыстары&quot;</td>
+<td rowspan="3">040 &quot;«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру&quot;</td>
+<td rowspan="3">045 &quot;Елді-мекендер көшеле-ріндегі автомо-биль жолдарын күрделі және орташа жөндеу&quot;</td>
+<td rowspan="3">барлығы (мың теңге)</td>
 </tr>
 <tr>
-<td>-</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>252,0</td>
 <td>400,0</td>
 <td>-</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">49 152,0</td>
+<td></td>
+<td>49 224,0</td>
 </tr>
 <tr>
-<td></td>
-<td>770,0</td>
-<td>-</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">34 822,0</td>
-</tr>
-<tr>
-<td></td>
+<td>36,0</td>
+<td>4 770,0</td>
 <td>-</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">16 324,0</td>
+<td>39 258,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>16 324,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>230,0</td>
 <td>1 672,0</td>
-<td colspan="2"></td>
-<td colspan="2">16 169,0</td>
+<td></td>
+<td>16 349,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
-<td>725,0</td>
-<td colspan="2"></td>
-<td colspan="2">11 736,0</td>
-</tr>
-<tr>
+<td>32,0</td>
 <td></td>
-<td></td>
-<td>-</td>
-<td>-</td>
-<td colspan="2"></td>
-<td colspan="2">13 404,0</td>
+<td>12 771,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>-</td>
-<td colspan="2"></td>
-<td colspan="2">11 489,0</td>
+<td></td>
+<td>15 048,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>-</td>
-<td colspan="2"></td>
-<td colspan="2">11 197,0</td>
+<td></td>
+<td>11 732,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>13 085,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>747,0</td>
-<td colspan="2"></td>
-<td colspan="2">11 931,0</td>
+<td></td>
+<td>12 264,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>-</td>
-<td colspan="2"></td>
-<td colspan="2">15 332,0</td>
+<td></td>
+<td>15 575,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>-</td>
-<td colspan="2"></td>
-<td colspan="2">13 808,0</td>
+<td></td>
+<td>13 808,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>1 422,0</td>
-<td colspan="2"></td>
-<td colspan="2">13 322,0</td>
+<td></td>
+<td>14 502,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>-</td>
-<td colspan="2"></td>
-<td colspan="2">12 516,0</td>
+<td></td>
+<td>12 759,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
-<td>675,0</td>
-<td colspan="2"></td>
-<td colspan="2">12 302,0</td>
+<td>60,0</td>
+<td></td>
+<td>12 540,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>-</td>
 <td>1 932,0</td>
-<td colspan="2"></td>
-<td colspan="2">20 440,2</td>
+<td></td>
+<td>21 470,2</td>
 </tr>
 <tr>
-<td>-</td>
-<td>1 170,0</td>
+<td>288,0</td>
+<td>5 170,0</td>
 <td>230,0</td>
-<td>7 173,0</td>
-<td colspan="2"></td>
-<td colspan="2">263 944,2</td>
+<td>5 865,0</td>
+<td></td>
+<td>276 710,0</td>
 </tr>
 </table>

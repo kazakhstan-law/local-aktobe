@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2015-07-07
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '92623'
+    key: V15CLK04453
 version_date:
-  kaz: 2008-11-25
-  rus: 2008-11-25
+  kaz: 2015-07-07
+  rus: 2015-07-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/42735/kaz/25.11.2008
-  rus: https://zan.gov.kz/client/#!/doc/42735/rus/25.11.2008
+  kaz: https://zan.gov.kz/client/#!/doc/42735/kaz/07.07.2015
+  rus: https://zan.gov.kz/client/#!/doc/42735/rus/07.07.2015
+caused_by:
+  code: '92623'
+  key: V15CLK04453
+  requisite: Решение от 07.07.2015 №5, Акимат Табанталского сельского округа
+  title:
+    rus: О внесении изменений в решение от 25 ноября 2008 года № 1 "О присвоении названия улицам в населенных пунктах Табантальского сельского округа"
+    kaz: '"Табантал селолық округіне қарасты елді мекендерге көше атауын беру туралы" 2008 жылғы 25 қарашадағы № 1 шешіміне өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/92623/rus

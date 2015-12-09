@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/86004/kaz/06.11.2015
+source: https://zan.gov.kz/client/#!/doc/86004/kaz/09.12.2015
 ---
 
 # 2015-2017 жылдарға арналған Қарғалы ауданының бюджеті туралы

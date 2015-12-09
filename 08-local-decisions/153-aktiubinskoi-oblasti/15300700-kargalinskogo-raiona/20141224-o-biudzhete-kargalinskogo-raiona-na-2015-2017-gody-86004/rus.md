@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/86004/rus/06.11.2015
+source: https://zan.gov.kz/client/#!/doc/86004/rus/09.12.2015
 ---
 
 # О бюджете Каргалинского района на 2015-2017 годы

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
+source: https://zan.gov.kz/client/#!/doc/98164/rus/11.04.2016
 ---
 
 > *Приложение № 1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 
 # Бюджет Шалкарского района на 2016 год
 
-> *Сноска. Приложение 1 – в редакции решения маслихата Шалкарского района Актюбинской области от 22.02.2016 № 272 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 1 – в редакции решения маслихата Шалкарского района Актюбинской области от 11.04.2016 № 10 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -24,7 +24,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. ДОХОДЫ</td>
-<td>6518206,0</td>
+<td>6835111,0</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -177,7 +177,10 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="3">Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора</td>
+<td colspan="3">
+Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета,
+а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора
+</td>
 <td>200,0</td>
 </tr>
 <tr>
@@ -220,25 +223,25 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>4178580,0</td>
+<td>4495485,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>4178580,0</td>
+<td>4495485,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Трансферты из областного бюджета</td>
-<td>4178580,0</td>
+<td>4495485,0</td>
 </tr>
 <tr>
 <td colspan="9">II. ЗАТРАТЫ</td>
-<td>6804972,3</td>
+<td>7121877,3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -478,7 +481,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Образование</td>
-<td>5155630,5</td>
+<td>5162242,5</td>
 </tr>
 <tr>
 <td></td>
@@ -486,7 +489,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
-<td>676208,0</td>
+<td>692654,0</td>
 </tr>
 <tr>
 <td></td>
@@ -494,7 +497,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел образования района (города областного значения)</td>
-<td>676208,0</td>
+<td>692654,0</td>
 </tr>
 <tr>
 <td></td>
@@ -510,7 +513,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2">040</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
-<td>646477,0</td>
+<td>662923,0</td>
 </tr>
 <tr>
 <td></td>
@@ -518,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Начальное, основное среднее и общее среднее образование</td>
-<td>4316059,5</td>
+<td>4306225,5</td>
 </tr>
 <tr>
 <td></td>
@@ -526,7 +529,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел образования района (города областного значения)</td>
-<td>4233190,5</td>
+<td>4223356,5</td>
 </tr>
 <tr>
 <td></td>
@@ -534,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="2">Общеобразовательное обучение</td>
-<td>3909506,5</td>
+<td>3899672,5</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
-<td>375123,5</td>
+<td>389623,5</td>
 </tr>
 <tr>
 <td></td>
@@ -710,7 +713,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Социальная помощь</td>
-<td>319134,4</td>
+<td>333634,4</td>
 </tr>
 <tr>
 <td></td>
@@ -718,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>319134,4</td>
+<td>333634,4</td>
 </tr>
 <tr>
 <td></td>
@@ -726,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2">002</td>
 <td colspan="2">Программа занятости</td>
-<td>162823,8</td>
+<td>177323,8</td>
 </tr>
 <tr>
 <td></td>
@@ -822,7 +825,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>112148,0</td>
+<td>414565,0</td>
 </tr>
 <tr>
 <td></td>
@@ -830,7 +833,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td>86146,2</td>
+<td>388563,2</td>
 </tr>
 <tr>
 <td></td>
@@ -859,10 +862,26 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <tr>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2">464</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел образования района (города областного значения)</td>
+<td>2017,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">026</td>
+<td colspan="2">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td>2017,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td colspan="2">466</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел архитектуры, градостроительства и строительства района (города областного значения)</td>
-<td>74708,2</td>
+<td>375108,2</td>
 </tr>
 <tr>
 <td></td>
@@ -878,7 +897,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="2">Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>33794,2</td>
+<td>334194,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1469,7 +1488,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">040</td>
-<td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов до 2020 года»</td>
+<td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов до 2020 года»</td>
 <td>1987,0</td>
 </tr>
 <tr>
@@ -1485,7 +1504,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">041</td>
-<td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках программы «Развитие регионов до 2020 года»</td>
+<td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов до 2020 года»</td>
 <td>14564,0</td>
 </tr>
 <tr>
@@ -1494,7 +1513,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td>119516,8</td>
+<td>112892,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1502,7 +1521,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферты</td>
-<td>119516,8</td>
+<td>112892,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1510,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="2">Отдел финансов района (города областного значения)</td>
-<td>119516,8</td>
+<td>112892,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1526,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2">024</td>
 <td colspan="2">Целевые текущие трансферты в вышестоящие бюджеты в связи с передачей функций государственных органов из нижестоящего уровня государственного управления в вышестоящий</td>
-<td>15929,0</td>
+<td>9305,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1536,21 +1555,16 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2">Трансферты органам местного самоуправления</td>
 <td>103557,0</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">III. Чистое бюджетное кредитование</td>
-<td>3133,0</td>
+<td>466299,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1558,15 +1572,42 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджетные кредиты</td>
-<td>6363,0</td>
+<td>469529,0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>463166,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жилищное хозяйство</td>
+<td>463166,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>463166,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="2">053</td>
+<td colspan="2">Кредитование на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
+<td>463166,0</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1600,9 +1641,9 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2">Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
 <td>6363,0</td>
 </tr>
-<tr>
-<td colspan="10"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td>5</td>
 <td colspan="2"></td>
@@ -1626,16 +1667,16 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td colspan="2">3230,0</td>
 </tr>
-<tr>
-<td colspan="10"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>V. Дефицит бюджета (профицит)</td>
-<td colspan="2">-289899,3</td>
+<td colspan="2">-753065,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1643,23 +1684,18 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>VI. Финансирование дефицита бюджета (использование профицита)</td>
-<td colspan="2">289899,3</td>
+<td colspan="2">753065,3</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td>7</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Поступления займов</td>
-<td colspan="2">6363,0</td>
+<td colspan="2">469529,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1667,23 +1703,18 @@ source: https://zan.gov.kz/client/#!/doc/98164/rus/22.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Внутренние государственные займы</td>
-<td colspan="2">6363,0</td>
+<td colspan="2">469529,0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">2</td>
 <td>Договоры займа</td>
-<td colspan="2">6363,0</td>
+<td colspan="2">469529,0</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td>16</td>
 <td colspan="2"></td>

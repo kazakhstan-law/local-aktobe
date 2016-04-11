@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
+source: https://zan.gov.kz/client/#!/doc/98164/kaz/11.04.2016
 ---
 
 > *Аудандық мәслихаттың*  
@@ -9,11 +9,11 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 
 # Шалқар ауданының 2016 жылға арналған бюджеті
 
-> *Ескерту. 1 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 22.02.2016 № 272 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1 қосымша жаңа редакцияда - Ақтөбе облысы Шалқар аудандық мәслихатының 11.04.2016 № 10 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="2" rowspan="2">Санаты</td>
+<td rowspan="2">Санаты</td>
 <td colspan="2" rowspan="2">Сыныбы</td>
 <td colspan="2" rowspan="2">Ішкі сыныбы</td>
 <td colspan="3" rowspan="2">Атауы</td>
@@ -22,228 +22,228 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <tr>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">I.КІРІСТЕР</td>
-<td>6518206,0</td>
+<td colspan="3">I. КІРІСТЕР</td>
+<td>6835111,0</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
 <td>2318266,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
 <td>456350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
 <td>456350,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="3">Әлеуметтік салық</td>
 <td>383081,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Әлеуметтік салық</td>
 <td>383081,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
 <td>1419816,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мүлікке салынатын салықтар</td>
 <td>1356109,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Жер салығы</td>
 <td>7300,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
 <td>53807,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="3">Бірыңғай жер салығы</td>
 <td>2600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="3">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
 <td>53519,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Акциздер</td>
 <td>2600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="3">Табиғи және басқа да ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
 <td>33500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Кәсіпкерлік және кәсіби қызметті жүргізгені үшін алынатын алымдар</td>
 <td>17090,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="3">Ойын бизнесіне салық</td>
 <td>329,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">08</td>
 <td colspan="2"></td>
 <td colspan="3">Заңдық мәнді іс-әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
 <td>5500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мемлекеттік баж</td>
 <td>5500,0</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық емес түсімдер</td>
 <td>6360,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік меншіктен түсетін кірістер</td>
 <td>2200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="3">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>2200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) қамтылатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мұнай секторы ұйымдарынан түсетін түсімдерді қоспағанда, мемлекеттік бюджеттен қаржыландырылатын, сондай-ақ Қазақстан Республикасы Ұлттық Банкінің бюджетінен (шығыстар сметасынан) ұсталатын және қаржыландырылатын мемлекеттік мекемелер салатын айыппұлдар, өсімпұлдар, санкциялар, өндіріп алулар</td>
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td colspan="3">Басқа да салықтық емес түсімдер</td>
 <td>3960,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Басқа да салықтық емес түсімдер</td>
 <td>3960,0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Негізгі капиталды сатудан түсетін түсімдер</td>
 <td>15000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="3">Жерді және материалдық емес активтерді сату</td>
 <td>15000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Жерді сату</td>
 <td>15000,0</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>4178580,0</td>
+<td>4495485,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>4178580,0</td>
+<td>4495485,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>4178580,0</td>
+<td>4495485,0</td>
 </tr>
 <tr>
-<td colspan="9">II. ШЫҒЫНДАР</td>
-<td>6804972,3</td>
+<td colspan="8">II. ШЫҒЫНДАР</td>
+<td>7121877,3</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>398477,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -259,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>346540,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">112</td>
 <td colspan="2"></td>
@@ -267,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>20932,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -275,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>20932,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -283,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>94489,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -291,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>92489,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -299,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
@@ -307,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>231119,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -315,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>231119,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -323,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>18181,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">452</td>
 <td colspan="2"></td>
@@ -331,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>18181,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -339,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>17077,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -347,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>800,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">010</td>
@@ -355,7 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>214,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">018</td>
@@ -363,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>90,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>5</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -371,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>22178,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">453</td>
 <td colspan="2"></td>
@@ -379,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>22178,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -387,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>22178,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -395,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>11578,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -403,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>11578,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -411,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>11578,0</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
+<td>02</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -419,7 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>4511,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -427,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2973,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -435,7 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2973,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -443,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2973,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -451,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1538,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
@@ -459,7 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1538,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -467,7 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>659,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -475,31 +475,31 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>879,0</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
+<td>04</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Білім беру</td>
-<td>5155630,5</td>
+<td>5162242,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мектепке дейінгі тәрбие және оқыту</td>
-<td>676208,0</td>
+<td>692654,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>676208,0</td>
+<td>692654,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">009</td>
@@ -507,39 +507,39 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>29731,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">040</td>
 <td colspan="2">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td>646477,0</td>
+<td>662923,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>4316059,5</td>
+<td>4306225,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>4233190,5</td>
+<td>4223356,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="2">Жалпы білім беру</td>
-<td>3909506,5</td>
+<td>3899672,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -547,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>323684,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">465</td>
 <td colspan="2"></td>
@@ -555,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>79559,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">017</td>
@@ -563,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>79559,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">466</td>
 <td colspan="2"></td>
@@ -571,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>3310,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">021</td>
@@ -579,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>3310,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -587,7 +587,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>163363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -595,7 +595,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>163363,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -603,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>20878,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -611,18 +611,15 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>40290,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
-<td colspan="2">
-Аудандық (қалалық) ауқымдағы мектеп олимпиадаларын, мектептен тыс
-іс-шараларды және конкурстарды өткізу
-</td>
+<td colspan="2">Аудандық (қалалық) ауқымдағы мектеп олимпиадаларын, мектептен тыс іс-шараларды және конкурстарды өткізу</td>
 <td>756,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">015</td>
@@ -630,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>14296,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">029</td>
@@ -638,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>23136,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">067</td>
@@ -646,15 +643,15 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>64007,0</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
+<td>06</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтік көмек және әлеуметтік қамсыздандыру</td>
-<td>375123,5</td>
+<td>389623,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -662,7 +659,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>27578,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
@@ -670,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>25366,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -678,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>839,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">016</td>
@@ -686,7 +683,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>23927,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">025</td>
@@ -694,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -702,7 +699,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2212,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">030</td>
@@ -710,31 +707,31 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2212,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтік көмек</td>
-<td>319134,4</td>
+<td>333634,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>319134,4</td>
+<td>333634,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">002</td>
 <td colspan="2">Жұмыспен қамту бағдарламасы</td>
-<td>162823,8</td>
+<td>177323,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
@@ -742,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>10514,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -750,7 +747,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>6000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -758,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>69539,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">010</td>
@@ -766,7 +763,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>329,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">014</td>
@@ -774,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>54124,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">017</td>
@@ -782,7 +779,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>14462,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">023</td>
@@ -790,7 +787,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1342,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -798,7 +795,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>28411,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
@@ -806,7 +803,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>28411,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -814,7 +811,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>27621,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
@@ -822,23 +819,23 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>790,0</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>112148,0</td>
+<td>414565,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй шаруашылығы</td>
-<td>86146,2</td>
+<td>388563,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -846,7 +843,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>11438,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -854,7 +851,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>638,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
@@ -862,15 +859,31 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>10800,0</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td colspan="2">464</td>
 <td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td>2017,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">026</td>
+<td colspan="2">Жұмыспен қамту жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
+<td>2017,0</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td colspan="2">466</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td>74708,2</td>
+<td>375108,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -878,15 +891,15 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>40914,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td colspan="2">Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
-<td>33794,2</td>
+<td>334194,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -894,7 +907,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>10670,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -902,7 +915,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>7464,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">012</td>
@@ -910,7 +923,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1755,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">026</td>
@@ -918,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>2461,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">027</td>
@@ -926,7 +939,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>3248,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">466</td>
 <td colspan="2"></td>
@@ -934,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>3206,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -942,7 +955,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>128,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -950,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>3078,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -958,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>15331,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -966,7 +979,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>15331,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">015</td>
@@ -974,7 +987,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>7306,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">016</td>
@@ -982,7 +995,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>8025,0</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
+<td>08</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -990,7 +1003,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>231563,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -998,7 +1011,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>84900,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1006,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>84900,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1014,7 +1027,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>84900,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1022,7 +1035,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>10545,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">465</td>
 <td colspan="2"></td>
@@ -1030,7 +1043,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>10545,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1038,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>7465,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1046,7 +1059,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1228,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1054,7 +1067,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1852,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1062,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>92131,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1070,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>83631,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1078,7 +1091,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>82631,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1086,7 +1099,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">456</td>
 <td colspan="2"></td>
@@ -1094,7 +1107,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>8500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">002</td>
@@ -1102,7 +1115,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>8500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1110,7 +1123,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>43987,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1118,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>17276,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1126,7 +1139,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>13366,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">032</td>
@@ -1134,7 +1147,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>3910,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">456</td>
 <td colspan="2"></td>
@@ -1142,7 +1155,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>26711,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1150,7 +1163,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>13711,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1158,7 +1171,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>12700,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">032</td>
@@ -1166,7 +1179,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>300,0</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
+<td>10</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1174,7 +1187,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>113046,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1182,7 +1195,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>44694,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">453</td>
 <td colspan="2"></td>
@@ -1190,7 +1203,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>5972,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">099</td>
@@ -1198,7 +1211,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>5972,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">474</td>
 <td colspan="2"></td>
@@ -1206,7 +1219,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>38722,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1214,7 +1227,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>28312,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">005</td>
@@ -1222,7 +1235,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>687,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1230,7 +1243,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>877,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1238,7 +1251,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1500,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
@@ -1246,7 +1259,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1418,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">012</td>
@@ -1254,7 +1267,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>5928,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>6</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1262,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>14913,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">463</td>
 <td colspan="2"></td>
@@ -1270,7 +1283,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>14913,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1278,7 +1291,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>14913,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1286,7 +1299,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>53439,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">474</td>
 <td colspan="2"></td>
@@ -1294,7 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>53439,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">013</td>
@@ -1302,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>53439,0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
+<td>11</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1310,7 +1323,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>18310,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1318,7 +1331,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>18310,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">466</td>
 <td colspan="2"></td>
@@ -1326,7 +1339,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>18310,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1334,7 +1347,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>18310,0</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
+<td>12</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1342,7 +1355,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>193409,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1350,7 +1363,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>193409,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">123</td>
 <td colspan="2"></td>
@@ -1358,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>91060,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">045</td>
@@ -1366,7 +1379,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>91060,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">458</td>
 <td colspan="2"></td>
@@ -1374,7 +1387,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>102349,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">023</td>
@@ -1382,7 +1395,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>8721,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">045</td>
@@ -1390,7 +1403,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>93628,0</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1398,7 +1411,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>83237,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1406,7 +1419,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>19893,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">469</td>
 <td colspan="2"></td>
@@ -1414,7 +1427,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>19893,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
@@ -1422,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>8163,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">003</td>
@@ -1430,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1730,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
@@ -1438,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>10000,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
@@ -1446,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>63344,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">452</td>
 <td colspan="2"></td>
@@ -1454,7 +1467,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>46793,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">012</td>
@@ -1462,7 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>46793,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">455</td>
 <td colspan="2"></td>
@@ -1470,15 +1483,15 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>1987,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">040</td>
-<td colspan="2">«Өңірлерді дамыту 2020 жылға дейінгі» бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="2">«Өңірлерді дамыту 2020 жылға дейінгі» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>1987,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
@@ -1486,39 +1499,39 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>14564,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">041</td>
-<td colspan="2">«Өңірлерді дамыту 2020 жылға дейінгі » бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td colspan="2">«Өңірлерді дамыту 2020 жылға дейінгі» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>14564,0</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
+<td>15</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>119516,8</td>
+<td>112892,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td>119516,8</td>
+<td>112892,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>119516,8</td>
+<td>112892,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
@@ -1526,40 +1539,67 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 <td>30,8</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">024</td>
 <td colspan="2">Мемлекеттік органдардың функцияларын мемлекеттік басқарудың төмен тұрған деңгейлерінен жоғарғы деңгейлерге беруге байланысты жоғары тұрған бюджеттерге берілетін ағымдағы нысаналы трансферттер</td>
-<td>15929,0</td>
+<td>9305,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">051</td>
 <td colspan="2">Жергілікті өзін-өзі басқару органдарына берілетін трансферттер</td>
 <td>103557,0</td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td colspan="2"></td>
+<td colspan="8">III. Таза бюджеттік кредиттер</td>
+<td>466299,0</td>
+</tr>
+<tr>
+<td colspan="8">Бюджеттік кредиттер</td>
+<td>469529,0</td>
+</tr>
+<tr>
+<td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="2">Тұрғын үй коммуналдық шаруашылық</td>
+<td>463166,0</td>
+</tr>
+<tr>
 <td></td>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Тұрғын үй шаруашылығы</td>
+<td>463166,0</td>
 </tr>
 <tr>
-<td colspan="9">III. Таза бюджеттік кредиттер</td>
-<td>3133,0</td>
+<td></td>
+<td></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td>463166,0</td>
 </tr>
 <tr>
-<td colspan="9">Бюджеттік кредиттер</td>
-<td>6363,0</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">053</td>
+<td colspan="2">Жылу, сумен жабдықтау және су бұру жүйелерін реконструкция және құрылыс үшін кредит беру</td>
+<td>463166,0</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
@@ -1567,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл шаруашылығы</td>
@@ -1575,7 +1615,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">453</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және бюджеттік жоспарлау бөлімі</td>
@@ -1583,7 +1623,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Мамандарды әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
@@ -1591,7 +1631,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
@@ -1599,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
@@ -1607,72 +1647,62 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">1</td>
 <td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>3230,0</td>
 </tr>
-<tr>
-<td colspan="10"></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">V. Бюджет тапшылығы (профицит)</td>
-<td>-289899,3</td>
+<td>-753065,3</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">VI. Бюджет тапшылығын қаржыландыру (профицитті пайдалану)</td>
-<td>289899,3</td>
+<td>753065,3</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td>7</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімдері</td>
-<td>6363,0</td>
+<td>469529,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td>6363,0</td>
+<td>469529,0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">2</td>
 <td colspan="2">Қарыз алу келісім-шарттары</td>
-<td>6363,0</td>
+<td>469529,0</td>
 </tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-</tr>
+</table>
+
+<table>
 <tr>
 <td>16</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
@@ -1680,7 +1710,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
@@ -1688,7 +1718,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
@@ -1696,7 +1726,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
@@ -1704,7 +1734,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2">021</td>
 <td colspan="2">Жергілікті бюджеттен бөлінген пайдаланылмаған бюджеттік кредиттерді қайтару</td>
@@ -1712,7 +1742,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаттарының пайдаланатын қалдықтары</td>
@@ -1720,7 +1750,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2">01</td>
+<td>01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражаты қалдықтары</td>
@@ -1728,7 +1758,7 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/22.02.2016
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td colspan="4">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
 <td>286803,0</td>

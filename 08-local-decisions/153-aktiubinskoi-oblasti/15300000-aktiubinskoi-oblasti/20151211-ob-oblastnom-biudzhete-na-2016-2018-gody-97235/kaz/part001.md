@@ -1,16 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
+source: https://zan.gov.kz/client/#!/doc/97235/kaz/22.06.2016
 ---
 
-> *Облыстық мәслихаттың*  
-> *2015 жылғы 11 желтоқсандағы*  
-> *№ 346 шешіміне*  
-> *1-Қосымша*
+> *Облыстық мәслихаттың 2015 жылғы*  
+> *11 желтоқсандағы № 346 шешіміне*  
+> *1 - Қосымша*
 
 # 2016 жылға арналған облыстық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Ақтөбе облыстық мәслихатының 03.06.2016 № 25 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақтөбе облыстық мәслихатының 22.06.2016 № 41 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -161,6 +160,20 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>19 705 570,5</td>
 </tr>
 <tr>
+<td>санаты</td>
+<td>сыныбы</td>
+<td>ішкі сыныбы</td>
+<td>АТАУЫ</td>
+<td>Сомасы (мың теңге)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
 <td>4</td>
 <td>02</td>
 <td></td>
@@ -179,9 +192,9 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <table>
 <tr>
 <td rowspan="3">Функ. топ</td>
-<td rowspan="3">Кіші функц ия</td>
-<td rowspan="3">Әкім ші</td>
-<td rowspan="3">Бағ дар лама</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
 <td rowspan="3">АТАУЫ</td>
 <td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
@@ -259,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td>001</td>
 <td>Облыс әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>834 568,5</td>
+<td>871 445,5</td>
 </tr>
 <tr>
 <td></td>
@@ -275,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td>007</td>
 <td>Ведомствалық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>156 996,5</td>
+<td>120 119,5</td>
 </tr>
 <tr>
 <td></td>
@@ -414,8 +427,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>3 785</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -602,8 +631,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>6 168 558</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -774,8 +819,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>393 317</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -946,8 +1007,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>102 230</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1118,8 +1195,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>336 746</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1266,8 +1359,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>95 576</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1422,8 +1531,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>413 302</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1546,8 +1671,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>8 638 735,1</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1670,8 +1811,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>2 259 891,1</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1834,8 +1991,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>574 906</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2054,8 +2227,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>179 194</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2223,7 +2412,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>8 061 456,7</td>
+<td>8 056 673</td>
 </tr>
 <tr>
 <td></td>
@@ -2242,8 +2431,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>98 947,3</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2358,8 +2563,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>274 112</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2367,7 +2588,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>288</td>
 <td></td>
 <td>Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td>256 000</td>
+<td>251 216,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2375,7 +2596,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td>020</td>
 <td>Ауыл шаруашылығы объектілерін дамыту</td>
-<td>256 000</td>
+<td>251 216,3</td>
 </tr>
 <tr>
 <td></td>
@@ -2423,7 +2644,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>Су шаруашылығы</td>
-<td>83 831,9</td>
+<td>88 615,6</td>
 </tr>
 <tr>
 <td></td>
@@ -2447,7 +2668,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>255</td>
 <td></td>
 <td>Облыстың ауыл шаруашылығы басқармасы</td>
-<td>22 392,3</td>
+<td>27 176</td>
 </tr>
 <tr>
 <td></td>
@@ -2455,7 +2676,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td>068</td>
 <td>Коммуналдық меншіктегі су шаруашылығы құрылыстарының жұмыс істеуін қамтамасыз ету</td>
-<td>22 392,3</td>
+<td>27 176</td>
 </tr>
 <tr>
 <td></td>
@@ -2554,8 +2775,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>30 783</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2734,8 +2971,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>253 000</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2906,8 +3159,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>19 453 168</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3038,8 +3307,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>15 859 554,3</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3095,7 +3380,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>III. Таза бюджеттік кредит беру</td>
-<td>6 554 497,1</td>
+<td>11 048 998,1</td>
 </tr>
 <tr>
 <td></td>
@@ -3103,7 +3388,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>Бюджеттік кредиттер</td>
-<td>9 678 770</td>
+<td>14 173 271</td>
 </tr>
 <tr>
 <td>06</td>
@@ -3143,7 +3428,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылығы</td>
-<td>6 250 620</td>
+<td>10 745 121</td>
 </tr>
 <tr>
 <td></td>
@@ -3151,7 +3436,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>6 250 620</td>
+<td>10 745 121</td>
 </tr>
 <tr>
 <td></td>
@@ -3175,7 +3460,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>288</td>
 <td></td>
 <td>Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td>1 927 509</td>
+<td>6 422 010</td>
 </tr>
 <tr>
 <td></td>
@@ -3183,7 +3468,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td>009</td>
 <td>Аудандардың (облыстық маңызы бар қалалардың) бюджеттеріне тұрғын үй жобалауға және салуға кредит беру</td>
-<td>1 927 509</td>
+<td>6 422 010</td>
 </tr>
 <tr>
 <td>10</td>
@@ -3210,8 +3495,24 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td>318 150</td>
 </tr>
 <tr>
+<td rowspan="3">Функ. топ</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
+<td rowspan="3">АТАУЫ</td>
+<td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
 <tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td>10</td>
@@ -3321,9 +3622,9 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <table>
 <tr>
 <td rowspan="3">Функ. топ</td>
-<td rowspan="3">Кіші функц ия</td>
-<td rowspan="3">Әкім ші</td>
-<td rowspan="3">Бағ дар лама</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
 <td rowspan="3">АТАУЫ</td>
 <td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
@@ -3393,7 +3694,7 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>V. Бюджет тапшылығы</td>
-<td>-8 150 449,4</td>
+<td>-12 644 950,4</td>
 </tr>
 <tr>
 <td></td>
@@ -3401,14 +3702,14 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>VI. Бюджет тапшылығын қаржыландыру</td>
-<td>8 150 449,4</td>
+<td>12 644 950,4</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td rowspan="2">сана ты</td>
-<td rowspan="2">сыны бы</td>
+<td rowspan="2">санаты</td>
+<td rowspan="2">сыныбы</td>
 <td rowspan="2">ішкі сыныбы</td>
 <td rowspan="2">АТАУЫ</td>
 <td rowspan="2">Сомасы (мың теңге)</td>
@@ -3427,14 +3728,21 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <td></td>
 <td></td>
 <td>Қарыздар түсімі</td>
-<td>8 231 215</td>
+<td>12 725 716</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
-<td>8 231 215</td>
+<td>12 725 716</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Мемлекеттік эмиссиялық бағалы қағаздар</td>
+<td>4 494 501</td>
 </tr>
 <tr>
 <td></td>
@@ -3448,9 +3756,9 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 <table>
 <tr>
 <td rowspan="3">Функ. топ</td>
-<td rowspan="3">Кіші функц ия</td>
-<td rowspan="3">Әкім ші</td>
-<td rowspan="3">Бағ дар лама</td>
+<td rowspan="3">Кіші функция</td>
+<td rowspan="3">Әкімші</td>
+<td rowspan="3">Бағдарлама</td>
 <td rowspan="3">АТАУЫ</td>
 <td rowspan="3">Сомасы (мың теңге)</td>
 </tr>
@@ -3510,8 +3818,8 @@ source: https://zan.gov.kz/client/#!/doc/97235/kaz/03.06.2016
 
 <table>
 <tr>
-<td rowspan="2">сана ты</td>
-<td rowspan="2">сыны бы</td>
+<td rowspan="2">санаты</td>
+<td rowspan="2">сыныбы</td>
 <td rowspan="2">ішкі сыныбы</td>
 <td rowspan="2">АТАУЫ</td>
 <td rowspan="2">Сомасы (мың теңге)</td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98189/kaz/02.07.2016
+source: https://zan.gov.kz/client/#!/doc/98189/kaz/26.08.2016
 ---
 
 > *2015 жылғы 23 желтоқсандағы № 227*  

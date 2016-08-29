@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98164/kaz/10.06.2016
+source: https://zan.gov.kz/client/#!/doc/98164/kaz/29.08.2016
 ---
 
 > *Аудандық мәслихаттың*  
@@ -1615,102 +1615,147 @@ source: https://zan.gov.kz/client/#!/doc/98164/kaz/10.06.2016
 
 # Шалқар қаласы және ауылдық округ әкімдері аппараттарының 2016 жылға арналған бюджеттік бағдарламаларын қаржыландыру көлемі
 
-> *Ескерту. 6 қосымша жаңа редакцияда - Ақтөбе облысы Шалқар аудандық мәслихатының 10.06.2016 № 22 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 6 қосымша жаңа редакцияда - Ақтөбе облысы Шалқар аудандық мәслихатының 29.08.2016 № 43 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
-(мың теңге)
+```
+                                                                             (мың теңге)
+```
 
 <table>
 <tr>
-<td rowspan="5"></td>
-<td colspan="2" rowspan="5">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2" rowspan="5">Мемлекеттік органның күрделі шығыстары</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің мемлекеттік тұрғын үй қорының сақталуын ұйымдастыру</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
+<td>Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">123 001 000</td>
+<td colspan="2">123 007 000</td>
 <td colspan="2">123 022 000</td>
+<td>123 027 000</td>
+<td>123 045 000</td>
 </tr>
 <tr>
 <td>Шалқар қаласы</td>
-<td colspan="2">40535,0</td>
+<td colspan="2">39433,0</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>80873,1</td>
 </tr>
 <tr>
 <td>ауылдық округтер</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Айшуақ</td>
-<td colspan="2">15912,0</td>
+<td colspan="2">14910,8</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>908,0</td>
+<td></td>
 </tr>
 <tr>
 <td>Ақтоғай</td>
-<td colspan="2">15513,5</td>
+<td colspan="2">15993,5</td>
+<td colspan="2">302,0</td>
 <td colspan="2"></td>
+<td>1217,0</td>
+<td></td>
 </tr>
 <tr>
 <td>Біршоғыр</td>
-<td colspan="2">18591,0</td>
+<td colspan="2">17032,9</td>
+<td colspan="2">9,5</td>
 <td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Бозой</td>
-<td colspan="2">18999,0</td>
+<td colspan="2">16661,0</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Есет Көтібарұлы</td>
-<td colspan="2">15384,0</td>
+<td colspan="2">15778,0</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Жанақоныс</td>
-<td colspan="2">13787,0</td>
+<td colspan="2">14463,0</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>1073,0</td>
+<td></td>
 </tr>
 <tr>
 <td>Қауылжыр</td>
-<td colspan="2">18365,0</td>
+<td colspan="2">18953,3</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Кішіқұм</td>
-<td colspan="2">17850,0</td>
+<td colspan="2">18283,9</td>
 <td colspan="2"></td>
+<td colspan="2">26,0</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Мөңке би</td>
-<td colspan="2">15267,0</td>
+<td colspan="2">15287,0</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>5150,0</td>
+<td></td>
 </tr>
 <tr>
 <td>Тоғыз</td>
-<td colspan="2">13446,0</td>
+<td colspan="2">13783,3</td>
+<td colspan="2"></td>
 <td colspan="2">32,0</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Шалқар</td>
-<td colspan="2">13895,0</td>
+<td colspan="2">14015,0</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>790,0</td>
+<td></td>
 </tr>
 <tr>
 <td>Шетырғыз</td>
-<td colspan="2">16258,0</td>
+<td colspan="2">16781,8</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>645,0</td>
+<td></td>
 </tr>
 <tr>
 <td>Жиыны</td>
-<td colspan="2">233802,5</td>
-<td colspan="2">32,0</td>
+<td colspan="2">231376,5</td>
+<td colspan="2">311,5</td>
+<td colspan="2">58,0</td>
+<td>9783,0</td>
+<td>80873,1</td>
 </tr>
 </table>

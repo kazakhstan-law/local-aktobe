@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97235/kaz/17.08.2016
+source: https://zan.gov.kz/client/#!/doc/97235/kaz/28.10.2016
 ---
 
 > *Облыстық мәслихаттың 2015 жылғы*  

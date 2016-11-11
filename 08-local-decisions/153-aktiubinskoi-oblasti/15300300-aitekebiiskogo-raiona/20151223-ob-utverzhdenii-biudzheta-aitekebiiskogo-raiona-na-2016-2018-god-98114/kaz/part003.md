@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98114/kaz/29.08.2016
+source: https://zan.gov.kz/client/#!/doc/98114/kaz/11.11.2016
 ---
 
 > *Әйтеке би аудандық мәслихаттың 2015 жылғы*  

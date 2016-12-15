@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/98228/rus/07.11.2016
+source: https://zan.gov.kz/client/#!/doc/98228/rus/15.12.2016
 ---
 
 > *Приложение 8 к решению районного маслихата*  

@@ -1,28 +1,33 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97827/rus/15.12.2016
+source: https://zan.gov.kz/client/#!/doc/97827/rus/01.01.2017
 ---
 
-> *Приложение № 4*  
-> *к решению районного маслихата*  
-> *№ 313 от 23 декабря 2015 года*
-
-# Бюджет Хромтауского района на 2018 год
+## Бюджет Хромтауского района на 2018 год
 
 <table>
 <tr>
-<td>категория</td>
-<td>класс</td>
-<td>подкласс</td>
-<td>наименование</td>
-<td>сумма (тыс.тенге)</td>
+<td colspan="4">категория</td>
+<td rowspan="4">сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<td rowspan="3"></td>
+<td colspan="3">класс</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -392,20 +397,32 @@ source: https://zan.gov.kz/client/#!/doc/97827/rus/15.12.2016
 
 <table>
 <tr>
-<td>функ. группа</td>
-<td>функ. подгруппа</td>
-<td>администратор</td>
-<td>программа</td>
-<td>наименование</td>
-<td>сумма (тыс.тенге)</td>
+<td colspan="5">функ. группа</td>
+<td rowspan="5">сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<td rowspan="4"></td>
+<td colspan="4">функ. подгруппа</td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3">администратор</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">программа</td>
+</tr>
+<tr>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1284,7 +1301,7 @@ source: https://zan.gov.kz/client/#!/doc/97827/rus/15.12.2016
 <td></td>
 <td></td>
 <td>040</td>
-<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов до 2020 года»</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы &quot;Развитие регионов до 2020 года&quot;</td>
 <td>14 896</td>
 </tr>
 <tr>
@@ -1395,58 +1412,79 @@ source: https://zan.gov.kz/client/#!/doc/97827/rus/15.12.2016
 
 <table>
 <tr>
-<td>категория</td>
-<td>класс</td>
-<td>подкласс</td>
-<td colspan="2">наименование</td>
-<td>сумма (тыс.тенге)</td>
+<td colspan="4">категория</td>
+<td rowspan="4">сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<td rowspan="3"></td>
+<td colspan="3">класс</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
 <td></td>
 <td></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td>Погашение бюджетных кредитов</td>
 <td>209 817,4</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td colspan="2">Погашение бюджетных кредитов</td>
+<td>Погашение бюджетных кредитов</td>
 <td>209 817,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
-<td colspan="2">Погашение бюджетных кредитов выданных из государственного бюджета</td>
+<td>Погашение бюджетных кредитов выданных из государственного бюджета</td>
 <td>209 817,4</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>функ. группа</td>
-<td>функ. подгруппа</td>
-<td>администратор</td>
-<td>программа</td>
-<td>наименование</td>
-<td>сумма (тыс.тенге)</td>
+<td colspan="5">функ. группа</td>
+<td rowspan="5">сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<td rowspan="4"></td>
+<td colspan="4">функ. подгруппа</td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3">администратор</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">программа</td>
+</tr>
+<tr>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>13</td>
@@ -1516,58 +1554,80 @@ source: https://zan.gov.kz/client/#!/doc/97827/rus/15.12.2016
 
 <table>
 <tr>
-<td>категория</td>
-<td>класс</td>
-<td>подкласс</td>
-<td colspan="2">наименование</td>
-<td>сумма (тыс.тенге)</td>
+<td colspan="4">категория</td>
+<td rowspan="2">сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<td rowspan="3"></td>
+<td colspan="3">класс</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">подкласс</td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
 <td></td>
-<td colspan="2">Поступление займов</td>
+<td>Поступление займов</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
-<td colspan="2">Внутренние государственные займы</td>
+<td>Внутренние государственные займы</td>
 <td>0,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
-<td colspan="2">Договора займа</td>
+<td>Договора займа</td>
 <td>0,0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>функ. группа</td>
-<td>функ. подгруппа</td>
-<td>администратор</td>
-<td>программа</td>
-<td>наименование</td>
-<td>сумма (тыс.тенге)</td>
+<td colspan="5">функ. группа</td>
+<td rowspan="5">сумма (тыс.тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<td rowspan="4"></td>
+<td colspan="4">функ. подгруппа</td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3">администратор</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">программа</td>
+</tr>
+<tr>
+<td></td>
+<td>наименование</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>

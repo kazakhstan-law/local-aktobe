@@ -1,5 +1,5 @@
 ---
-version_id: '44236_219253'
+version_id: '44236_169386'
 act_code: '44236'
 language: kaz
 title: Тіркелген салық мөлшерлемесін белгілеу туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153014000002'
 approval_date: 2009-01-30
-version_date: 2009-04-24
+version_date: 2017-02-17
 registry_number: '44236'
 caused_by:
-  code: '45806'
-  title: 2009 жылғы 30 қаңтардағы N 103 "Тіркелген салық ставкасын бекіту туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/45806/kaz
-source: https://zan.gov.kz/client/#!/doc/44236/kaz/24.04.2009
+  code: '110616'
+  title: Шалқар аудандық мәслихатының 2009 жылғы 30 қаңтардағы № 103 «Тіркелген салық ставкасын белгілеу туралы» шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/110616/kaz
+source: https://zan.gov.kz/client/#!/doc/44236/kaz/17.02.2017
 ---
 
 # Тіркелген салық мөлшерлемесін белгілеу туралы

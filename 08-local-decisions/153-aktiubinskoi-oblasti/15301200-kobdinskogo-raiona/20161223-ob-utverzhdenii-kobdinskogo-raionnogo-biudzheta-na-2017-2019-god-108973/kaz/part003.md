@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108973/kaz/23.12.2016
+source: https://zan.gov.kz/client/#!/doc/108973/kaz/13.03.2017
 ---
 
 > *2016 жылғы 23 желтоқсандағы № 50*  

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
+source: https://zan.gov.kz/client/#!/doc/108919/kaz/14.03.2017
 ---
 
 > *Шалқар аудандық мәслихатының*  
@@ -1401,6 +1401,8 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 
 # Жергілікті өзін-өзі басқару функцияларын іске асыруға аудан бюджетінен 2017 жылға Шалқар қаласы мен ауылдық округтер бойынша берілетін трансферттердің көлемі
 
+> *Ескерту. 4 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 14.03.2017 № 98 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td>Қала және ауылдық округтердің атауы</td>
@@ -1408,7 +1410,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 </tr>
 <tr>
 <td>Шалқар қаласы</td>
-<td>82581,0</td>
+<td>92541,8</td>
 </tr>
 <tr>
 <td>ауылдық округтер</td>
@@ -1416,7 +1418,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 </tr>
 <tr>
 <td>Айшуақ</td>
-<td>2029,0</td>
+<td>2224,3</td>
 </tr>
 <tr>
 <td>Ақтоғай</td>
@@ -1428,43 +1430,43 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 </tr>
 <tr>
 <td>Бозой</td>
-<td>10482,0</td>
+<td>11612,0</td>
 </tr>
 <tr>
 <td>Есет Көтібарұлы</td>
-<td>960,0</td>
+<td>1009,6</td>
 </tr>
 <tr>
 <td>Жанақоныс</td>
-<td>1005,0</td>
+<td>1196,8</td>
 </tr>
 <tr>
 <td>Қауылжыр</td>
-<td>1960,0</td>
+<td>2355,3</td>
 </tr>
 <tr>
 <td>Кішіқұм</td>
-<td>1424,0</td>
+<td>1852,8</td>
 </tr>
 <tr>
 <td>Мөңке би</td>
-<td>1047,0</td>
+<td>1261,6</td>
 </tr>
 <tr>
 <td>Тоғыз</td>
-<td>712,0</td>
+<td>816,0</td>
 </tr>
 <tr>
 <td>Шалқар</td>
-<td>1064,0</td>
+<td>1543,9</td>
 </tr>
 <tr>
 <td>Шетырғыз</td>
-<td>1398,0</td>
+<td>1433,0</td>
 </tr>
 <tr>
 <td>Жиыны</td>
-<td>106393,0</td>
+<td>119578,1</td>
 </tr>
 </table>
 
@@ -1512,11 +1514,13 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 </tr>
 </table>
 
-> *Шалқар аудандық мәслихатныың*  
+> *Шалқар аудандық мәслихатының*  
 > *2016 жылғы 21 желтоқсандағы*  
 > *№ 68 шешіміне 6 қосымша*
 
 # Шалқар қаласы және ауылдық округтердің әкімі аппараттары бойынша 2017 жылға арналған бюджеттік бағдарламаларының қаржыландыру көлемі
+
+> *Ескерту. 6 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 14.03.2017 № 98 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 (мың теңге)
 
@@ -1537,10 +1541,10 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 </tr>
 <tr>
 <td colspan="2">Шалқар қаласы</td>
-<td colspan="2">40122,0</td>
-<td colspan="2">175,0</td>
+<td colspan="2">40441,0</td>
+<td colspan="2">562,0</td>
 <td colspan="2"></td>
-<td colspan="2">59368,0</td>
+<td colspan="2">136800,0</td>
 </tr>
 <tr>
 <td colspan="2">ауылдық округтер</td>
@@ -1551,93 +1555,93 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/21.12.2016
 </tr>
 <tr>
 <td colspan="2">Айшуақ</td>
-<td colspan="2">15547,0</td>
+<td colspan="2">15779,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2">1859,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Ақтоғай</td>
-<td colspan="2">16019,0</td>
+<td colspan="2">16523,0</td>
 <td colspan="2">175,0</td>
 <td colspan="2">820,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Біршоғыр</td>
-<td colspan="2">16341,0</td>
-<td colspan="2">150,0</td>
+<td colspan="2">16641,0</td>
+<td colspan="2">250,0</td>
 <td colspan="2">2078,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Бозой</td>
-<td colspan="2">19394,0</td>
+<td colspan="2">19500,0</td>
 <td colspan="2">50,0</td>
-<td colspan="2">2665,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Есет Көтібарұлы</td>
-<td colspan="2">15627,0</td>
+<td colspan="2">15795,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2">896,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Жанақоныс</td>
-<td colspan="2">13544,0</td>
+<td colspan="2">13644,0</td>
 <td colspan="2"></td>
-<td colspan="2">710,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Қауылжыр</td>
-<td colspan="2">19028,0</td>
+<td colspan="2">19511,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2">1769,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Кішіқұм</td>
-<td colspan="2">17724,0</td>
+<td colspan="2">17853,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2">1943,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Мөңке би</td>
-<td colspan="2">15086,0</td>
-<td colspan="2">175,0</td>
-<td colspan="2">1093,0</td>
+<td colspan="2">18101,3</td>
+<td colspan="2">575,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Тоғыз</td>
-<td colspan="2">13481,0</td>
+<td colspan="2">13591,0</td>
 <td colspan="2">175,0</td>
 <td colspan="2">1197,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Шалқар</td>
-<td colspan="2">13346,0</td>
-<td colspan="2">175,0</td>
+<td colspan="2">13989,0</td>
+<td colspan="2">370,0</td>
 <td colspan="2">768,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Шетырғыз</td>
-<td colspan="2">16316,0</td>
+<td colspan="2">16426,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2">753,0</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Жиыны</td>
-<td colspan="2">231575,0</td>
-<td colspan="2">1950,0</td>
-<td colspan="2">16551,0</td>
-<td colspan="2">59368,0</td>
+<td colspan="2">237794,3</td>
+<td colspan="2">3032,0</td>
+<td colspan="2">4863,0</td>
+<td colspan="2">136800,0</td>
 </tr>
 </table>

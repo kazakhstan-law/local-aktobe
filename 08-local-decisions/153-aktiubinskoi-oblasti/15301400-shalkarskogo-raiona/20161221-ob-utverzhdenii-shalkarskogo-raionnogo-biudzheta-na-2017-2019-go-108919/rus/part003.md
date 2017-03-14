@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
+source: https://zan.gov.kz/client/#!/doc/108919/rus/14.03.2017
 ---
 
 > *Приложение 3*  
@@ -1417,11 +1417,12 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </table>
 
 > *Приложение 4*  
-> *к решению Шалкарского*  
-> *районного маслихата*  
-> *№ 68 от 21 декабря 2016 года*
+> *к решению Шалкарского районного*  
+> *маслихата № 68 от 21 декабря 2016 года*
 
 # Объемы трансфертов из районного бюджета на 2017 год городу Шалкар и сельским округам на реализацию функций местного самоуправления
+
+> *Сноска. Приложение 4 – в редакции решения маслихата Шалкарского района Актюбинской области от 14.03.2017 № 98 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -1430,7 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </tr>
 <tr>
 <td colspan="9">город Шалкар</td>
-<td colspan="3">82581,0</td>
+<td colspan="3">92541,8</td>
 </tr>
 <tr>
 <td colspan="9">сельские округа</td>
@@ -1438,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </tr>
 <tr>
 <td colspan="9">Айшуак</td>
-<td colspan="3">2029,0</td>
+<td colspan="3">2224,3</td>
 </tr>
 <tr>
 <td colspan="9">Актогай</td>
@@ -1450,43 +1451,43 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </tr>
 <tr>
 <td colspan="9">Бозой</td>
-<td colspan="3">10482,0</td>
+<td colspan="3">11612,0</td>
 </tr>
 <tr>
 <td colspan="9">Есет Котибарулы</td>
-<td colspan="3">960,0</td>
+<td colspan="3">1009,6</td>
 </tr>
 <tr>
 <td colspan="9">Жанаконыс</td>
-<td colspan="3">1005,0</td>
+<td colspan="3">1196,8</td>
 </tr>
 <tr>
 <td colspan="9">Кауылжыр</td>
-<td colspan="3">1960,0</td>
+<td colspan="3">2355,3</td>
 </tr>
 <tr>
 <td colspan="9">Кишикум</td>
-<td colspan="3">1424,0</td>
+<td colspan="3">1852,8</td>
 </tr>
 <tr>
 <td colspan="9">Монке би</td>
-<td colspan="3">1047,0</td>
+<td colspan="3">1261,6</td>
 </tr>
 <tr>
 <td colspan="9">Тогыз</td>
-<td colspan="3">712,0</td>
+<td colspan="3">816,0</td>
 </tr>
 <tr>
 <td colspan="9">Шалкар</td>
-<td colspan="3">1064,0</td>
+<td colspan="3">1543,9</td>
 </tr>
 <tr>
 <td colspan="9">Шетыргыз</td>
-<td colspan="3">1398,0</td>
+<td colspan="3">1433,0</td>
 </tr>
 <tr>
 <td colspan="9">Итого</td>
-<td colspan="3">106393,0</td>
+<td colspan="3">119578,1</td>
 </tr>
 </table>
 
@@ -1536,11 +1537,12 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </table>
 
 > *Приложение 6*  
-> *к решению Шалкарского*  
-> *районного маслихата*  
-> *№ 68 от 21 декабря 2016 года*
+> *к решению Шалкарского районного*  
+> *маслихата № 68 от 21 декабря 2016 года*
 
 # Объемы финансирования бюджетных программ на 2017 год по аппаратам акимов города Шалкар и сельских округов
+
+> *Сноска. Приложение 6 – в редакции решения маслихата Шалкарского района Актюбинской области от 14.03.2017 № 98 (вводится в действие с 01.01.2017).*
 
 (тысяч тенге)
 
@@ -1561,10 +1563,10 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </tr>
 <tr>
 <td colspan="2">город Шалкар</td>
-<td>40122,0</td>
-<td>175,0</td>
+<td>40441,0</td>
+<td>562,0</td>
 <td></td>
-<td colspan="2">59368,0</td>
+<td colspan="2">136800,0</td>
 </tr>
 <tr>
 <td colspan="2">сельские округа</td>
@@ -1575,93 +1577,93 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/21.12.2016
 </tr>
 <tr>
 <td colspan="2">Айшуак</td>
-<td>15547,0</td>
+<td>15779,0</td>
 <td>175,0</td>
-<td>1859,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Актогай</td>
-<td>16019,0</td>
+<td>16523,0</td>
 <td>175,0</td>
 <td>820,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Биршогыр</td>
-<td>16341,0</td>
-<td>150,0</td>
+<td>16641,0</td>
+<td>250,0</td>
 <td>2078,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Бозой</td>
-<td>19394,0</td>
+<td>19500,0</td>
 <td>50,0</td>
-<td>2665,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Есет Котибарулы</td>
-<td>15627,0</td>
+<td>15795,0</td>
 <td>175,0</td>
-<td>896,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Жанаконыс</td>
-<td>13544,0</td>
+<td>13644,0</td>
 <td></td>
-<td>710,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Кауылжыр</td>
-<td>19028,0</td>
+<td>19511,0</td>
 <td>175,0</td>
-<td>1769,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Кишикум</td>
-<td>17724,0</td>
+<td>17853,0</td>
 <td>175,0</td>
-<td>1943,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Монке би</td>
-<td>15086,0</td>
-<td>175,0</td>
-<td>1093,0</td>
+<td>18101,3</td>
+<td>575,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Тогыз</td>
-<td>13481,0</td>
+<td>13591,0</td>
 <td>175,0</td>
 <td>1197,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Шалкар</td>
-<td>13346,0</td>
-<td>175,0</td>
+<td>13989,0</td>
+<td>370,0</td>
 <td>768,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Шетыргыз</td>
-<td>16316,0</td>
+<td>16426,0</td>
 <td>175,0</td>
-<td>753,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Итого</td>
-<td>231575,0</td>
-<td>1950,0</td>
-<td>16551,0</td>
-<td colspan="2">59368,0</td>
+<td>237794,3</td>
+<td>3032,0</td>
+<td>4863,0</td>
+<td colspan="2">136800,0</td>
 </tr>
 </table>

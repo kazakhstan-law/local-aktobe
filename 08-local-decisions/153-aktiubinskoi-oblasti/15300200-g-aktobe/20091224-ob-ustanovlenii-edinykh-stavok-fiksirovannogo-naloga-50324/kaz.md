@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50324/kaz/27.04.2011
+source: https://zan.gov.kz/client/#!/doc/50324/kaz/26.04.2017
 ---
 
 # Тіркелген салықтың бірыңғай мөлшерлемелерін белгілеу туралы

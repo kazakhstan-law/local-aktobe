@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50324/rus/27.04.2011
+source: https://zan.gov.kz/client/#!/doc/50324/rus/26.04.2017
 ---
 
 # Об установлении единых ставок фиксированного налога

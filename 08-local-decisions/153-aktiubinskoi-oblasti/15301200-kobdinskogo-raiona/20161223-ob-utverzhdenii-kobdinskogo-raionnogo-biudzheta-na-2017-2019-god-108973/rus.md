@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108973/rus/13.03.2017
+source: https://zan.gov.kz/client/#!/doc/108973/rus/19.06.2017
 ---
 
 # Об утверждении бюджета Хобдинского района на 2017-2019 годы

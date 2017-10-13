@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
+source: https://zan.gov.kz/client/#!/doc/109252/kaz/13.10.2017
 ---
 
 > *Алға аудандық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 
 # 2017 жылға арналған аудандық бюджетке қала және ауылдық округ әкімі аппараттарының бюджеттік бағдарламаларының тізбесі
 
-> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Алға аудандық мәслихатының 06.09.2017 № 111 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Алға аудандық мәслихатының 13.10.2017 № 122 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -25,9 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Алға</td>
-<td>24 061</td>
+<td>26 775</td>
 <td></td>
-<td>241 051,7</td>
+<td>191 251,7</td>
 <td></td>
 <td>50 000</td>
 <td>600</td>
@@ -35,19 +35,19 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Бестамақ</td>
-<td>13 489</td>
+<td>15 935</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>2 150</td>
-<td>2 908</td>
+<td>2 011</td>
+<td>1 635</td>
 </tr>
 <tr>
 <td>Бесқоспа</td>
-<td>13 362</td>
+<td>15 532</td>
 <td></td>
-<td></td>
+<td>220</td>
 <td>1 800</td>
 <td></td>
 <td></td>
@@ -55,9 +55,9 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Ақай</td>
-<td>9 903</td>
+<td>11 420</td>
 <td>790</td>
-<td></td>
+<td>220</td>
 <td>1 900</td>
 <td></td>
 <td></td>
@@ -65,49 +65,49 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Қарағаш</td>
-<td>12 311</td>
-<td></td>
-<td></td>
-<td>1 200</td>
+<td>13 930</td>
+<td>200</td>
+<td>220</td>
+<td>1 400</td>
 <td></td>
 <td>1 860</td>
 <td>1 322</td>
 </tr>
 <tr>
 <td>Қарахобда</td>
-<td>11 886</td>
+<td>14 560</td>
 <td>750</td>
+<td>220</td>
+<td>782,2</td>
 <td></td>
-<td>1 100</td>
-<td></td>
-<td></td>
+<td>300</td>
 <td>100</td>
 </tr>
 <tr>
 <td>Қарабұлақ</td>
-<td>11 012</td>
+<td>10 672</td>
 <td></td>
-<td></td>
-<td>2 600</td>
+<td>220</td>
+<td>2 321,5</td>
 <td></td>
 <td>360</td>
 <td>0</td>
 </tr>
 <tr>
 <td>Маржанбұлақ</td>
-<td>13 999</td>
+<td>15 257</td>
 <td>3 200</td>
+<td>220</td>
+<td>1 083,9</td>
 <td></td>
-<td>1 100</td>
-<td></td>
-<td>300</td>
-<td>1 855</td>
+<td>795</td>
+<td>1 109</td>
 </tr>
 <tr>
 <td>Сарыхобда</td>
-<td>10 063</td>
+<td>11 141</td>
 <td>850</td>
-<td></td>
+<td>220</td>
 <td>400</td>
 <td></td>
 <td>480</td>
@@ -115,9 +115,9 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Тамды</td>
-<td>13 503</td>
+<td>14 639</td>
 <td></td>
-<td></td>
+<td>220</td>
 <td>1 500</td>
 <td></td>
 <td>250</td>
@@ -125,19 +125,19 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Тоқмансай</td>
-<td>11 457</td>
+<td>12 770</td>
 <td></td>
-<td></td>
-<td>1 900</td>
+<td>220</td>
+<td>1 695</td>
 <td></td>
 <td></td>
 <td>1 411</td>
 </tr>
 <tr>
 <td>Үшқұдық</td>
-<td>10 216</td>
+<td>12 217</td>
 <td></td>
-<td></td>
+<td>370</td>
 <td>1 600</td>
 <td></td>
 <td>300</td>
@@ -145,22 +145,22 @@ source: https://zan.gov.kz/client/#!/doc/109252/kaz/06.09.2017
 </tr>
 <tr>
 <td>Қарақұдық</td>
-<td>11 694</td>
+<td>13 103</td>
 <td></td>
-<td></td>
-<td>1 400</td>
+<td>220</td>
+<td>1 600</td>
 <td></td>
 <td></td>
 <td>1 595</td>
 </tr>
 <tr>
 <td>Барлығы</td>
-<td>167 226</td>
-<td>5 590</td>
-<td>241 051,7</td>
-<td>16 500</td>
+<td>187 951</td>
+<td>5 790</td>
+<td>193 821,7</td>
+<td>16 082,6</td>
 <td>50 000</td>
-<td>6 300</td>
-<td>14 968</td>
+<td>6 956</td>
+<td>12 949</td>
 </tr>
 </table>

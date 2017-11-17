@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
+source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 ---
 
 > *Аудандық мәслихаттың*  
@@ -1654,11 +1654,12 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 
 > *Аудандық мәслихаттың*  
 > *2016 жылғы 23 желтоқсандағы*  
-> *№ 60 шешіміне № 5 қосымша*
+> *№ 60 шешіміне*  
+> *№ 5 қосымша*
 
 # Ауылдық округтер әкімдері аппараттарының 2017 жылғы бюджеттік бағдарламалары бойынша қаржыландыру көлемі
 
-> *Ескерту. 5 қосымша жаңа редакцияда - Ақтөбе облысы Ойыл аудандық мәслихатының 20.09.2017 № 121 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда - Ақтөбе облысы Ойыл аудандық мәслихатының 17.11.2017 № 136 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1671,8 +1672,8 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 </tr>
 <tr>
 <td>Қараой ауылдық округі</td>
-<td>10699</td>
-<td colspan="2">318</td>
+<td>11199</td>
+<td colspan="2">417</td>
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
@@ -1680,7 +1681,7 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 <tr>
 <td>Көптоғай ауылдық округі</td>
 <td>14344</td>
-<td colspan="2">318</td>
+<td colspan="2">1077</td>
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
@@ -1688,22 +1689,22 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 <tr>
 <td>Ойыл ауылдық округі</td>
 <td>37403</td>
-<td colspan="2">21704</td>
+<td colspan="2">15962</td>
 <td colspan="3">200</td>
 <td>0</td>
-<td>942</td>
+<td>2942</td>
 </tr>
 <tr>
 <td>Қайынды ауылдық округі</td>
-<td>12173</td>
-<td colspan="2">318</td>
+<td>13194</td>
+<td colspan="2">178</td>
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>Ш.Берсиев атындағы ауылдық округі</td>
-<td>14348</td>
+<td>15471</td>
 <td colspan="2">440</td>
 <td colspan="3">200</td>
 <td>0</td>
@@ -1711,7 +1712,7 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 </tr>
 <tr>
 <td>Саралжын ауылдық округі</td>
-<td>14421</td>
+<td>14851</td>
 <td colspan="2">376</td>
 <td colspan="3">200</td>
 <td>0</td>
@@ -1719,7 +1720,7 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 </tr>
 <tr>
 <td>Сарбие ауылдық округі</td>
-<td>12569</td>
+<td>12804</td>
 <td colspan="2">318</td>
 <td colspan="3">200</td>
 <td>0</td>
@@ -1727,11 +1728,11 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 </tr>
 <tr>
 <td>Барлығы</td>
-<td>115957</td>
-<td colspan="2">23792</td>
+<td>119266</td>
+<td colspan="2">18768</td>
 <td colspan="3">1400</td>
 <td>0</td>
-<td>942</td>
+<td>2942</td>
 </tr>
 </table>
 
@@ -1741,55 +1742,55 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/20.09.2017
 <tr>
 <td>022 «Мемлекеттік органның күрделі шығыстары»</td>
 <td>040 ««Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру»</td>
-<td colspan="2">045 «Елді- мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу»</td>
+<td colspan="2">045 «Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу»</td>
 <td colspan="3">Барлығы</td>
 </tr>
 <tr>
-<td>3862</td>
+<td>0</td>
 <td>0</td>
 <td colspan="2">0</td>
-<td colspan="3">15079</td>
+<td colspan="3">11816</td>
 </tr>
 <tr>
-<td>3862</td>
+<td>0</td>
 <td>0</td>
 <td colspan="2">0</td>
-<td colspan="3">18724</td>
+<td colspan="3">15621</td>
 </tr>
 <tr>
 <td>667</td>
-<td>6326</td>
+<td>6 326</td>
 <td colspan="2">53919</td>
-<td colspan="3">121161</td>
+<td colspan="3">117419</td>
 </tr>
 <tr>
-<td>3860</td>
+<td>0</td>
 <td>0</td>
 <td colspan="2">0</td>
-<td colspan="3">16551</td>
+<td colspan="3">13572</td>
 </tr>
 <tr>
-<td>3862</td>
+<td>0</td>
 <td>2501</td>
 <td colspan="2">0</td>
-<td colspan="3">21351</td>
+<td colspan="3">18612</td>
 </tr>
 <tr>
-<td>3862</td>
+<td>45,3</td>
 <td>0</td>
 <td colspan="2">0</td>
-<td colspan="3">18859</td>
+<td colspan="3">15372,3</td>
 </tr>
 <tr>
-<td>3862</td>
+<td>0</td>
 <td>0</td>
 <td colspan="2">0</td>
-<td colspan="3">16949</td>
+<td colspan="3">13322</td>
 </tr>
 <tr>
-<td>23837</td>
+<td>712,3</td>
 <td>8827</td>
 <td colspan="2">53919</td>
-<td colspan="3">228674</td>
+<td colspan="3">205734,3</td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108919/kaz/15.11.2017
+source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 ---
 
 > *Шалқар аудандық мәслихатының*  
@@ -1520,128 +1520,145 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/15.11.2017
 
 # Шалқар қаласы және ауылдық округтердің әкімі аппараттары бойынша 2017 жылға арналған бюджеттік бағдарламаларының қаржыландыру көлемі
 
-> *Ескерту. 6 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 15.11.2017 № 141 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 28.11.2017 № 145 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 (мың теңге)
 
 <table>
 <tr>
 <td colspan="2">Қала және ауылдық округтердің атауы</td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл,ауыл дық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>Аудандық маңызы бар қаланың, кенттің, ауылдың, ауылдық округтің мемлекеттік тұрғын үй қорының сақталуын ұйымдас тыру</td>
+<td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономика лық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td colspan="2">Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">123 001 000</td>
-<td colspan="2">123 022 000</td>
-<td colspan="2">123 040 000</td>
-<td colspan="2">123 045 000</td>
+<td colspan="2">123001000</td>
+<td colspan="2">123 022000</td>
+<td>123007000</td>
+<td>123040000</td>
+<td colspan="2">123045000</td>
 </tr>
 <tr>
 <td colspan="2">Шалқар қаласы</td>
-<td colspan="2">43882,0</td>
+<td colspan="2">43793,0</td>
 <td colspan="2">562,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">158460,7</td>
 </tr>
 <tr>
 <td colspan="2">ауылдық округтер</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Айшуақ</td>
-<td colspan="2">16102,0</td>
+<td colspan="2">16085,0</td>
 <td colspan="2">510,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Ақтоғай</td>
-<td colspan="2">17075,0</td>
+<td colspan="2">17051,0</td>
 <td colspan="2">288,0</td>
-<td colspan="2">732,2</td>
+<td></td>
+<td>732,2</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Біршоғыр</td>
-<td colspan="2">17134,0</td>
+<td colspan="2">17098,0</td>
 <td colspan="2">250,0</td>
-<td colspan="2">2078,0</td>
+<td></td>
+<td>1854,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Бозой</td>
-<td colspan="2">18241,0</td>
+<td colspan="2">18224,0</td>
 <td colspan="2">245,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Есет Көтібарұлы</td>
-<td colspan="2">17442,0</td>
+<td colspan="2">17430,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2"></td>
+<td>709,0</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Жанақоныс</td>
-<td colspan="2">13417,0</td>
+<td colspan="2">13396,0</td>
 <td colspan="2">127,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Қауылжыр</td>
-<td colspan="2">20598,0</td>
+<td colspan="2">20580,0</td>
 <td colspan="2">175,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Кішіқұм</td>
-<td colspan="2">18787,0</td>
+<td colspan="2">18979,0</td>
 <td colspan="2">325,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Мөңке би</td>
-<td colspan="2">18198,3</td>
+<td colspan="2">18190,3</td>
 <td colspan="2">725,0</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Тоғыз</td>
-<td colspan="2">13814,0</td>
+<td colspan="2">13799,0</td>
 <td colspan="2">301,0</td>
-<td colspan="2">1069,0</td>
+<td></td>
+<td>1069,0</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Шалқар</td>
 <td colspan="2">14803,0</td>
 <td colspan="2">340,0</td>
-<td colspan="2">685,7</td>
+<td></td>
+<td>685,7</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Шетырғыз</td>
-<td colspan="2">17364,0</td>
+<td colspan="2">17135,0</td>
 <td colspan="2">379,0</td>
-<td colspan="2"></td>
+<td>1645,2</td>
+<td></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Жиыны</td>
-<td colspan="2">246857,3</td>
+<td colspan="2">246563,3</td>
 <td colspan="2">4402,0</td>
-<td colspan="2">4564,9</td>
+<td>2354,2</td>
+<td>4340,9</td>
 <td colspan="2">158460,7</td>
 </tr>
 </table>

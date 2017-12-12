@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108976/kaz/17.11.2017
+source: https://zan.gov.kz/client/#!/doc/108976/kaz/12.12.2017
 ---
 
 # 2017-2019 жылдарға арналған Ырғыз аудандық бюджеті бекіту туралы

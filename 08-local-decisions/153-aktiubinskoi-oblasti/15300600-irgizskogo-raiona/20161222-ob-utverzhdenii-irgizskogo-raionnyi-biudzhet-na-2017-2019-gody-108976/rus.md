@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/108976/rus/17.11.2017
+source: https://zan.gov.kz/client/#!/doc/108976/rus/12.12.2017
 ---
 
 # Об утверждении Иргизского районный бюджет на 2017-2019 годы

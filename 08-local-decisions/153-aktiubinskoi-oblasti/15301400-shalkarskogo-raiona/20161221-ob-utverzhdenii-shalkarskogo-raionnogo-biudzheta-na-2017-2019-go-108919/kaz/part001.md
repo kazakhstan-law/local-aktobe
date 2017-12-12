@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
+source: https://zan.gov.kz/client/#!/doc/108919/kaz/12.12.2017
 ---
 
 > *Шалқар аудандық мәслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 
 # 2017 жылға арналған Шалқар аудандық бюджеті
 
-> *Ескерту. 1 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 28.11.2017 № 145 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1 қосымша жаңа редакцияда – Ақтөбе облысы Шалқар аудандық мәслихатының 12.12.2017 № 149 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -26,7 +26,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">I. КІРІСТЕР</td>
-<td>7941836,1</td>
+<td>7942899,1</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -250,28 +250,28 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>5251836,1</td>
+<td>5252899,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>5251836,1</td>
+<td>5252899,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>5251836,1</td>
+<td>5252899,1</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="9">II. ШЫҒЫНДАР</td>
-<td>8048729,6</td>
+<td>8049792,6</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -527,7 +527,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Білім беру</td>
-<td>5097026,5</td>
+<td>5098089,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -567,7 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>4282714,5</td>
+<td>4283777,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -575,7 +575,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>4195572,5</td>
+<td>4196635,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -583,7 +583,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="2">Жалпы білім беру</td>
-<td>3887862,5</td>
+<td>3888925,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -982,7 +982,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">026</td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) коммуналдық меншігіндегі жылу жүйелерін қолдануды ұйымдастыру</td>
+<td colspan="2">Ауданның(облыстық маңызы бар қаланың) коммуналдық меншігіндегі жылу жүйелерін қолдануды ұйымдастыру</td>
 <td>3432,1</td>
 </tr>
 <tr>
@@ -1151,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Аудандық (қалалық) кітапханалардың жұмыс істеуі</td>
-<td>83669,0</td>
+<td>83699,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1535,7 +1535,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td>24229,4</td>
+<td>24229,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1583,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td>11588,9</td>
+<td>11588,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1607,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2">455</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>801,0</td>
+<td>800,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1615,7 +1615,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">040</td>
 <td colspan="2">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>801,0</td>
+<td>800,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1639,7 +1639,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Борышқа қызмет көрсету</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1647,7 +1647,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Борышқа қызмет көрсету</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1655,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1663,7 +1663,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/kaz/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="2">Жергілікті атқарушы органдардың облыстық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td colspan="2">15</td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
+source: https://zan.gov.kz/client/#!/doc/108919/rus/12.12.2017
 ---
 
 > *Приложение 1*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 
 # Шалкарский районный бюджет на 2017 год
 
-> *Сноска. Приложение 1 – в редакции решения маслихата Шалкарского района Актюбинской области от 28.11.2017 № 145 (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 1 – в редакции решения маслихата Шалкарского района Актюбинской области от 12.12.2017 № 149 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
@@ -24,7 +24,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">I. ДОХОДЫ</td>
-<td>7941836,1</td>
+<td>7942899,1</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -248,28 +248,28 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5">Поступления трансфертов</td>
-<td>5251836,1</td>
+<td>5252899,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты из вышестоящих органов государственного управления</td>
-<td>5251836,1</td>
+<td>5252899,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="5">Трансферты из областного бюджета</td>
-<td>5251836,1</td>
+<td>5252899,1</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="11">II. ЗАТРАТЫ</td>
-<td>8048729,6</td>
+<td>8049792,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -525,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Образование</td>
-<td>5097026,5</td>
+<td>5098089,5</td>
 </tr>
 <tr>
 <td></td>
@@ -565,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Начальное, основное среднее и общее среднее образование</td>
-<td>4282714,5</td>
+<td>4283777,5</td>
 </tr>
 <tr>
 <td></td>
@@ -573,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td colspan="4">Отдел образования района (города областного значения)</td>
-<td>4195572,5</td>
+<td>4196635,5</td>
 </tr>
 <tr>
 <td></td>
@@ -581,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="4">Общеобразовательное обучение</td>
-<td>3887862,5</td>
+<td>3888925,5</td>
 </tr>
 <tr>
 <td></td>
@@ -885,7 +885,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Жилищное хозяйство</td>
-<td>686516,3</td>
+<td>686516,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1536,7 +1536,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Прочие</td>
-<td>24229,4</td>
+<td>24229,2</td>
 </tr>
 <tr>
 <td></td>
@@ -1584,7 +1584,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Прочие</td>
-<td>11588,9</td>
+<td>11588,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1608,7 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2">455</td>
 <td colspan="2"></td>
 <td colspan="4">Отдел культуры и развития языков района (города областного значения)</td>
-<td>801,0</td>
+<td>800,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1616,7 +1616,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">040</td>
 <td colspan="4">Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов до 2020 года»</td>
-<td>801,0</td>
+<td>800,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1640,7 +1640,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Обслуживание долга</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1648,7 +1648,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Обслуживание долга</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1656,7 +1656,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2">452</td>
 <td colspan="2"></td>
 <td colspan="4">Отдел финансов района (города областного значения)</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1664,7 +1664,7 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="2"></td>
 <td colspan="2">013</td>
 <td colspan="4">Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
-<td>66,2</td>
+<td>66,4</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1919,6 +1919,9 @@ source: https://zan.gov.kz/client/#!/doc/108919/rus/28.11.2017
 <td colspan="3">Свободные остатки бюджетных средств</td>
 <td colspan="2">106893,5</td>
 </tr>
+</table>
+
+<table>
 </table>
 
 > *Приложение 2*  

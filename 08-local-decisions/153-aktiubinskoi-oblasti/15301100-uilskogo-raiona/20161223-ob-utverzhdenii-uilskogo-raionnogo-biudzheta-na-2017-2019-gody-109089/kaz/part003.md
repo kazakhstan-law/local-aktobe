@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
+source: https://zan.gov.kz/client/#!/doc/109089/kaz/12.12.2017
 ---
 
 > *Аудандық мәслихаттың*  
@@ -1652,14 +1652,13 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 </tr>
 </table>
 
-> *Аудандық мәслихаттың*  
-> *2016 жылғы 23 желтоқсандағы*  
-> *№ 60 шешіміне*  
+> *Аудандық мәслихаттың 2016 жылғы*  
+> *23 желтоқсандағы № 60 шешіміне*  
 > *№ 5 қосымша*
 
 # Ауылдық округтер әкімдері аппараттарының 2017 жылғы бюджеттік бағдарламалары бойынша қаржыландыру көлемі
 
-> *Ескерту. 5 қосымша жаңа редакцияда - Ақтөбе облысы Ойыл аудандық мәслихатының 17.11.2017 № 136 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда - Ақтөбе облысы Ойыл аудандық мәслихатының 12.12.2017 № 139 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -1669,6 +1668,10 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">009 «Елді мекендердің санитариясын қамтамасыз ету»</td>
 <td>010 «Жерлеу орындарын күтіп ұстау және туысы жоқ адамдарды жерлеу»</td>
 <td>011 «Елді мекендерді абаттандыру мен көгалдандыру»</td>
+<td colspan="3">022 «Мемлекеттік органның күрделі шығыстары»</td>
+<td colspan="2">040 ««Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру»</td>
+<td colspan="3">045 «Елді- мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу»</td>
+<td colspan="2">Барлығы</td>
 </tr>
 <tr>
 <td>Қараой ауылдық округі</td>
@@ -1677,14 +1680,22 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
+<td colspan="3">0</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="2">11816</td>
 </tr>
 <tr>
 <td>Көптоғай ауылдық округі</td>
 <td>14344</td>
-<td colspan="2">1077</td>
+<td colspan="2">318</td>
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
+<td colspan="3">0</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="2">14862</td>
 </tr>
 <tr>
 <td>Ойыл ауылдық округі</td>
@@ -1693,6 +1704,10 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">200</td>
 <td>0</td>
 <td>2942</td>
+<td colspan="3">667</td>
+<td colspan="2">6326</td>
+<td colspan="3">53919</td>
+<td colspan="2">117419</td>
 </tr>
 <tr>
 <td>Қайынды ауылдық округі</td>
@@ -1701,6 +1716,10 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
+<td colspan="3">0</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="2">13572</td>
 </tr>
 <tr>
 <td>Ш.Берсиев атындағы ауылдық округі</td>
@@ -1709,6 +1728,10 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
+<td colspan="3">0</td>
+<td colspan="2">2501</td>
+<td colspan="3">0</td>
+<td colspan="2">18612</td>
 </tr>
 <tr>
 <td>Саралжын ауылдық округі</td>
@@ -1717,6 +1740,10 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
+<td colspan="3">45,3</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="2">15372,3</td>
 </tr>
 <tr>
 <td>Сарбие ауылдық округі</td>
@@ -1725,72 +1752,21 @@ source: https://zan.gov.kz/client/#!/doc/109089/kaz/17.11.2017
 <td colspan="3">200</td>
 <td>0</td>
 <td>0</td>
+<td colspan="3">0</td>
+<td colspan="2">0</td>
+<td colspan="3">0</td>
+<td colspan="2">13322</td>
 </tr>
 <tr>
 <td>Барлығы</td>
 <td>119266</td>
-<td colspan="2">18768</td>
+<td colspan="2">18009</td>
 <td colspan="3">1400</td>
 <td>0</td>
 <td>2942</td>
-</tr>
-</table>
-
-кестенің жалғасы
-
-<table>
-<tr>
-<td>022 «Мемлекеттік органның күрделі шығыстары»</td>
-<td>040 ««Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру»</td>
-<td colspan="2">045 «Елді-мекендер көшелеріндегі автомобиль жолдарын күрделі және орташа жөндеу»</td>
-<td colspan="3">Барлығы</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="3">11816</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="3">15621</td>
-</tr>
-<tr>
-<td>667</td>
-<td>6 326</td>
-<td colspan="2">53919</td>
-<td colspan="3">117419</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="3">13572</td>
-</tr>
-<tr>
-<td>0</td>
-<td>2501</td>
-<td colspan="2">0</td>
-<td colspan="3">18612</td>
-</tr>
-<tr>
-<td>45,3</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="3">15372,3</td>
-</tr>
-<tr>
-<td>0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="3">13322</td>
-</tr>
-<tr>
-<td>712,3</td>
-<td>8827</td>
-<td colspan="2">53919</td>
-<td colspan="3">205734,3</td>
+<td colspan="3">712,3</td>
+<td colspan="2">8827</td>
+<td colspan="3">53919</td>
+<td colspan="2">204975,3</td>
 </tr>
 </table>

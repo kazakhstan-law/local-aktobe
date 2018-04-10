@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/117611/kaz/02.03.2018
+source: https://zan.gov.kz/client/#!/doc/117611/kaz/10.04.2018
 ---
 
 # 2018 – 2020 жылдарға арналған Темір аудандық бюджетін бекіту туралы

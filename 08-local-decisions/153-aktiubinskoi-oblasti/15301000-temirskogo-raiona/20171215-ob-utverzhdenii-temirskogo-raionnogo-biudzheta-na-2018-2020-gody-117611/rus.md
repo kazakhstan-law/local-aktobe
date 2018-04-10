@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/117611/rus/02.03.2018
+source: https://zan.gov.kz/client/#!/doc/117611/rus/10.04.2018
 ---
 
 # Об утверждении Темирского районного бюджета на 2018-2020 годы

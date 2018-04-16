@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117401/kaz/28.02.2018
+source: https://zan.gov.kz/client/#!/doc/117401/kaz/16.04.2018
 ---
 
 > *Ақтөбе қалалық мәслихатының*  

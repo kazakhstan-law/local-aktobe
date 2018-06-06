@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117456/kaz/02.03.2018
+source: https://zan.gov.kz/client/#!/doc/117456/kaz/06.06.2018
 ---
 
 > *2017 жылғы 12 желтоқсандағы № 119*  

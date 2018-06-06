@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117608/kaz/12.03.2018
+source: https://zan.gov.kz/client/#!/doc/117608/kaz/06.06.2018
 ---
 
 > *Байғанин аудандық мәслихатының*  
@@ -9,126 +9,128 @@ source: https://zan.gov.kz/client/#!/doc/117608/kaz/12.03.2018
 
 # 2018 жылға арналған аудандық бюджетте ауылдық округтер әкімдері аппараттарының бюджеттік бағдарламалары
 
+> *Ескерту. 5 қосымша жаңа редакцияда – Ақтөбе облысы Байғанин аудандық мәслихатының 06.06.2018 № 157 шешімімен (01.01.2018 бастап қолданысқа енгізіледі).*
+
 <table>
 <tr>
-<td rowspan="5">Функционалдық топ</td>
-<td colspan="2" rowspan="5">Кіші функция</td>
-<td colspan="2" rowspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
-<td colspan="2" rowspan="5">Бағдарлама</td>
-<td colspan="4" rowspan="5">Атауы</td>
-<td colspan="2" rowspan="5">Ащы ауылдық округі</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-<tr>
+<td>Функционалдық топ</td>
+<td>Кіші функция</td>
+<td>Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td>Бағдарлама</td>
+<td>Атауы</td>
+<td>Ащы ауылдық округі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">II. ШЫҒЫНДАР</td>
-<td colspan="2">17 666</td>
+<td></td>
+<td></td>
+<td></td>
+<td>II. ШЫҒЫНДАР</td>
+<td>16 154</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">16 110</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>14 598</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">16 110</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>14 598</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">16 110</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>14 598</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">001</td>
-<td colspan="4">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">16 110</td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>14 598</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>0</td>
 </tr>
 <tr>
 <td>07</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">156</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>156</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Елді-мекендерді көркейту</td>
-<td colspan="2">156</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Елді-мекендерді көркейту</td>
+<td>156</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">156</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>156</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td colspan="4">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="2">156</td>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>156</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Басқалар</td>
-<td colspan="2">1 400</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Басқалар</td>
-<td colspan="2">1 400</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="4">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1 400</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">040</td>
-<td colspan="4">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td colspan="2">1 400</td>
+<td></td>
+<td></td>
+<td>040</td>
+<td>Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>1 400</td>
 </tr>
 </table>
 
@@ -137,101 +139,108 @@ source: https://zan.gov.kz/client/#!/doc/117608/kaz/12.03.2018
 <table>
 <tr>
 <td>Жаңажол ауылдық округі</td>
-<td colspan="2">Қопа ауылдық округі</td>
-<td colspan="2">Миялы ауылдық округі</td>
-<td colspan="2">Сартоғай ауылдық округі</td>
-<td colspan="4">Барлығы</td>
+<td>Қопа ауылдық округі</td>
+<td>Миялы ауылдық округі</td>
+<td>Сартоғай ауылдық округі</td>
+<td>Барлығы</td>
 </tr>
 <tr>
-<td>17 397</td>
-<td colspan="2">18 481</td>
-<td colspan="2">19 065</td>
-<td colspan="2">18 998</td>
-<td colspan="4">91 607</td>
+<td>16 346</td>
+<td>16 969</td>
+<td>17 775</td>
+<td>17 531</td>
+<td>84 775</td>
 </tr>
 <tr>
-<td>16 097</td>
-<td colspan="2">16 789</td>
-<td colspan="2">18 016</td>
-<td colspan="2">16 728</td>
-<td colspan="4">83 740</td>
+<td>15 046</td>
+<td>15 277</td>
+<td>16 726</td>
+<td>15 261</td>
+<td>76 908</td>
 </tr>
 <tr>
-<td>16 097</td>
-<td colspan="2">16 789</td>
-<td colspan="2">18 016</td>
-<td colspan="2">16 728</td>
-<td colspan="4">83 740</td>
+<td>15 046</td>
+<td>15 277</td>
+<td>16 726</td>
+<td>15 261</td>
+<td>76 908</td>
 </tr>
 <tr>
-<td>16 097</td>
-<td colspan="2">16 789</td>
-<td colspan="2">18 016</td>
-<td colspan="2">16 728</td>
-<td colspan="4">83 740</td>
+<td>15 046</td>
+<td>15 277</td>
+<td>16 726</td>
+<td>15 261</td>
+<td>76 908</td>
 </tr>
 <tr>
-<td>16 097</td>
-<td colspan="2">16 789</td>
-<td colspan="2">18 016</td>
-<td colspan="2">16 728</td>
-<td colspan="4">83 740</td>
+<td>14 606</td>
+<td>15 277</td>
+<td>16 726</td>
+<td>15 261</td>
+<td>76 468</td>
 </tr>
 <tr>
-<td>600</td>
-<td colspan="2">492</td>
-<td colspan="2">249</td>
-<td colspan="2">770</td>
-<td colspan="4">2 267</td>
-</tr>
-<tr>
-<td>600</td>
-<td colspan="2">492</td>
-<td colspan="2">249</td>
-<td colspan="2">770</td>
-<td colspan="4">2 267</td>
+<td>440</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>440</td>
 </tr>
 <tr>
 <td>600</td>
-<td colspan="2">492</td>
-<td colspan="2">249</td>
-<td colspan="2">770</td>
-<td colspan="4">2 267</td>
+<td>492</td>
+<td>249</td>
+<td>770</td>
+<td>2 267</td>
 </tr>
 <tr>
 <td>600</td>
-<td colspan="2">492</td>
-<td colspan="2">249</td>
-<td colspan="2">770</td>
-<td colspan="4">2 267</td>
+<td>492</td>
+<td>249</td>
+<td>770</td>
+<td>2 267</td>
+</tr>
+<tr>
+<td>600</td>
+<td>492</td>
+<td>249</td>
+<td>770</td>
+<td>2 267</td>
+</tr>
+<tr>
+<td>600</td>
+<td>492</td>
+<td>249</td>
+<td>770</td>
+<td>2 267</td>
 </tr>
 <tr>
 <td>700</td>
-<td colspan="2">1 200</td>
-<td colspan="2">800</td>
-<td colspan="2">1 500</td>
-<td colspan="4">5 600</td>
+<td>1 200</td>
+<td>800</td>
+<td>1 500</td>
+<td>5 600</td>
 </tr>
 <tr>
 <td>700</td>
-<td colspan="2">1 200</td>
-<td colspan="2">800</td>
-<td colspan="2">1 500</td>
-<td colspan="4">5 600</td>
+<td>1 200</td>
+<td>800</td>
+<td>1 500</td>
+<td>5 600</td>
 </tr>
 <tr>
 <td>700</td>
-<td colspan="2">1 200</td>
-<td colspan="2">800</td>
-<td colspan="2">1 500</td>
-<td colspan="4">5 600</td>
+<td>1 200</td>
+<td>800</td>
+<td>1 500</td>
+<td>5 600</td>
 </tr>
 <tr>
 <td>700</td>
-<td colspan="2">1 200</td>
-<td colspan="2">800</td>
-<td colspan="2">1 500</td>
-<td colspan="4">5 600</td>
+<td>1 200</td>
+<td>800</td>
+<td>1 500</td>
+<td>5 600</td>
 </tr>
 </table>
 

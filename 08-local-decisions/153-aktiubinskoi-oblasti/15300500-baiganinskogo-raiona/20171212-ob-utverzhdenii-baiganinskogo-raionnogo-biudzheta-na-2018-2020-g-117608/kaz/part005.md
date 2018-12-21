@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117608/kaz/26.11.2018
+source: https://zan.gov.kz/client/#!/doc/117608/kaz/21.12.2018
 ---
 
 > *Байғанин аудандық мәслихатының 2017 жылғы*  

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71350/kaz/30.11.2018
+source: https://zan.gov.kz/client/#!/doc/71350/kaz/08.05.2019
 ---
 
 # Алға ауданы аумағында сайлау учаскелерін құру туралы

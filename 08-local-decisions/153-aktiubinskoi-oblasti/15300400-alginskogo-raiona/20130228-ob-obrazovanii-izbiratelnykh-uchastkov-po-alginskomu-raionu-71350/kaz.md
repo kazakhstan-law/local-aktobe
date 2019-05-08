@@ -1,5 +1,5 @@
 ---
-version_id: '71350_377328'
+version_id: '71350_407599'
 act_code: '71350'
 language: kaz
 title: Алға ауданы аумағында сайлау учаскелерін құру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153004000003'
 approval_date: 2013-02-28
-version_date: 2018-11-30
+version_date: 2019-05-08
 registry_number: '71350'
 caused_by:
-  code: '126545'
+  code: '131780'
   title: Алға ауданы әкімінің 2013 жылғы 28 ақпандағы № 01 «Алға ауданы аумағында сайлау учаскелерін құру туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/126545/kaz
-source: https://zan.gov.kz/client/#!/doc/71350/kaz/30.11.2018
+  link: https://zan.gov.kz/client/#!/doc/131780/kaz
+source: https://zan.gov.kz/client/#!/doc/71350/kaz/08.05.2019
 ---
 
 # Алға ауданы аумағында сайлау учаскелерін құру туралы

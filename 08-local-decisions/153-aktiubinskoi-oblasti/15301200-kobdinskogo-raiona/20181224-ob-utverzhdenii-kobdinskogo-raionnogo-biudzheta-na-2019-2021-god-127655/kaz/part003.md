@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127655/kaz/13.03.2019
+source: https://zan.gov.kz/client/#!/doc/127655/kaz/13.05.2019
 ---
 
 > *2018 жылғы 24 желтоқсандағы № 195*  

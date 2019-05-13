@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127854/kaz/14.03.2019
+source: https://zan.gov.kz/client/#!/doc/127854/kaz/13.05.2019
 ---
 
 > *Мұғалжар аудандық мәслихатының*  

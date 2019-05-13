@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/127854/rus/14.03.2019
+source: https://zan.gov.kz/client/#!/doc/127854/rus/13.05.2019
 ---
 
 > *Приложение 3*  
@@ -1908,7 +1908,7 @@ source: https://zan.gov.kz/client/#!/doc/127854/rus/14.03.2019
 
 # Бюджетные программы аппаратов акимов района в городе, города районного значения, поселка, села, сельского округа на 2019 год
 
-> *Сноска. Приложение 5 – в редакции решения маслихата Мугалжарского района Актюбинской области от 14.03.2019 № 288 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 5 – в редакции решения Мугалжарского районного маслихата Актюбинской области от 13.05.2019 № 314 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
@@ -1916,70 +1916,70 @@ source: https://zan.gov.kz/client/#!/doc/127854/rus/14.03.2019
 <td>наименование городских, сельских округов</td>
 <td colspan="2">001 «Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа»</td>
 <td colspan="2">008 «Освещение улиц населенных пунктов»</td>
-<td colspan="5">009 «Обеспечение санитарии населенных пунктов»</td>
+<td colspan="4">009 «Обеспечение санитарии населенных пунктов»</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Ащесайский сельский округ</td>
-<td colspan="2">11 949,0</td>
-<td colspan="2">2 075,0</td>
-<td colspan="5">-</td>
+<td colspan="2">13 161,0</td>
+<td colspan="2">872,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Егиндыбулакский сельский округ</td>
-<td colspan="2">13 662,0</td>
-<td colspan="2">1 029,0</td>
-<td colspan="5">-</td>
+<td colspan="2">16 605,0</td>
+<td colspan="2">468,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>3</td>
 <td>сельский округ имени К. Жубанова</td>
-<td colspan="2">13 003,0</td>
-<td colspan="2">2 015,0</td>
-<td colspan="5">-</td>
+<td colspan="2">14 496,0</td>
+<td colspan="2">1 738,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Журынский сельский округ</td>
-<td colspan="2">13 024,0</td>
-<td colspan="2">2 500,0</td>
-<td colspan="5">-</td>
+<td colspan="2">14 339,0</td>
+<td colspan="2">2 386,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Каиндинский сельский округ</td>
-<td colspan="2">16 262,0</td>
-<td colspan="2">918,0</td>
-<td colspan="5">-</td>
+<td colspan="2">17 572,0</td>
+<td colspan="2">1 237,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Кумжарганский сельский округ</td>
-<td colspan="2">12 720,0</td>
-<td colspan="2">2 915,0</td>
-<td colspan="5">-</td>
+<td colspan="2">14 033,0</td>
+<td colspan="2">1 871,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Кумсайский сельский округ</td>
-<td colspan="2">12 539,0</td>
-<td colspan="2">1 887,0</td>
-<td colspan="5">-</td>
+<td colspan="2">14 249,0</td>
+<td colspan="2">806,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Талдысайский сельский округ</td>
-<td colspan="2">11 526,0</td>
-<td colspan="2">2 025,0</td>
-<td colspan="5">-</td>
+<td colspan="2">13 260,0</td>
+<td colspan="2">1 200,0</td>
+<td colspan="4">-</td>
 </tr>
 <tr>
 <td></td>
 <td>Итого</td>
-<td colspan="2">104 685,0</td>
-<td colspan="2">15 364,0</td>
-<td colspan="5">-</td>
+<td colspan="2">117 715,0</td>
+<td colspan="2">10 578,0</td>
+<td colspan="4">-</td>
 </tr>
 </table>
 
@@ -1994,67 +1994,67 @@ source: https://zan.gov.kz/client/#!/doc/127854/rus/14.03.2019
 <td>всего (тысяч тенге)</td>
 </tr>
 <tr>
-<td>-</td>
-<td>3 150,0</td>
-<td>51,0</td>
+<td>255,0</td>
+<td>2 400,0</td>
+<td>611,0</td>
 <td>840,0</td>
-<td>18 065,0</td>
+<td>18 139,0</td>
 </tr>
 <tr>
 <td>6 685,0</td>
 <td>2 500,0</td>
-<td>501,0</td>
+<td>781,0</td>
 <td>610,0</td>
-<td>24 987,0</td>
+<td>27 649,0</td>
 </tr>
 <tr>
 <td>-</td>
-<td>2 500,0</td>
+<td>1 904,0</td>
 <td>51,0</td>
 <td>-</td>
-<td>17 569,0</td>
+<td>18 189,0</td>
 </tr>
 <tr>
-<td>-</td>
+<td>300,0</td>
 <td>2 200,0</td>
 <td>301,0</td>
 <td>856,0</td>
-<td>18 881,0</td>
+<td>20 382,0</td>
 </tr>
 <tr>
 <td>-</td>
-<td>1 575,0</td>
-<td>51,0</td>
+<td>1 290,0</td>
+<td>551,0</td>
 <td>1 076,0</td>
-<td>19 882,0</td>
+<td>21 726,0</td>
 </tr>
 <tr>
 <td>-</td>
 <td>1 050,0</td>
 <td>51,0</td>
 <td>1 050,0</td>
-<td>17 786,0</td>
+<td>18 055,0</td>
 </tr>
 <tr>
 <td>-</td>
 <td>2 500,0</td>
 <td>271,0</td>
 <td>806,0</td>
-<td>18 003,0</td>
+<td>18 632,0</td>
 </tr>
 <tr>
 <td>-</td>
-<td>2 450,0</td>
-<td>51,0</td>
+<td>1 750,0</td>
+<td>951,0</td>
 <td>961,0</td>
-<td>17 013,0</td>
+<td>18 122,0</td>
 </tr>
 <tr>
-<td>6 685,0</td>
-<td>17 925,0</td>
-<td>1 328,0</td>
+<td>7 240,0</td>
+<td>15 594,0</td>
+<td>3 568,0</td>
 <td>6 199,0</td>
-<td>152 186,0</td>
+<td>160 894,0</td>
 </tr>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
+source: https://zan.gov.kz/client/#!/doc/127778/kaz/10.06.2019
 ---
 
 > *Алға аудандық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 
 # 2019 жылға арналған Алға аудандық бюджеті
 
-> *Ескерту. 1 қосымша жаңа редакцияда – Ақтөбе облысы Алға аудандық мәслихатының 15.05.2019 № 267 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1 қосымша жаңа редакцияда – Ақтөбе облысы Алға аудандық мәслихатының 10.06.2019 № 277 шешімімен (01.01.2019 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -32,7 +32,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">I. Кірістер</td>
-<td>8081960,6</td>
+<td>7869480,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -249,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="3">Трансферттердің түсімдері</td>
-<td>7244252,6</td>
+<td>7031772,6</td>
 </tr>
 <tr>
 <td></td>
@@ -270,14 +270,14 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="2">02</td>
 <td></td>
 <td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>7241537</td>
+<td>7029057</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="3">Облыстық бюджеттен түсетін трансферттер</td>
-<td>7241537</td>
+<td>7029057</td>
 </tr>
 </table>
 
@@ -304,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td></td>
 <td>II.Шығындар</td>
-<td colspan="2">8084351,4</td>
+<td colspan="2">7871871,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -352,7 +352,15 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td>001</td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">96335</td>
+<td colspan="2">94025</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td>003</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="2">2310</td>
 </tr>
 <tr>
 <td></td>
@@ -752,7 +760,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td></td>
 <td>Әлеуметтік көмек және әлеуметтік қамсыздандыру</td>
-<td colspan="2">1018038</td>
+<td colspan="2">805540</td>
 </tr>
 <tr>
 <td></td>
@@ -760,7 +768,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td></td>
 <td>Әлеуметтік қамсыздандыру</td>
-<td colspan="2">652190</td>
+<td colspan="2">439692</td>
 </tr>
 <tr>
 <td></td>
@@ -768,7 +776,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3">451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td colspan="2">647128</td>
+<td colspan="2">434630</td>
 </tr>
 <tr>
 <td></td>
@@ -776,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td>005</td>
 <td>Мемлекеттік атаулы әлеуметтік көмек</td>
-<td colspan="2">647128</td>
+<td colspan="2">434630</td>
 </tr>
 <tr>
 <td></td>
@@ -928,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">981855,7</td>
+<td colspan="2">981873,7</td>
 </tr>
 <tr>
 <td></td>
@@ -936,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td colspan="2">949665,7</td>
+<td colspan="2">949683,7</td>
 </tr>
 <tr>
 <td></td>
@@ -984,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3">466</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) сәулет, қала құрылысы және құрылыс бөлімі</td>
-<td colspan="2">910576,7</td>
+<td colspan="2">910594,7</td>
 </tr>
 <tr>
 <td></td>
@@ -992,7 +1000,7 @@ source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
 <td colspan="3"></td>
 <td>003</td>
 <td>Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
-<td colspan="2">532047,7</td>
+<td colspan="2">532065,7</td>
 </tr>
 <tr>
 <td></td>

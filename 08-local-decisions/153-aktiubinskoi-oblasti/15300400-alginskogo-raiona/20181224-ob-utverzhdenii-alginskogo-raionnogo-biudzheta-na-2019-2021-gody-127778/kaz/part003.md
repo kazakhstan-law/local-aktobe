@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127778/kaz/15.05.2019
+source: https://zan.gov.kz/client/#!/doc/127778/kaz/10.06.2019
 ---
 
 > *Алға аудандық мәслихатының*  

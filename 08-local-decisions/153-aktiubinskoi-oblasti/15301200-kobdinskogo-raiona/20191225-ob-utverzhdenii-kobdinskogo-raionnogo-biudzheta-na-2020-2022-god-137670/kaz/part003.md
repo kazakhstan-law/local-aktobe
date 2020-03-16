@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137670/kaz/25.12.2019
+source: https://zan.gov.kz/client/#!/doc/137670/kaz/16.03.2020
 ---
 
 > *Қобда аудандық мәслихатының*  

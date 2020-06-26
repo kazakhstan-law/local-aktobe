@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137751/kaz/06.05.2020
+source: https://zan.gov.kz/client/#!/doc/137751/kaz/26.06.2020
 ---
 
 > *Қарғалы аудандық мәслихатының*  

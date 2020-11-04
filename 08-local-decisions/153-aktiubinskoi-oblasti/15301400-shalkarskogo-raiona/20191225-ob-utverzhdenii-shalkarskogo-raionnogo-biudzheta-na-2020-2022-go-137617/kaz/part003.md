@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137617/kaz/14.10.2020
+source: https://zan.gov.kz/client/#!/doc/137617/kaz/04.11.2020
 ---
 
 > *Шалқар аудандық мәслихатының*  

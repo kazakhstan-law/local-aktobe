@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137752/rus/28.10.2020
+source: https://zan.gov.kz/client/#!/doc/137752/rus/08.12.2020
 ---
 
 # Об утверждении Хромтауского районного бюджета на 2020-2022 годы

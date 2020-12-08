@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/137752/kaz/28.10.2020
+source: https://zan.gov.kz/client/#!/doc/137752/kaz/08.12.2020
 ---
 
 # 2020-2022 жылдарға арналған Хромтау ауданының бюджетін бекіту туралы

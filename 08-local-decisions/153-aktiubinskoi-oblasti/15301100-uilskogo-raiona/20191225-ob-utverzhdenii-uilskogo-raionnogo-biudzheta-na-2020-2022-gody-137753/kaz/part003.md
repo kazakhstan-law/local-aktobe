@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137753/kaz/27.10.2020
+source: https://zan.gov.kz/client/#!/doc/137753/kaz/15.12.2020
 ---
 
 > *Ойыл аудандық мәслихатының*  

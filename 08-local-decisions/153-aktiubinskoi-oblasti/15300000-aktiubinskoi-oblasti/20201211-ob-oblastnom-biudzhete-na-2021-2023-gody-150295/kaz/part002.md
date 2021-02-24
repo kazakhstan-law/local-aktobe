@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/150295/kaz/11.12.2020
+source: https://zan.gov.kz/client/#!/doc/150295/kaz/24.02.2021
 ---
 
 > *Облыстық мәслихаттың*  

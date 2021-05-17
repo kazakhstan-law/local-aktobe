@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/56392/rus/01.03.2019
+repealed_on: 2022-01-01
+repealed_by:
+  code: '156063'
+  title: О признании утратившими силу некоторых решений областного маслихата
+  link: https://zan.gov.kz/client/#!/doc/156063/rus
 ---
 
 # О повышении ставок платы за эмиссии в окружающую среду

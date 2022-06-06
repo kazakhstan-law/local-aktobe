@@ -30,17 +30,24 @@ versions:
   cause:
     code: '166025'
     key: G22CA00151M
+- date: 2022-06-06
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '168681'
+    key: G22CA00166M
 version_date:
-  kaz: 2022-04-01
-  rus: 2022-04-01
+  kaz: 2022-06-06
+  rus: 2022-06-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/161975/kaz/01.04.2022
-  rus: https://zan.gov.kz/client/#!/doc/161975/rus/01.04.2022
+  kaz: https://zan.gov.kz/client/#!/doc/161975/kaz/06.06.2022
+  rus: https://zan.gov.kz/client/#!/doc/161975/rus/06.06.2022
 caused_by:
-  code: '166025'
-  key: G22CA00151M
-  requisite: Решение маслихата города Актобе Актюбинской области от 1 апреля 2022 года № 151
+  code: '168681'
+  key: G22CA00166M
+  requisite: Решение маслихата города Актобе Актюбинской области от 6 июня 2022 года № 166
   title:
     rus: О внесении изменений в решение маслихата города Актобе от 15 декабря 2021 года № 113 «Об утверждении бюджета города Актобе на 2022-2024 годы»
     kaz: Ақтөбе қалалық мәслихатының 2021 жылғы 15 желтоқсандағы № 113 «2022-2024 жылдарға арналған Ақтөбе қаласының бюджетін бекіту туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/166025/rus
+  link: https://zan.gov.kz/client/#!/doc/168681/rus

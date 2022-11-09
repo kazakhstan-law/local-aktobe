@@ -44,17 +44,24 @@ versions:
   cause:
     code: '171209'
     key: G22CA00192M
+- date: 2022-11-09
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '173613'
+    key: G22CA00202M
 version_date:
-  kaz: 2022-08-31
-  rus: 2022-08-31
+  kaz: 2022-11-09
+  rus: 2022-11-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/161975/kaz/31.08.2022
-  rus: https://zan.gov.kz/client/#!/doc/161975/rus/31.08.2022
+  kaz: https://zan.gov.kz/client/#!/doc/161975/kaz/09.11.2022
+  rus: https://zan.gov.kz/client/#!/doc/161975/rus/09.11.2022
 caused_by:
-  code: '171209'
-  key: G22CA00192M
-  requisite: Решение маслихата города Актобе Актюбинской области от 31 августа 2022 года № 192
+  code: '173613'
+  key: G22CA00202M
+  requisite: Решение маслихата города Актобе Актюбинской области от 9 ноября 2022 года № 202
   title:
     rus: О внесении изменений в решение маслихата города Актобе от 15 декабря 2021 года № 113 «Об утверждении бюджета города Актобе на 2022-2024 годы»
     kaz: Ақтөбе қалалық мәслихатының 2021 жылғы 15 желтоқсандағы № 113 «2022-2024 жылдарға арналған Ақтөбе қаласының бюджетін бекіту туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/171209/rus
+  link: https://zan.gov.kz/client/#!/doc/173613/rus

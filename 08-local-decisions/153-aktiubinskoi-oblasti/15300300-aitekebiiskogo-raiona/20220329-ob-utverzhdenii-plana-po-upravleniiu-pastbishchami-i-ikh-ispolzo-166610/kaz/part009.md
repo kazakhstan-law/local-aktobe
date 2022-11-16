@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/166610/kaz/29.03.2022
+source: https://zan.gov.kz/client/#!/doc/166610/kaz/16.11.2022
 ---
 
 > *Әйтеке би аудандық мәслихатының*  

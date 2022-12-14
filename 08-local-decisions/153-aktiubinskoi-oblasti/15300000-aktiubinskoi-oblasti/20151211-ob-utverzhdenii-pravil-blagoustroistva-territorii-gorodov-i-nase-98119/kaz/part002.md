@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98119/kaz/17.08.2022
+source: https://zan.gov.kz/client/#!/doc/98119/kaz/14.12.2022
 ---
 
 > *2015 жылғы 11 желтоқсандағы № 349*  

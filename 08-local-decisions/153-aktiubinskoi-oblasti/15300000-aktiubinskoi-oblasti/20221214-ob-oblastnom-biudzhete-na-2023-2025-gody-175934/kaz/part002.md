@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/175934/kaz/14.12.2022
+source: https://zan.gov.kz/client/#!/doc/175934/kaz/28.04.2023
 ---
 
 > *Облыстық мәслихаттың 2022 жылғы*  

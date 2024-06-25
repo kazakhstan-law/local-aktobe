@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
+source: https://zan.gov.kz/client/#!/doc/192430/rus/25.06.2024
 ---
 
 > *Приложение 25 к решению*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 
 # Бюджет Мартукского сельского округа на 2024 год
 
-> *Сноска. Приложение 25 в редакции решений Мартукского районного маслихата Актюбинской области от 13.02.2024 № 97 (вводится в действие с 01.01.2024); от 16.04.2024 № 110 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 25 в редакции решений Мартукского районного маслихата Актюбинской области от 13.02.2024 № 97 (вводится в действие с 01.01.2024); от 16.04.2024 № 110 (вводится в действие с 01.01.2024); от 25.06.2024 № 133 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -20,18 +20,18 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Доходы</td>
-<td>702 515</td>
+<td>681 343</td>
 </tr>
 <tr>
 <td>1</td>
@@ -122,21 +122,21 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>584 007</td>
+<td>562 835</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>584 007</td>
+<td>562 835</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>584 007</td>
+<td>562 835</td>
 </tr>
 </table>
 
@@ -150,12 +150,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -163,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>741 591,9</td>
+<td>720 419,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>270 735,9</td>
+<td>249 563,9</td>
 </tr>
 <tr>
 <td></td>
@@ -275,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>258 767,9</td>
+<td>237 595,9</td>
 </tr>
 <tr>
 <td></td>
@@ -283,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>258 767,9</td>
+<td>237 595,9</td>
 </tr>
 <tr>
 <td></td>
@@ -291,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>120 544</td>
+<td>114 544</td>
 </tr>
 <tr>
 <td></td>
@@ -307,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>121 773,9</td>
+<td>106 601,9</td>
 </tr>
 <tr>
 <td>12</td>
@@ -378,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>048</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
 <td>4 082</td>
 </tr>
 </table>
@@ -393,12 +393,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -419,11 +419,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -458,12 +458,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -508,11 +508,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -547,12 +547,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -581,11 +581,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -625,11 +625,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -748,12 +748,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -927,12 +927,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -953,11 +953,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -992,12 +992,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1042,11 +1042,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -1081,12 +1081,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -1121,11 +1121,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -1286,12 +1286,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1465,12 +1465,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1491,11 +1491,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -1530,12 +1530,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1580,11 +1580,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -1619,12 +1619,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -1661,11 +1661,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -1763,12 +1763,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2014,12 +2014,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2040,11 +2040,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -2079,12 +2079,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2129,11 +2129,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -2168,12 +2168,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -2202,11 +2202,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -2246,11 +2246,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -2341,12 +2341,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2552,12 +2552,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2578,11 +2578,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -2617,12 +2617,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2667,11 +2667,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -2706,12 +2706,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -2746,11 +2746,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -2841,12 +2841,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3052,12 +3052,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3078,11 +3078,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -3117,12 +3117,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3167,11 +3167,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -3206,12 +3206,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -3237,7 +3237,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 
 # Бюджет Сарыжарского сельского округа на 2024 год
 
-> *Сноска. Приложение 31 в редакции решений Мартукского районного маслихата Актюбинской области от 13.02.2024 № 97 (вводится в действие с 01.01.2024); от 16.04.2024 № 110 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 31 в редакции решений Мартукского районного маслихата Актюбинской области от 13.02.2024 № 97 (вводится в действие с 01.01.2024); от 16.04.2024 № 110 (вводится в действие с 01.01.2024); от 25.06.2024 № 133 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -3248,18 +3248,18 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Доходы</td>
-<td>502 212</td>
+<td>497 991</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3343,21 +3343,21 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>483 774</td>
+<td>479 553</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>483 774</td>
+<td>479 553</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>483 774</td>
+<td>479 553</td>
 </tr>
 </table>
 
@@ -3371,12 +3371,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3384,7 +3384,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>504 240,1</td>
+<td>500 019,1</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3504,7 +3504,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>43 436</td>
+<td>39 215</td>
 </tr>
 <tr>
 <td></td>
@@ -3512,7 +3512,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>43 436</td>
+<td>39 215</td>
 </tr>
 <tr>
 <td></td>
@@ -3520,7 +3520,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>43 436</td>
+<td>39 215</td>
 </tr>
 <tr>
 <td></td>
@@ -3528,7 +3528,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>43 436</td>
+<td>39 215</td>
 </tr>
 <tr>
 <td>13</td>
@@ -3567,7 +3567,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>057</td>
-<td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»</td>
+<td>Реализация мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта &quot;Ауыл-Ел бесігі&quot;</td>
 <td>369 678</td>
 </tr>
 <tr>
@@ -3599,7 +3599,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>048</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
 <td>661,2</td>
 </tr>
 </table>
@@ -3614,12 +3614,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3640,11 +3640,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -3679,12 +3679,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -3729,11 +3729,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -3768,12 +3768,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -3802,11 +3802,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -3846,11 +3846,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -3983,12 +3983,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4186,12 +4186,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4212,11 +4212,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -4251,12 +4251,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4301,11 +4301,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -4340,12 +4340,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -4380,11 +4380,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -4517,12 +4517,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4720,12 +4720,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4746,11 +4746,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -4785,12 +4785,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -4835,11 +4835,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -4874,12 +4874,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -4905,7 +4905,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 
 # Бюджет Танирбергенского сельского округа на 2024 год
 
-> *Сноска. Приложение 34 в редакции решений Мартукского районного маслихата Актюбинской области от 13.02.2024 № 97 (вводится в действие с 01.01.2024); от 16.04.2024 № 110 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 34 в редакции решений Мартукского районного маслихата Актюбинской области от 13.02.2024 № 97 (вводится в действие с 01.01.2024); от 16.04.2024 № 110 (вводится в действие с 01.01.2024); от 25.06.2024 № 133 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -4916,18 +4916,18 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Доходы</td>
-<td>75 345</td>
+<td>67 745</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5011,21 +5011,21 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>66 754</td>
+<td>59 154</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>66 754</td>
+<td>59 154</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>66 754</td>
+<td>59 154</td>
 </tr>
 </table>
 
@@ -5039,12 +5039,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5052,7 +5052,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>76 284,1</td>
+<td>68 684,1</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5132,7 +5132,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>9 365</td>
+<td>11 765</td>
 </tr>
 <tr>
 <td></td>
@@ -5140,7 +5140,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>9 365</td>
+<td>11 765</td>
 </tr>
 <tr>
 <td></td>
@@ -5148,7 +5148,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>9 365</td>
+<td>11 765</td>
 </tr>
 <tr>
 <td></td>
@@ -5172,7 +5172,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>5 884</td>
+<td>8 284</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5180,7 +5180,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>31 118,3</td>
+<td>21 118,3</td>
 </tr>
 <tr>
 <td></td>
@@ -5188,7 +5188,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>31 118,3</td>
+<td>21 118,3</td>
 </tr>
 <tr>
 <td></td>
@@ -5196,7 +5196,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>31 118,3</td>
+<td>21 118,3</td>
 </tr>
 <tr>
 <td></td>
@@ -5204,7 +5204,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>24 118,3</td>
+<td>14 118,3</td>
 </tr>
 <tr>
 <td></td>
@@ -5275,7 +5275,7 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td></td>
 <td></td>
 <td>048</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
 <td>2,8</td>
 </tr>
 </table>
@@ -5290,12 +5290,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5316,11 +5316,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -5355,12 +5355,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5405,11 +5405,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -5444,12 +5444,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>
@@ -5478,11 +5478,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>8</td>
@@ -5522,11 +5522,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -5638,12 +5638,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5849,12 +5849,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5875,11 +5875,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -5914,12 +5914,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -5964,11 +5964,11 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>7</td>
@@ -6003,12 +6003,12 @@ source: https://zan.gov.kz/client/#!/doc/192430/rus/16.04.2024
 <td>Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td>16</td>

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/191431/rus/20.08.2024
+source: https://zan.gov.kz/client/#!/doc/191431/rus/30.09.2024
 ---
 
 # Об утверждении Каргалинского районного бюджета на 2024 – 2026 годы

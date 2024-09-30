@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/191431/kaz/20.08.2024
+source: https://zan.gov.kz/client/#!/doc/191431/kaz/30.09.2024
 ---
 
 # 2024-2026 жылдарға арналған Қарғалы аудандық бюджетін бекіту туралы

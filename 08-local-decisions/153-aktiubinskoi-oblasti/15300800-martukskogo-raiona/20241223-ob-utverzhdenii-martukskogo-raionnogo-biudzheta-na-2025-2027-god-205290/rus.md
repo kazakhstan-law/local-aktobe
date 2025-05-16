@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205290/rus/25.04.2025
+source: https://zan.gov.kz/client/#!/doc/205290/rus/16.05.2025
 ---
 
 # Об утверждении Мартукского районного бюджета на 2025-2027 годы

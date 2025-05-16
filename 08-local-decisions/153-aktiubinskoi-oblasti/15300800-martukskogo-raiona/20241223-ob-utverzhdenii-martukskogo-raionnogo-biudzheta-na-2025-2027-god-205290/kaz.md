@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/205290/kaz/25.04.2025
+source: https://zan.gov.kz/client/#!/doc/205290/kaz/16.05.2025
 ---
 
 # 2025-2027 жылдарға арналған Мәртөк аудандық бюджетін бекіту туралы

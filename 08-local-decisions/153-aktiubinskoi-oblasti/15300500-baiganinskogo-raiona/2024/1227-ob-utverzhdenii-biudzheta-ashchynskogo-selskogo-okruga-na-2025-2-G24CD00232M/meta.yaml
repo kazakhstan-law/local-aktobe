@@ -24,17 +24,24 @@ versions:
   cause:
     code: '207170'
     key: G25CD00245M
+- date: 2025-06-02
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '211138'
+    key: G25CD00272M
 version_date:
-  kaz: 2025-02-13
-  rus: 2025-02-13
+  kaz: 2025-06-02
+  rus: 2025-06-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/205829/kaz/13.02.2025
-  rus: https://zan.gov.kz/client/#!/doc/205829/rus/13.02.2025
+  kaz: https://zan.gov.kz/client/#!/doc/205829/kaz/02.06.2025
+  rus: https://zan.gov.kz/client/#!/doc/205829/rus/02.06.2025
 caused_by:
-  code: '207170'
-  key: G25CD00245M
-  requisite: Решение Байганинского районного маслихата Актюбинской области от 13 февраля 2025 года № 245
+  code: '211138'
+  key: G25CD00272M
+  requisite: Решение Байганинского районного маслихата Актюбинской области от 2 июня 2025 года № 272
   title:
     rus: О внесении изменения в решение «Об утверждении бюджета Ащынского сельского округа на 2025-2027 годы» от 27 декабря 2024 года № 232
     kaz: «2025-2027 жылдарға арналған Ащы ауылдық округінің бюджетін бекіту туралы» 2024 жылғы 27 желтоқсандағы № 232 шешіміне өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/207170/rus
+  link: https://zan.gov.kz/client/#!/doc/211138/rus

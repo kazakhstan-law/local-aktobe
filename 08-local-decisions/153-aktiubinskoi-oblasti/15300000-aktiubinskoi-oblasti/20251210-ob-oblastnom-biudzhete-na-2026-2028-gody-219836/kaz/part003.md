@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/219836/kaz/10.12.2025
+source: https://zan.gov.kz/client/#!/doc/219836/kaz/30.01.2026
 ---
 
 > *Облыстық мәслихаттың 2025 жылғы*  

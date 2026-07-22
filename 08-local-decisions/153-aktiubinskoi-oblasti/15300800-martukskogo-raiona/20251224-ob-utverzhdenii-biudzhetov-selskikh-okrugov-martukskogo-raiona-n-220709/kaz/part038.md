@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/220709/kaz/05.05.2026
+source: https://zan.gov.kz/client/#!/doc/220709/kaz/22.07.2026
 ---
 
 > *Мәртөк аудандық мәслихатының*  
